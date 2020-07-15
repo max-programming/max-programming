@@ -15,13 +15,15 @@
     <li> 🏏 Playing Cricket</li>
     </ul>
   
-  If you wanna contact me, I am on <br>
-    🐤 Twitter: https://twitter.com/MaxProgramming1 <br>
-    📘 Facebook: https://www.facebook.com/usman.sabuwala.7 <br>
-    📷 Instagram: https://www.instagram.com/usmansabuwala7/ <br>
-    📨 Email: <a href="mailto: maxprogramming05@gmail.com">Send Email</a> <br>
-    ▶ YouTube: https://youtube.com/MaxProgramming/ <br>
-    🤖 Discord: Max Programming#7291 <br>
+  If you wanna contact me, I am on 
+  <ul type="square">
+  <li>🐤 Twitter: https://twitter.com/MaxProgramming1 </li>
+    <li>📘 Facebook: https://www.facebook.com/usman.sabuwala.7 </li>
+    <li>📷 Instagram: https://www.instagram.com/usmansabuwala7/ </li>
+    <li>📨 Email: <a href="mailto: maxprogramming05@gmail.com">Send Email</a> </li>
+    <li>▶ YouTube: https://youtube.com/MaxProgramming/ </li>
+    <li>🤖 Discord: Max Programming#7291 </li>
+  </ul>
   
   ## Current Status
   Currently studying as I am in 10th grade. Coding on Sundays 🌞
