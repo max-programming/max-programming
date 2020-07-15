@@ -7,11 +7,21 @@
   I love 🏏 in sports.
   I also run a YouTube channel with 200+ subscribers (currently)
   
+  My interests:
+    <ul>
+    <li> 🌐 Web Development</li>
+    <li> ▶ Teach people on YouTube</li>
+    <li> ⌨ Programming</li>
+    <li> 🏏 Playing Cricket</li>
+    </ul>
+  
   If you wanna contact me, I am on <br>
     🐤 Twitter: https://twitter.com/MaxProgramming1 <br>
     📘 Facebook: https://www.facebook.com/usman.sabuwala.7 <br>
     📷 Instagram: https://www.instagram.com/usmansabuwala7/ <br>
     📨 Email: <a href="mailto: maxprogramming05@gmail.com">Send Email</a> <br>
+    ▶ YouTube: https://youtube.com/MaxProgramming/ <br>
     🤖 Discord: Max Programming#7291 <br>
-     ▶ YouTube: https://youtube.com/MaxProgramming/
   
+  ## Current Status
+  Currently studying as I am in 10th grade. Coding on Sundays 🌞
