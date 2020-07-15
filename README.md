@@ -12,6 +12,6 @@
     📘 Facebook: https://www.facebook.com/usman.sabuwala.7 <br>
     📷 Instagram: https://www.instagram.com/usmansabuwala7/ <br>
     📨 Email: <a href="mailto: maxprogramming05@gmail.com">Send Email</a> <br>
-    🤖 Discord: Max Programming#7291
+    🤖 Discord: Max Programming#7291 <br>
      ▶ YouTube: https://youtube.com/MaxProgramming/
   
