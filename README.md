@@ -26,7 +26,7 @@
 <a href="https://twitter.com/maxprogramming1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maxprogramming1" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/11727541" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="11727541" height="30" width="30" /></a>
 <a href="https://codesandbox.com/max-programming" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="max-programming" height="30" width="30" /></a>
-<a href="https://fb.com/usman sabuwala" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="usman sabuwala" height="30" width="30" /></a>
+<a href="https://fb.com/usman.sabuwala.7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="usman sabuwala" height="30" width="30" /></a>
 <a href="https://instagram.com/usmansabuwala7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="usmansabuwala7" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/max programming" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="max programming" height="30" width="30" /></a>
 </p>
