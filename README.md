@@ -20,6 +20,12 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=max-programming&layout=compact&hide=html" alt="max-programming" /></p>
 <!--START_SECTION:activity-->
+1. ❌ Closed PR [#1](https://github.com//donnellan0007/ContextJS/pull/1) in [donnellan0007/ContextJS](https://github.com//donnellan0007/ContextJS)
+2. 🗣 Commented on [#1](https://github.com//donnellan0007/ContextJS/issues/1) in [donnellan0007/ContextJS](https://github.com//donnellan0007/ContextJS)
+3. 💪 Opened PR [#1](https://github.com//donnellan0007/ContextJS/pull/1) in [donnellan0007/ContextJS](https://github.com//donnellan0007/ContextJS)
+4. ❗️ Opened issue [#3](https://github.com//codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
+5. ❗️ Opened issue [#5546](https://github.com//badges/shields/issues/5546) in [badges/shields](https://github.com//badges/shields)
+<!--END_SECTION:activity-->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=max-programming&show_icons=true" alt="max-programming" /></p>
 
 <p align="center">
