@@ -1,3 +1,4 @@
+<h2 align="center">👋 Hii! My name is Usman</h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/MaxProgramming1?color=1DA1F2&logo=Twitter&style=for-the-badge)
