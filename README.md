@@ -55,7 +55,7 @@
 </p>
 <br />
 <br />
-<details>
+
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
@@ -65,7 +65,7 @@
 4. 💪 Opened PR [#1](https://github.com//donnellan0007/ContextJS/pull/1) in [donnellan0007/ContextJS](https://github.com//donnellan0007/ContextJS)
 5. ❗️ Opened issue [#3](https://github.com//codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
-</details>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.max-programming.vercel.app/api?username=max-programming&show_icons=true&theme=onedark" alt="max-programming" /></p>
 
