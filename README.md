@@ -33,6 +33,13 @@
   <a href="https://www.instagram.com/usmansabuwala7/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://twitter.com/MaxProgramming1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
+<p align="center">
+ 💻 My setup <br>
+  <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/intel-core%20i3%203rd-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
+  <img src="https://img.shields.io/badge/intel-core%20i3%203rd-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+</p>
 <br />
 <br />
 <details>
