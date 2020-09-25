@@ -3,7 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/MaxProgramming1?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-- 🔭 I’m currently working on [A Microsoft Todo clone in React](https://github.com/max-programming/microsoft-todo-clone)
+- 🔭 I’m currently working on [A Microsoft Todo clone](https://github.com/max-programming/microsoft-todo-clone)
 
 - 🌱 I’m currently learning **React.js, Vue.js, Backend with Node and Express**
 
