@@ -45,11 +45,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//donnellan0007/ContextJS/pull/1) in [donnellan0007/ContextJS](https://github.com//donnellan0007/ContextJS)
-2. 🗣 Commented on [#1](https://github.com//donnellan0007/ContextJS/issues/1) in [donnellan0007/ContextJS](https://github.com//donnellan0007/ContextJS)
-3. 💪 Opened PR [#1](https://github.com//donnellan0007/ContextJS/pull/1) in [donnellan0007/ContextJS](https://github.com//donnellan0007/ContextJS)
-4. ❗️ Opened issue [#3](https://github.com//codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
-5. ❗️ Opened issue [#5546](https://github.com//badges/shields/issues/5546) in [badges/shields](https://github.com//badges/shields)
+1. 💪 Opened PR [#7](https://github.com//alexandresanlim/Badges4-README.md-Profile/pull/7) in [alexandresanlim/Badges4-README.md-Profile](https://github.com//alexandresanlim/Badges4-README.md-Profile)
+2. ❌ Closed PR [#1](https://github.com//donnellan0007/ContextJS/pull/1) in [donnellan0007/ContextJS](https://github.com//donnellan0007/ContextJS)
+3. 🗣 Commented on [#1](https://github.com//donnellan0007/ContextJS/issues/1) in [donnellan0007/ContextJS](https://github.com//donnellan0007/ContextJS)
+4. 💪 Opened PR [#1](https://github.com//donnellan0007/ContextJS/pull/1) in [donnellan0007/ContextJS](https://github.com//donnellan0007/ContextJS)
+5. ❗️ Opened issue [#3](https://github.com//codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com//codeSTACKr/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
 </details>
 
