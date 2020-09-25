@@ -34,7 +34,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.max-programming.vercel.app/api?username=max-programming&show_icons=true&theme=onedark" alt="max-programming" /></p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=max-programming&layout=compact&hide=html&theme=onedark" alt="max-programming" /></p> -->
+<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=max-programming&layout=compact&hide=html&theme=onedark" alt="max-programming" /></p> 
 
 
 <p align="center">
