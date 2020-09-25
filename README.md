@@ -32,9 +32,10 @@
 <!--END_SECTION:activity-->
 </details>
 
-<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=max-programming&layout=compact&hide=html&theme=onedark" alt="max-programming" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.max-programming.vercel.app/api?username=max-programming&show_icons=true&theme=onedark" alt="max-programming" /></p>
+
+<!-- <p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=max-programming&layout=compact&hide=html&theme=onedark" alt="max-programming" /></p> -->
+
 
 <p align="center">
 <a href="https://twitter.com/maxprogramming1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maxprogramming1" height="30" width="30" /></a>
