@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/max-programming](https://github.com/max-programming)
 
-- 📝 I regulary write articles on [https://bit.ly/blog-here](https://bit.ly/blog-here)
+- 📝 I write articles on [https://bit.ly/blog-here](https://bit.ly/blog-here)
 
 - 💬 Ask me about **React, Basic Vue, JavaScript**
 
