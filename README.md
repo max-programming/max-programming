@@ -37,7 +37,6 @@
  💻 My setup <br>
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/intel-core%20i3%203rd-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
-  <img src="https://img.shields.io/badge/intel-core%20i3%203rd-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 <br />
