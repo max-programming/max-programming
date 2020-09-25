@@ -53,6 +53,14 @@
   <img src="https://img.shields.io/badge/intel-core%20i3%203rd-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
   <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
+<p align="center">
+ 💻 My apps <br>
+  🌐 Web browser: <img src="https://img.shields.io/badge/microsoft edge-0078D6?logo=microsoft-edge&logoColor=white&style=for-the-badge&color=31BAE4">
+  <br>
+  👨‍💻 Code editor: <img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1">
+  <br>
+  📹 Video editor: <img src="https://img.shields.io/badge/shotcut-0078D6?logoColor=white&style=for-the-badge&color=115C77">
+</p>
 <br />
 <br />
 
