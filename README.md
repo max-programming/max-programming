@@ -45,7 +45,7 @@
 
 <p align="center">
   I am at: <br>
-  <a href="https://youtube.com/MaxProgrmming"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://youtube.com/MaxProgramming"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://www.facebook.com/usman.sabuwala.7"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/usmansabuwala7/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://twitter.com/MaxProgramming1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
