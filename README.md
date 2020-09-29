@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3593](https://github.com/simple-icons/simple-icons/issues/3593) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 💪 Opened PR [#7](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/7) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-3. ❌ Closed PR [#1](https://github.com/donnellan0007/ContextJS/pull/1) in [donnellan0007/ContextJS](https://github.com/donnellan0007/ContextJS)
-4. 🗣 Commented on [#1](https://github.com/donnellan0007/ContextJS/issues/1) in [donnellan0007/ContextJS](https://github.com/donnellan0007/ContextJS)
-5. 💪 Opened PR [#1](https://github.com/donnellan0007/ContextJS/pull/1) in [donnellan0007/ContextJS](https://github.com/donnellan0007/ContextJS)
+1. ❗️ Opened issue [#24](https://github.com/DennisvHest/vscode-npm-browser/issues/24) in [DennisvHest/vscode-npm-browser](https://github.com/DennisvHest/vscode-npm-browser)
+2. ❗️ Opened issue [#3593](https://github.com/simple-icons/simple-icons/issues/3593) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 💪 Opened PR [#7](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/7) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+4. ❌ Closed PR [#1](https://github.com/donnellan0007/ContextJS/pull/1) in [donnellan0007/ContextJS](https://github.com/donnellan0007/ContextJS)
+5. 🗣 Commented on [#1](https://github.com/donnellan0007/ContextJS/issues/1) in [donnellan0007/ContextJS](https://github.com/donnellan0007/ContextJS)
 <!--END_SECTION:activity-->
 
 
