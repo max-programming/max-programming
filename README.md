@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#24](https://github.com/DennisvHest/vscode-npm-browser/issues/24) in [DennisvHest/vscode-npm-browser](https://github.com/DennisvHest/vscode-npm-browser)
-2. 🗣 Commented on [#24](https://github.com/DennisvHest/vscode-npm-browser/issues/24) in [DennisvHest/vscode-npm-browser](https://github.com/DennisvHest/vscode-npm-browser)
-3. ❗️ Opened issue [#24](https://github.com/DennisvHest/vscode-npm-browser/issues/24) in [DennisvHest/vscode-npm-browser](https://github.com/DennisvHest/vscode-npm-browser)
-4. ❗️ Opened issue [#3593](https://github.com/simple-icons/simple-icons/issues/3593) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-5. 💪 Opened PR [#7](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/7) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+1. ❗️ Opened issue [#25698](https://github.com/electron/electron/issues/25698) in [electron/electron](https://github.com/electron/electron)
+2. ❗️ Closed issue [#24](https://github.com/DennisvHest/vscode-npm-browser/issues/24) in [DennisvHest/vscode-npm-browser](https://github.com/DennisvHest/vscode-npm-browser)
+3. 🗣 Commented on [#24](https://github.com/DennisvHest/vscode-npm-browser/issues/24) in [DennisvHest/vscode-npm-browser](https://github.com/DennisvHest/vscode-npm-browser)
+4. ❗️ Opened issue [#24](https://github.com/DennisvHest/vscode-npm-browser/issues/24) in [DennisvHest/vscode-npm-browser](https://github.com/DennisvHest/vscode-npm-browser)
+5. ❗️ Opened issue [#3593](https://github.com/simple-icons/simple-icons/issues/3593) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 <!--END_SECTION:activity-->
 
 
