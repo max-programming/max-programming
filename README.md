@@ -58,11 +58,11 @@
 </p>
 <p align="center">
  💻 My apps <br>
-  🌐 Web browser: <img src="https://img.shields.io/badge/microsoft edge-0078D6?logo=microsoft-edge&logoColor=white&style=for-the-badge&color=31BAE4">
+  🌐 Web browser: <a htef="https://microsoftedge.com"><img src="https://img.shields.io/badge/microsoft edge-0078D6?logo=microsoft-edge&logoColor=white&style=for-the-badge&color=31BAE4"></a>
   <br>
-  👨‍💻 Code editor: <img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1">
+  👨‍💻 Code editor: <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
   <br>
-  📹 Video editor: <img src="https://img.shields.io/badge/shotcut-0078D6?logoColor=white&style=for-the-badge&color=115C77">
+  📹 Video editor: <a href="http://shotcut.org/"><img src="https://img.shields.io/badge/shotcut-0078D6?logoColor=white&style=for-the-badge&color=115C77"></a>
 </p>
 <br />
 <br />
