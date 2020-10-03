@@ -71,10 +71,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2](https://github.com/BraydenTW/simple-react-crm/issues/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
-2. 💪 Opened PR [#2](https://github.com/BraydenTW/simple-react-crm/pull/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
-3. ❗️ Opened issue [#1](https://github.com/BraydenTW/simple-react-crm/issues/1) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
-4. ❗️ Opened issue [#25698](https://github.com/electron/electron/issues/25698) in [electron/electron](https://github.com/electron/electron)
-5. ❗️ Closed issue [#24](https://github.com/DennisvHest/vscode-npm-browser/issues/24) in [DennisvHest/vscode-npm-browser](https://github.com/DennisvHest/vscode-npm-browser)
+2. 🗣 Commented on [#2](https://github.com/BraydenTW/simple-react-crm/issues/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
+3. 💪 Opened PR [#2](https://github.com/BraydenTW/simple-react-crm/pull/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
+4. ❗️ Opened issue [#1](https://github.com/BraydenTW/simple-react-crm/issues/1) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
+5. ❗️ Opened issue [#25698](https://github.com/electron/electron/issues/25698) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
 
 
