@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/BraydenTW/simple-react-crm/issues/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
+1. 💪 Opened PR [#630](https://github.com/bradtraversy/design-resources-for-developers/pull/630) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 2. 🗣 Commented on [#2](https://github.com/BraydenTW/simple-react-crm/issues/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
-3. 💪 Opened PR [#2](https://github.com/BraydenTW/simple-react-crm/pull/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
-4. ❗️ Opened issue [#1](https://github.com/BraydenTW/simple-react-crm/issues/1) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
-5. ❗️ Opened issue [#25698](https://github.com/electron/electron/issues/25698) in [electron/electron](https://github.com/electron/electron)
+3. 🗣 Commented on [#2](https://github.com/BraydenTW/simple-react-crm/issues/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
+4. 💪 Opened PR [#2](https://github.com/BraydenTW/simple-react-crm/pull/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
+5. ❗️ Opened issue [#1](https://github.com/BraydenTW/simple-react-crm/issues/1) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
 <!--END_SECTION:activity-->
 
 
