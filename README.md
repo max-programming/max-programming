@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#630](https://github.com/bradtraversy/design-resources-for-developers/pull/630) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-2. 🗣 Commented on [#2](https://github.com/BraydenTW/simple-react-crm/issues/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
+1. 🗣 Commented on [#2](https://github.com/BraydenTW/simple-react-crm/issues/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
+2. 💪 Opened PR [#630](https://github.com/bradtraversy/design-resources-for-developers/pull/630) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 3. 🗣 Commented on [#2](https://github.com/BraydenTW/simple-react-crm/issues/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
-4. 💪 Opened PR [#2](https://github.com/BraydenTW/simple-react-crm/pull/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
-5. ❗️ Opened issue [#1](https://github.com/BraydenTW/simple-react-crm/issues/1) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
+4. 🗣 Commented on [#2](https://github.com/BraydenTW/simple-react-crm/issues/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
+5. 💪 Opened PR [#2](https://github.com/BraydenTW/simple-react-crm/pull/2) in [BraydenTW/simple-react-crm](https://github.com/BraydenTW/simple-react-crm)
 <!--END_SECTION:activity-->
 
 
