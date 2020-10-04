@@ -70,10 +70,10 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-2. 🗣 Commented on [#11](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/11) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-3. 💪 Opened PR [#11](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/11) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-4. 🗣 Commented on [#10](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/10) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+1. 🗣 Commented on [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+2. 💪 Opened PR [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+3. 🗣 Commented on [#11](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/11) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+4. 💪 Opened PR [#11](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/11) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 5. 🗣 Commented on [#10](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/10) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
