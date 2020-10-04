@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/10) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+1. 💪 Opened PR [#11](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/11) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 2. 🗣 Commented on [#10](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/10) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-3. 💪 Opened PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 💪 Opened PR [#10](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/10) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-5. 🗣 Commented on [#3286](https://github.com/darkreader/darkreader/issues/3286) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. 🗣 Commented on [#10](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/10) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+4. 💪 Opened PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+5. 💪 Opened PR [#10](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/10) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 
