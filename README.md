@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+1. 🗣 Commented on [#14](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/14) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 2. 🗣 Commented on [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 3. 🗣 Commented on [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 4. 🗣 Commented on [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-5. 💪 Opened PR [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+5. 🗣 Commented on [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 
