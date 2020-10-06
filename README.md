@@ -71,10 +71,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-2. 🗣 Commented on [#13](https://github.com/crisgon/vue-cart/issues/13) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
-3. 💪 Opened PR [#13](https://github.com/crisgon/vue-cart/pull/13) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
-4. 🗣 Commented on [#12](https://github.com/crisgon/vue-cart/issues/12) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
-5. ❌ Closed PR [#12](https://github.com/crisgon/vue-cart/pull/12) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
+2. 🗣 Commented on [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+3. 🗣 Commented on [#13](https://github.com/crisgon/vue-cart/issues/13) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
+4. 💪 Opened PR [#13](https://github.com/crisgon/vue-cart/pull/13) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
+5. 🗣 Commented on [#12](https://github.com/crisgon/vue-cart/issues/12) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
 <!--END_SECTION:activity-->
 
 
