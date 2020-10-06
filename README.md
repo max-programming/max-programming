@@ -71,10 +71,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#12](https://github.com/crisgon/vue-cart/issues/12) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
-2. 💪 Opened PR [#12](https://github.com/crisgon/vue-cart/pull/12) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
-3. 🗣 Commented on [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-4. 🗣 Commented on [#12](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/12) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-5. 🗣 Commented on [#14](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/14) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+2. ❌ Closed PR [#12](https://github.com/crisgon/vue-cart/pull/12) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
+3. 🎉 Merged PR [#1](https://github.com/max-programming/vue-cart/pull/1) in [max-programming/vue-cart](https://github.com/max-programming/vue-cart)
+4. 💪 Opened PR [#1](https://github.com/max-programming/vue-cart/pull/1) in [max-programming/vue-cart](https://github.com/max-programming/vue-cart)
+5. 🗣 Commented on [#12](https://github.com/crisgon/vue-cart/issues/12) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
 <!--END_SECTION:activity-->
 
 
