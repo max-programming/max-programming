@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/crisgon/vue-cart/issues/12) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
-2. ❌ Closed PR [#12](https://github.com/crisgon/vue-cart/pull/12) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
-3. 🎉 Merged PR [#1](https://github.com/max-programming/vue-cart/pull/1) in [max-programming/vue-cart](https://github.com/max-programming/vue-cart)
-4. 💪 Opened PR [#1](https://github.com/max-programming/vue-cart/pull/1) in [max-programming/vue-cart](https://github.com/max-programming/vue-cart)
-5. 🗣 Commented on [#12](https://github.com/crisgon/vue-cart/issues/12) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
+1. 🗣 Commented on [#13](https://github.com/crisgon/vue-cart/issues/13) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
+2. 💪 Opened PR [#13](https://github.com/crisgon/vue-cart/pull/13) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
+3. 🗣 Commented on [#12](https://github.com/crisgon/vue-cart/issues/12) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
+4. ❌ Closed PR [#12](https://github.com/crisgon/vue-cart/pull/12) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
+5. 🎉 Merged PR [#1](https://github.com/max-programming/vue-cart/pull/1) in [max-programming/vue-cart](https://github.com/max-programming/vue-cart)
 <!--END_SECTION:activity-->
 
 
