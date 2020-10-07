@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/max-programming/simple-react-crm/pull/1) in [max-programming/simple-react-crm](https://github.com/max-programming/simple-react-crm)
-2. 💪 Opened PR [#1](https://github.com/max-programming/simple-react-crm/pull/1) in [max-programming/simple-react-crm](https://github.com/max-programming/simple-react-crm)
-3. ❗️ Opened issue [#14](https://github.com/crisgon/vue-cart/issues/14) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
-4. 🗣 Commented on [#13](https://github.com/crisgon/vue-cart/issues/13) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
-5. 🗣 Commented on [#11](https://github.com/crisgon/vue-cart/issues/11) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
+1. 🎉 Merged PR [#17](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/17) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+2. 🎉 Merged PR [#1](https://github.com/max-programming/simple-react-crm/pull/1) in [max-programming/simple-react-crm](https://github.com/max-programming/simple-react-crm)
+3. 💪 Opened PR [#1](https://github.com/max-programming/simple-react-crm/pull/1) in [max-programming/simple-react-crm](https://github.com/max-programming/simple-react-crm)
+4. ❗️ Opened issue [#14](https://github.com/crisgon/vue-cart/issues/14) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
+5. 🗣 Commented on [#13](https://github.com/crisgon/vue-cart/issues/13) in [crisgon/vue-cart](https://github.com/crisgon/vue-cart)
 <!--END_SECTION:activity-->
 
 
