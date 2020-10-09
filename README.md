@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/max-programming/max-todos/issues/5) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. 🗣 Commented on [#5](https://github.com/max-programming/max-todos/issues/5) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. ❗️ Opened issue [#5](https://github.com/max-programming/max-todos/issues/5) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🗣 Commented on [#4](https://github.com/max-programming/max-todos/issues/4) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🎉 Merged PR [#4](https://github.com/max-programming/max-todos/pull/4) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 🎉 Merged PR [#6](https://github.com/max-programming/max-todos/pull/6) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 🗣 Commented on [#6](https://github.com/max-programming/max-todos/issues/6) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. ❗️ Closed issue [#5](https://github.com/max-programming/max-todos/issues/5) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 🗣 Commented on [#5](https://github.com/max-programming/max-todos/issues/5) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. ❗️ Opened issue [#5](https://github.com/max-programming/max-todos/issues/5) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 
