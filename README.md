@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/18) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-2. 🗣 Commented on [#19](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/19) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-3. 🎉 Merged PR [#19](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/19) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-4. 🎉 Merged PR [#9](https://github.com/max-programming/max-todos/pull/9) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. ❗️ Closed issue [#8](https://github.com/max-programming/max-todos/issues/8) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 🗣 Commented on [#10](https://github.com/max-programming/max-todos/issues/10) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 🗣 Commented on [#25698](https://github.com/electron/electron/issues/25698) in [electron/electron](https://github.com/electron/electron)
+3. 🎉 Merged PR [#18](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/18) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+4. 🗣 Commented on [#18](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/18) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+5. 🗣 Commented on [#18](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/18) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 
