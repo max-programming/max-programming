@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#88](https://github.com/primer/github-vscode-theme/issues/88) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-2. 🗣 Commented on [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. 🗣 Commented on [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🗣 Commented on [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🗣 Commented on [#10](https://github.com/max-programming/max-todos/issues/10) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. ❗️ Closed issue [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 🗣 Commented on [#12](https://github.com/max-programming/max-todos/issues/12) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. 🎉 Merged PR [#12](https://github.com/max-programming/max-todos/pull/12) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. ❗️ Opened issue [#88](https://github.com/primer/github-vscode-theme/issues/88) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+5. 🗣 Commented on [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 
