@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. ❗️ Closed issue [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. ❗️ Reopened issue [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🗣 Commented on [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. ❗️ Closed issue [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 💪 Opened PR [#8](https://github.com/yi-jiayu/whatsapp-spoilers/pull/8) in [yi-jiayu/whatsapp-spoilers](https://github.com/yi-jiayu/whatsapp-spoilers)
+2. 🗣 Commented on [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. ❗️ Closed issue [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. ❗️ Reopened issue [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🗣 Commented on [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 
