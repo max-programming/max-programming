@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/PatilShreyas/PatilShreyas.github.io/issues/36) in [PatilShreyas/PatilShreyas.github.io](https://github.com/PatilShreyas/PatilShreyas.github.io)
-2. 🗣 Commented on [#38](https://github.com/coliff/dark-mode-switch/issues/38) in [coliff/dark-mode-switch](https://github.com/coliff/dark-mode-switch)
-3. 🗣 Commented on [#39](https://github.com/coliff/dark-mode-switch/issues/39) in [coliff/dark-mode-switch](https://github.com/coliff/dark-mode-switch)
-4. 💪 Opened PR [#8](https://github.com/yi-jiayu/whatsapp-spoilers/pull/8) in [yi-jiayu/whatsapp-spoilers](https://github.com/yi-jiayu/whatsapp-spoilers)
-5. 🗣 Commented on [#11](https://github.com/max-programming/max-todos/issues/11) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 🗣 Commented on [#39](https://github.com/coliff/dark-mode-switch/issues/39) in [coliff/dark-mode-switch](https://github.com/coliff/dark-mode-switch)
+2. 🗣 Commented on [#36](https://github.com/PatilShreyas/PatilShreyas.github.io/issues/36) in [PatilShreyas/PatilShreyas.github.io](https://github.com/PatilShreyas/PatilShreyas.github.io)
+3. ❗️ Opened issue [#36](https://github.com/PatilShreyas/PatilShreyas.github.io/issues/36) in [PatilShreyas/PatilShreyas.github.io](https://github.com/PatilShreyas/PatilShreyas.github.io)
+4. 🗣 Commented on [#38](https://github.com/coliff/dark-mode-switch/issues/38) in [coliff/dark-mode-switch](https://github.com/coliff/dark-mode-switch)
+5. 🗣 Commented on [#39](https://github.com/coliff/dark-mode-switch/issues/39) in [coliff/dark-mode-switch](https://github.com/coliff/dark-mode-switch)
 <!--END_SECTION:activity-->
 
 
