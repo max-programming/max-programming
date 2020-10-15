@@ -71,10 +71,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#26](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/26) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-2. 🗣 Commented on [#25](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/25) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-3. ❗️ Closed issue [#20](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/20) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-4. ❗️ Closed issue [#21](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/21) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-5. 🎉 Merged PR [#24](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/24) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+2. 🗣 Commented on [#26](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/26) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+3. 🗣 Commented on [#25](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/25) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+4. ❗️ Closed issue [#20](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/20) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+5. ❗️ Closed issue [#21](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/21) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 
