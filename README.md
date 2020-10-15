@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/coliff/dark-mode-switch/issues/39) in [coliff/dark-mode-switch](https://github.com/coliff/dark-mode-switch)
-2. 🗣 Commented on [#36](https://github.com/PatilShreyas/PatilShreyas.github.io/issues/36) in [PatilShreyas/PatilShreyas.github.io](https://github.com/PatilShreyas/PatilShreyas.github.io)
-3. ❗️ Opened issue [#36](https://github.com/PatilShreyas/PatilShreyas.github.io/issues/36) in [PatilShreyas/PatilShreyas.github.io](https://github.com/PatilShreyas/PatilShreyas.github.io)
-4. 🗣 Commented on [#38](https://github.com/coliff/dark-mode-switch/issues/38) in [coliff/dark-mode-switch](https://github.com/coliff/dark-mode-switch)
-5. 🗣 Commented on [#39](https://github.com/coliff/dark-mode-switch/issues/39) in [coliff/dark-mode-switch](https://github.com/coliff/dark-mode-switch)
+1. ❗️ Closed issue [#20](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/20) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+2. ❗️ Closed issue [#21](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/21) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+3. 🎉 Merged PR [#24](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/24) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+4. 🗣 Commented on [#23](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/23) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+5. 🎉 Merged PR [#23](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/23) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 
