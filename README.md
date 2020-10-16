@@ -72,8 +72,8 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
 2. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
-3. ❗️ Opened issue [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
-4. 🗣 Commented on [#26](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/26) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+3. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
+4. ❗️ Opened issue [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
 5. 🗣 Commented on [#26](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/26) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
