@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/max-programming/max-todos/pull/13) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. 🗣 Commented on [#13](https://github.com/max-programming/max-todos/issues/13) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. 🎉 Merged PR [#1](https://github.com/max-programming/battery-info-javascript/pull/1) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-4. 🗣 Commented on [#1](https://github.com/max-programming/battery-info-javascript/issues/1) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-5. ❗️ Closed issue [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
+1. 🗣 Commented on [#13](https://github.com/max-programming/max-todos/issues/13) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 🗣 Commented on [#1](https://github.com/max-programming/battery-info-javascript/issues/1) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+3. 🎉 Merged PR [#13](https://github.com/max-programming/max-todos/pull/13) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 🗣 Commented on [#13](https://github.com/max-programming/max-todos/issues/13) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🎉 Merged PR [#1](https://github.com/max-programming/battery-info-javascript/pull/1) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
 <!--END_SECTION:activity-->
 
 
