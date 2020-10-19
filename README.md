@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/29) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-2. ❗️ Closed issue [#28](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/28) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-3. 🗣 Commented on [#28](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/28) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-4. 🗣 Commented on [#14](https://github.com/max-programming/max-todos/issues/14) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🎉 Merged PR [#14](https://github.com/max-programming/max-todos/pull/14) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. ❗️ Opened issue [#30](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/30) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+2. 🎉 Merged PR [#29](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/29) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+3. ❗️ Closed issue [#28](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/28) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+4. 🗣 Commented on [#28](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/28) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+5. 🗣 Commented on [#14](https://github.com/max-programming/max-todos/issues/14) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 
