@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15](https://github.com/max-programming/max-todos/issues/15) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. 🎉 Merged PR [#15](https://github.com/max-programming/max-todos/pull/15) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. ❗️ Closed issue [#30](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/30) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-4. 🗣 Commented on [#30](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/30) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-5. ❗️ Opened issue [#30](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/30) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+1. ❗️ Opened issue [#16](https://github.com/max-programming/max-todos/issues/16) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 🗣 Commented on [#15](https://github.com/max-programming/max-todos/issues/15) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. 🎉 Merged PR [#15](https://github.com/max-programming/max-todos/pull/15) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. ❗️ Closed issue [#30](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/30) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+5. 🗣 Commented on [#30](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/30) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 
