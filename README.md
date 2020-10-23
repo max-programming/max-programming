@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#24](https://github.com/max-programming/max-todos/issues/24) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. ❗️ Closed issue [#16](https://github.com/max-programming/max-todos/issues/16) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. ❗️ Closed issue [#21](https://github.com/max-programming/max-todos/issues/21) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🎉 Merged PR [#20](https://github.com/max-programming/max-todos/pull/20) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🎉 Merged PR [#19](https://github.com/max-programming/max-todos/pull/19) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 🗣 Commented on [#25](https://github.com/max-programming/max-todos/issues/25) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 🗣 Commented on [#25](https://github.com/max-programming/max-todos/issues/25) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. 🗣 Commented on [#25](https://github.com/max-programming/max-todos/issues/25) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+5. 🗣 Commented on [#25](https://github.com/max-programming/max-todos/issues/25) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 
