@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/max-programming/max-todos/issues/26) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. 🗣 Commented on [#26](https://github.com/max-programming/max-todos/issues/26) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. 🗣 Commented on [#9645](https://github.com/facebook/create-react-app/issues/9645) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-4. 🗣 Commented on [#9776](https://github.com/facebook/create-react-app/issues/9776) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-5. 🗣 Commented on [#25](https://github.com/max-programming/max-todos/issues/25) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 🎉 Merged PR [#27](https://github.com/max-programming/max-todos/pull/27) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 💪 Opened PR [#27](https://github.com/max-programming/max-todos/pull/27) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. 🎉 Merged PR [#26](https://github.com/max-programming/max-todos/pull/26) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 🗣 Commented on [#26](https://github.com/max-programming/max-todos/issues/26) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🗣 Commented on [#26](https://github.com/max-programming/max-todos/issues/26) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 
