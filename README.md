@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#39](https://github.com/max-programming/max-todos/pull/39) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. 🗣 Commented on [#2](https://github.com/max-programming/max-todos/issues/2) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. 🎉 Merged PR [#38](https://github.com/max-programming/max-todos/pull/38) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🗣 Commented on [#7](https://github.com/max-programming/max-todos/issues/7) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🎉 Merged PR [#37](https://github.com/max-programming/max-todos/pull/37) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 🎉 Merged PR [#41](https://github.com/max-programming/max-todos/pull/41) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 🗣 Commented on [#41](https://github.com/max-programming/max-todos/issues/41) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. ❗️ Closed issue [#40](https://github.com/max-programming/max-todos/issues/40) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 🗣 Commented on [#40](https://github.com/max-programming/max-todos/issues/40) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🎉 Merged PR [#39](https://github.com/max-programming/max-todos/pull/39) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 
