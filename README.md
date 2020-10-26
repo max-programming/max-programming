@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#41](https://github.com/max-programming/max-todos/pull/41) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. 🗣 Commented on [#41](https://github.com/max-programming/max-todos/issues/41) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. ❗️ Closed issue [#40](https://github.com/max-programming/max-todos/issues/40) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🗣 Commented on [#40](https://github.com/max-programming/max-todos/issues/40) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🎉 Merged PR [#39](https://github.com/max-programming/max-todos/pull/39) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. ❗️ Opened issue [#37](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/37) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+2. ❗️ Opened issue [#36](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/36) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+3. 🎉 Merged PR [#35](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/35) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+4. 🗣 Commented on [#35](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/35) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+5. 🎉 Merged PR [#41](https://github.com/max-programming/max-todos/pull/41) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 
