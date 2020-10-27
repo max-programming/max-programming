@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#601](https://github.com/carloscuesta/gitmoji/pull/601) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-2. 🗣 Commented on [#42](https://github.com/max-programming/max-todos/issues/42) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 🗣 Commented on [#601](https://github.com/carloscuesta/gitmoji/issues/601) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+2. 💪 Opened PR [#601](https://github.com/carloscuesta/gitmoji/pull/601) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
 3. 🗣 Commented on [#42](https://github.com/max-programming/max-todos/issues/42) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🗣 Commented on [#37](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/37) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-5. 🗣 Commented on [#42](https://github.com/max-programming/max-todos/issues/42) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 🗣 Commented on [#42](https://github.com/max-programming/max-todos/issues/42) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🗣 Commented on [#37](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/37) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 
