@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#604](https://github.com/carloscuesta/gitmoji/issues/604) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-2. 💪 Opened PR [#604](https://github.com/carloscuesta/gitmoji/pull/604) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-3. 🗣 Commented on [#601](https://github.com/carloscuesta/gitmoji/issues/601) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-4. 💪 Opened PR [#601](https://github.com/carloscuesta/gitmoji/pull/601) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-5. 🗣 Commented on [#42](https://github.com/max-programming/max-todos/issues/42) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 🗣 Commented on [#17](https://github.com/max-programming/max-todos/issues/17) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 🗣 Commented on [#604](https://github.com/carloscuesta/gitmoji/issues/604) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+3. 💪 Opened PR [#604](https://github.com/carloscuesta/gitmoji/pull/604) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+4. 🗣 Commented on [#601](https://github.com/carloscuesta/gitmoji/issues/601) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+5. 💪 Opened PR [#601](https://github.com/carloscuesta/gitmoji/pull/601) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
 <!--END_SECTION:activity-->
 
 
