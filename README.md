@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#38](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/38) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-2. 🗣 Commented on [#38](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/38) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-3. 🗣 Commented on [#2](https://github.com/max-programming/battery-info-javascript/issues/2) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-4. 🗣 Commented on [#26](https://github.com/max-programming/max-todos/issues/26) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🗣 Commented on [#17](https://github.com/max-programming/max-todos/issues/17) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+2. ❌ Closed PR [#38](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/38) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+3. 🗣 Commented on [#38](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/38) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+4. 🗣 Commented on [#2](https://github.com/max-programming/battery-info-javascript/issues/2) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+5. 🗣 Commented on [#26](https://github.com/max-programming/max-todos/issues/26) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 
