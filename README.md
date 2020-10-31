@@ -71,10 +71,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4](https://github.com/max-programming/battery-info-javascript/issues/4) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-2. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-3. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-4. ❌ Closed PR [#38](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/38) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-5. 🗣 Commented on [#38](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/38) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+2. 🗣 Commented on [#4](https://github.com/max-programming/battery-info-javascript/issues/4) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+3. 🗣 Commented on [#4](https://github.com/max-programming/battery-info-javascript/issues/4) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+4. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+5. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
 <!--END_SECTION:activity-->
 
 
