@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/max-programming/max-todos/issues/43) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. 🗣 Commented on [#5](https://github.com/screenify/screenify-vscode/issues/5) in [screenify/screenify-vscode](https://github.com/screenify/screenify-vscode)
-3. 💪 Opened PR [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-4. 🗣 Commented on [#4](https://github.com/max-programming/battery-info-javascript/issues/4) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-5. 🗣 Commented on [#4](https://github.com/max-programming/battery-info-javascript/issues/4) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+1. ❌ Reopened PR [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+2. ❌ Closed PR [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+3. 🗣 Commented on [#43](https://github.com/max-programming/max-todos/issues/43) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 🗣 Commented on [#5](https://github.com/screenify/screenify-vscode/issues/5) in [screenify/screenify-vscode](https://github.com/screenify/screenify-vscode)
+5. 💪 Opened PR [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 <!--END_SECTION:activity-->
 
 
