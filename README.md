@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-2. ❌ Closed PR [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-3. 🗣 Commented on [#43](https://github.com/max-programming/max-todos/issues/43) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🗣 Commented on [#5](https://github.com/screenify/screenify-vscode/issues/5) in [screenify/screenify-vscode](https://github.com/screenify/screenify-vscode)
-5. 💪 Opened PR [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+1. 🗣 Commented on [#43](https://github.com/max-programming/max-todos/issues/43) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 🗣 Commented on [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/issues/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+3. ❌ Reopened PR [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+4. ❌ Closed PR [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+5. 🗣 Commented on [#43](https://github.com/max-programming/max-todos/issues/43) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 
