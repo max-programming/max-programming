@@ -72,9 +72,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
 2. 🗣 Commented on [#43](https://github.com/max-programming/max-todos/issues/43) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. 🗣 Commented on [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/issues/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-4. ❌ Reopened PR [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-5. ❌ Closed PR [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/pull/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+3. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
+4. 🗣 Commented on [#43](https://github.com/max-programming/max-todos/issues/43) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🗣 Commented on [#10](https://github.com/alexandresanlim/Badges4-README.md-Profile/issues/10) in [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 <!--END_SECTION:activity-->
 
 
