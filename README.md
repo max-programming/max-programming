@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#18](https://github.com/BraydenTW/react-emoji-search/pull/18) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
-2. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
-3. 🗣 Commented on [#43](https://github.com/max-programming/max-todos/issues/43) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
-5. 🗣 Commented on [#43](https://github.com/max-programming/max-todos/issues/43) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 🗣 Commented on [#18](https://github.com/BraydenTW/react-emoji-search/issues/18) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
+2. 💪 Opened PR [#18](https://github.com/BraydenTW/react-emoji-search/pull/18) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
+3. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
+4. 🗣 Commented on [#43](https://github.com/max-programming/max-todos/issues/43) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
 <!--END_SECTION:activity-->
 
 
