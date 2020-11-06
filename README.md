@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+1. 🗣 Commented on [#9776](https://github.com/facebook/create-react-app/issues/9776) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
 2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 🗣 Commented on [#9776](https://github.com/facebook/create-react-app/issues/9776) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-4. 🗣 Commented on [#18](https://github.com/BraydenTW/react-emoji-search/issues/18) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
-5. 💪 Opened PR [#18](https://github.com/BraydenTW/react-emoji-search/pull/18) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
+3. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+4. 🗣 Commented on [#9776](https://github.com/facebook/create-react-app/issues/9776) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+5. 🗣 Commented on [#18](https://github.com/BraydenTW/react-emoji-search/issues/18) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
 <!--END_SECTION:activity-->
 
 
