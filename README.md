@@ -70,11 +70,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9776](https://github.com/facebook/create-react-app/issues/9776) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🗣 Commented on [#9776](https://github.com/facebook/create-react-app/issues/9776) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-5. 🗣 Commented on [#18](https://github.com/BraydenTW/react-emoji-search/issues/18) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
+1. 🗣 Commented on [#39](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/39) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+2. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+3. 🗣 Commented on [#9776](https://github.com/facebook/create-react-app/issues/9776) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+4. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+5. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 <!--END_SECTION:activity-->
 
 
