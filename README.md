@@ -81,6 +81,12 @@
 
 ## 👀 My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
+- [✨ How to create Custom Emmet Snippets in VS Code!](https://usman2102.hashnode.dev/how-to-create-custom-emmet-snippets-in-vs-code-ckhaplmd801bxo0s11z6z4zmh)
+- [♻️ Context API in React! | Switch to it NOW!](https://usman2102.hashnode.dev/context-api-in-react-ckh808kw905pcras1hhhl0ac2)
+- [✨ React 17 and React Scripts 4 | A Walkthrough](https://usman2102.hashnode.dev/react-17-and-react-scripts-4-ckh5s883i09ff39s1dtlnbj4w)
+- [Initialize a 🖥 desktop app with Electron.js](https://usman2102.hashnode.dev/initialize-a-desktop-app-with-electronjs-1-cke9h3hey018wy0s1ectf2tjm)
+- [The TER ? NA : RY Operator](https://usman2102.hashnode.dev/the-ter-na-ry-operator-cke5eip9r0136rks12ux17k75)
+- [Array Map in JavaScript. A simple method made simpler](https://usman2102.hashnode.dev/array-map-in-javascript-a-simple-method-made-simpler-cke42kh2w001qqhs1apkd248d)
 <!-- HASHNODE_BLOG:END -->
 
 
