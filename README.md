@@ -79,6 +79,10 @@
 5. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 <!--END_SECTION:activity-->
 
+## 👀 My Latest Blog Posts 👇
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.max-programming.vercel.app/api?username=max-programming&show_icons=true&theme=onedark&count_private=true" alt="max-programming" /></p>
 
