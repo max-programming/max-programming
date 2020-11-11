@@ -73,9 +73,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-2. ❗️ Opened issue [#419](https://github.com/EddieJaoudeCommunity/support/issues/419) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
 3. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-4. 🗣 Commented on [#39](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/39) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+4. ❗️ Opened issue [#419](https://github.com/EddieJaoudeCommunity/support/issues/419) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 5. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
 <!--END_SECTION:activity-->
 
