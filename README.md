@@ -81,12 +81,49 @@
 
 ## 👀 My Latest Blog Posts 👇
 <!-- HASHNODE_BLOG:START -->
-- [✨ How to create Custom Emmet Snippets in VS Code!](https://usman2102.hashnode.dev/how-to-create-custom-emmet-snippets-in-vs-code-ckhaplmd801bxo0s11z6z4zmh)
-- [♻️ Context API in React! | Switch to it NOW!](https://usman2102.hashnode.dev/context-api-in-react-ckh808kw905pcras1hhhl0ac2)
-- [✨ React 17 and React Scripts 4 | A Walkthrough](https://usman2102.hashnode.dev/react-17-and-react-scripts-4-ckh5s883i09ff39s1dtlnbj4w)
-- [Initialize a 🖥 desktop app with Electron.js](https://usman2102.hashnode.dev/initialize-a-desktop-app-with-electronjs-1-cke9h3hey018wy0s1ectf2tjm)
-- [The TER ? NA : RY Operator](https://usman2102.hashnode.dev/the-ter-na-ry-operator-cke5eip9r0136rks12ux17k75)
-- [Array Map in JavaScript. A simple method made simpler](https://usman2102.hashnode.dev/array-map-in-javascript-a-simple-method-made-simpler-cke42kh2w001qqhs1apkd248d)
+<p align="left">
+<a href="https://usman2102.hashnode.dev/how-to-create-custom-emmet-snippets-in-vs-code-ckhaplmd801bxo0s11z6z4zmh" title="✨ How to create Custom Emmet Snippets in VS Code!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604935891651/QL_sKiZGM.png" alt="✨ How to create Custom Emmet Snippets in VS Code!" width="250px" align="left" /></a>
+<a href="https://usman2102.hashnode.dev/how-to-create-custom-emmet-snippets-in-vs-code-ckhaplmd801bxo0s11z6z4zmh" title="✨ How to create Custom Emmet Snippets in VS Code!"><strong>✨ How to create Custom Emmet Snippets in VS Code!</strong></a>
+<br/> 👋 Hi again developers!
+This post covers how you can use Custom Emmet Snippets in VS Code. With VS Code's new release: version 1.51!
+
+Emmet is very powerful and very productive! And the mix of Emmet & VS Code, is like never before. But sometimes you ... </p> <br/> <br/>
+<p align="left">
+<a href="https://usman2102.hashnode.dev/context-api-in-react-ckh808kw905pcras1hhhl0ac2" title="♻️ Context API in React! | Switch to it NOW!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604772609501/HJUxFRhhQ.png" alt="♻️ Context API in React! | Switch to it NOW!" width="250px" align="right" /></a>
+<a href="https://usman2102.hashnode.dev/context-api-in-react-ckh808kw905pcras1hhhl0ac2" title="♻️ Context API in React! | Switch to it NOW!"><strong>♻️ Context API in React! | Switch to it NOW!</strong></a>
+<br/> 👋 Hello Developers!!!
+This post covers how you can use the Context API in React. Which is an awesome way to manage your state and get rid of prop drill.
+
+Note: I have used .jsx for component file extensions here, but you can use .js if you want, tha... </p> <br/> <br/>
+<p align="left">
+<a href="https://usman2102.hashnode.dev/react-17-and-react-scripts-4-ckh5s883i09ff39s1dtlnbj4w" title="✨ React 17 and React Scripts 4 | A Walkthrough"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604772525902/0JTmH3Krw.png" alt="✨ React 17 and React Scripts 4 | A Walkthrough" width="250px" align="left" /></a>
+<a href="https://usman2102.hashnode.dev/react-17-and-react-scripts-4-ckh5s883i09ff39s1dtlnbj4w" title="✨ React 17 and React Scripts 4 | A Walkthrough"><strong>✨ React 17 and React Scripts 4 | A Walkthrough</strong></a>
+<br/> 👋 Hello Developers
+This post covers how you can update your app to use React 17. And what do you get from using React 17 and React Scripts 4
+So React 17 and React Scripts 4 are successfully released. Actually React 17 was released with no new featur... </p> <br/> <br/>
+<p align="left">
+
+<a href="https://usman2102.hashnode.dev/initialize-a-desktop-app-with-electronjs-1-cke9h3hey018wy0s1ectf2tjm" title="Initialize a 🖥 desktop app with Electron.js"><strong>Initialize a 🖥 desktop app with Electron.js</strong></a>
+<br/> 👋 HELLO DEVELOPERS!
+This blog post is about how you can start a desktop app with  Electron.js .
+🚨 Electron.js is a JavaScript framework that lets you build 🖥 DESKTOP APPS / SOFTWARES using nothing but HTML, CSS, and JavaScript.
+So if you also wann... </p> <br/> <br/>
+<p align="left">
+<a href="https://usman2102.hashnode.dev/the-ter-na-ry-operator-cke5eip9r0136rks12ux17k75" title="The TER ? NA : RY Operator"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1598084934765/NRanECE6q.png" alt="The TER ? NA : RY Operator" width="250px" align="left" /></a>
+<a href="https://usman2102.hashnode.dev/the-ter-na-ry-operator-cke5eip9r0136rks12ux17k75" title="The TER ? NA : RY Operator"><strong>The TER ? NA : RY Operator</strong></a>
+<br/> 👋 HELLO DEVELOPERS!
+This Blog Post is about the Ternary Operator in JS, C++, C, C#, Java, etc.
+So, if you don't know, my name is Usman and I am a learner. Now let's start!
+🚨 A Ternary Operator is an operator that makes a decision based on what cond... </p> <br/> <br/>
+<p align="left">
+<a href="https://usman2102.hashnode.dev/array-map-in-javascript-a-simple-method-made-simpler-cke42kh2w001qqhs1apkd248d" title="Array Map in JavaScript. A simple method made simpler"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1598067160278/TdrUKK8H1.png" alt="Array Map in JavaScript. A simple method made simpler" width="250px" align="right" /></a>
+<a href="https://usman2102.hashnode.dev/array-map-in-javascript-a-simple-method-made-simpler-cke42kh2w001qqhs1apkd248d" title="Array Map in JavaScript. A simple method made simpler"><strong>Array Map in JavaScript. A simple method made simpler</strong></a>
+<br/> MDN says:
+
+The map() method creates a new array populated with the results of calling a provided function on every element in the calling array.
+
+Seems complicated right? But it isn't. Let's see how.
+👋 Hi Developers! This is the very first blog post... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
