@@ -83,6 +83,8 @@
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
+<table>
+  <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=UB6cWXzYALk"><img width="140px" src="https://i.ytimg.com/vi/UB6cWXzYALk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=UB6cWXzYALk">How to create Custom Emmet Snippets in VS Code!</a><br/>Nov 10, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=4N_JWP1zGr8"><img width="140px" src="https://i.ytimg.com/vi/4N_JWP1zGr8/mqdefault.jpg"></a></td>
@@ -94,7 +96,8 @@
 <tr><td><a href="https://www.youtube.com/watch?v=hHb9K2EOdbI"><img width="140px" src="https://i.ytimg.com/vi/hHb9K2EOdbI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hHb9K2EOdbI">What is Vue Vite ⚡?  | Superpowered Vue | Vite vs Vue CLI</a><br/>Oct 11, 2020</td></tr>
 <!-- YOUTUBE:END -->
-
+  </tbody>
+ <table>
 ## 👀 My Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
