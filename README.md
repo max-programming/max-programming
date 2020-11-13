@@ -83,7 +83,16 @@
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
-<!-- YOUTUBE:START -->
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=UB6cWXzYALk"><img width="140px" src="https://i.ytimg.com/vi/UB6cWXzYALk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=UB6cWXzYALk">How to create Custom Emmet Snippets in VS Code!</a><br/>Nov 10, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=4N_JWP1zGr8"><img width="140px" src="https://i.ytimg.com/vi/4N_JWP1zGr8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4N_JWP1zGr8">Context API in React explained | State Management | 2020 | React 17</a><br/>Nov 4, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=m19mK5_anuI"><img width="140px" src="https://i.ytimg.com/vi/m19mK5_anuI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=m19mK5_anuI">React 17 & React Scripts 4 New Features - JSX Transform, Fast Reload</a><br/>Nov 3, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=rU4XW3PnvGA"><img width="140px" src="https://i.ytimg.com/vi/rU4XW3PnvGA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rU4XW3PnvGA">How to create a Navbar for absolute beginners | HTML | CSS | Flexbox</a><br/>Oct 26, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=hHb9K2EOdbI"><img width="140px" src="https://i.ytimg.com/vi/hHb9K2EOdbI/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hHb9K2EOdbI">What is Vue Vite ⚡?  | Superpowered Vue | Vite vs Vue CLI</a><br/>Oct 11, 2020</td></tr>
 <!-- YOUTUBE:END -->
 
 ## 👀 My Latest Blog Posts 
