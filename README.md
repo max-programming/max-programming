@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hii! My name is Usman</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hii! My name is Usman</h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h4 align="center">
   I am a 15 years old student learning web development and programming. I am also a Content Creator on <a href="https://youtube.com/MaxProgramming">YouTube</a>. I love dark themes!
@@ -65,6 +65,9 @@
   👨‍💻 Code editor: <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
   <br>
   📹 Video editor: <a href="http://shotcut.org/"><img src="https://img.shields.io/badge/shotcut-0078D6?logoColor=white&style=for-the-badge&color=115C77"></a>
+</p>
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/max-programming/count.svg" />
 </p>
 <br />
 <br />
