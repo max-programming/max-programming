@@ -82,7 +82,11 @@
 5. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
 <!--END_SECTION:activity-->
 
-## 👀 My Latest Blog Posts 👇
+## ▶ My Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+## 👀 My Latest Blog Posts 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://usman2102.hashnode.dev/easy-copy-to-clipboard-button-in-vanilla-javascript-ckhfph9qh08jtzms18h0ehykf" title="💡 Easy Copy to Clipboard Button in Vanilla JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605238355074/j10AmEa2x.png" alt="💡 Easy Copy to Clipboard Button in Vanilla JavaScript" width="250px" align="left" /></a>
