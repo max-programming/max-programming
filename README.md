@@ -75,10 +75,10 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
-2. 💪 Opened PR [#214](https://github.com/dailydotdev/daily/pull/214) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
-3. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-4. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+1. 🗣 Commented on [#714](https://github.com/bradtraversy/design-resources-for-developers/issues/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+2. 💪 Opened PR [#714](https://github.com/bradtraversy/design-resources-for-developers/pull/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+3. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
+4. 💪 Opened PR [#214](https://github.com/dailydotdev/daily/pull/214) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
 5. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
 <!--END_SECTION:activity-->
 
