@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#714](https://github.com/bradtraversy/design-resources-for-developers/issues/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+1. 🗣 Commented on [#40](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/40) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 2. 🗣 Commented on [#714](https://github.com/bradtraversy/design-resources-for-developers/issues/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 3. 🗣 Commented on [#714](https://github.com/bradtraversy/design-resources-for-developers/issues/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-4. 💪 Opened PR [#714](https://github.com/bradtraversy/design-resources-for-developers/pull/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-5. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
+4. 🗣 Commented on [#714](https://github.com/bradtraversy/design-resources-for-developers/issues/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+5. 💪 Opened PR [#714](https://github.com/bradtraversy/design-resources-for-developers/pull/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
