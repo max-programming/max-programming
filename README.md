@@ -77,9 +77,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#714](https://github.com/bradtraversy/design-resources-for-developers/issues/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
 2. 🗣 Commented on [#714](https://github.com/bradtraversy/design-resources-for-developers/issues/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-3. 💪 Opened PR [#714](https://github.com/bradtraversy/design-resources-for-developers/pull/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-4. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
-5. 💪 Opened PR [#214](https://github.com/dailydotdev/daily/pull/214) in [dailydotdev/daily](https://github.com/dailydotdev/daily)
+3. 🗣 Commented on [#714](https://github.com/bradtraversy/design-resources-for-developers/issues/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+4. 💪 Opened PR [#714](https://github.com/bradtraversy/design-resources-for-developers/pull/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
+5. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
