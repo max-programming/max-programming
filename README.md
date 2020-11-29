@@ -76,10 +76,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-2. 🗣 Commented on [#88](https://github.com/primer/github-vscode-theme/issues/88) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-3. 💪 Opened PR [#94](https://github.com/primer/github-vscode-theme/pull/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-4. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
-5. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
+2. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+3. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+4. 🗣 Commented on [#88](https://github.com/primer/github-vscode-theme/issues/88) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+5. 💪 Opened PR [#94](https://github.com/primer/github-vscode-theme/pull/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
