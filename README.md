@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
-2. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
-3. 🗣 Commented on [#714](https://github.com/bradtraversy/design-resources-for-developers/issues/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-4. 🗣 Commented on [#714](https://github.com/bradtraversy/design-resources-for-developers/issues/714) in [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers)
-5. 🗣 Commented on [#40](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/40) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+1. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+2. 🗣 Commented on [#88](https://github.com/primer/github-vscode-theme/issues/88) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+3. 💪 Opened PR [#94](https://github.com/primer/github-vscode-theme/pull/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+4. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
+5. 🗣 Commented on [#17](https://github.com/BraydenTW/react-emoji-search/issues/17) in [BraydenTW/react-emoji-search](https://github.com/BraydenTW/react-emoji-search)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
