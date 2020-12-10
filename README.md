@@ -77,9 +77,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
 2. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-3. 🗣 Commented on [#44](https://github.com/max-programming/max-todos/issues/44) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. ❗️ Closed issue [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-5. 🗣 Commented on [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+3. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+4. 🗣 Commented on [#44](https://github.com/max-programming/max-todos/issues/44) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. ❗️ Closed issue [#3](https://github.com/max-programming/battery-info-javascript/issues/3) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
