@@ -98,7 +98,9 @@
 <!-- YOUTUBE:END -->
   </tbody>
  <table>
+   
 ## 👀 My Latest Blog Posts 
+   
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
 <a href="https://usman2102.hashnode.dev/how-to-change-the-favicon-according-to-system-dark-mode-ckiify2zt059680s1ek9c8ewn" title="🌓 How to change the favicon according to system dark mode!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607580494174/JRrtZUUoP.png" alt="🌓 How to change the favicon according to system dark mode!" width="250px" align="left" /></a>
