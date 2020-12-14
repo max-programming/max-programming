@@ -75,10 +75,10 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/max-programming/max-todos/issues/46) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-3. 🗣 Commented on [#44](https://github.com/max-programming/max-todos/issues/44) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+1. 💪 Opened PR [#18](https://github.com/fiwl-js/fiwl-js.github.io/pull/18) in [fiwl-js/fiwl-js.github.io](https://github.com/fiwl-js/fiwl-js.github.io)
+2. 🗣 Commented on [#46](https://github.com/max-programming/max-todos/issues/46) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+4. 🗣 Commented on [#44](https://github.com/max-programming/max-todos/issues/44) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 5. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
 <!--END_SECTION:activity-->
 
