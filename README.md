@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#45](https://github.com/max-programming/max-todos/pull/45) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. ❗️ Closed issue [#44](https://github.com/max-programming/max-todos/issues/44) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. 🗣 Commented on [#99](https://github.com/DamonOehlman/detect-browser/issues/99) in [DamonOehlman/detect-browser](https://github.com/DamonOehlman/detect-browser)
-4. 🗣 Commented on [#1](https://github.com/Vikalp2502/Portfolio-Neumorphism-ReactJs/issues/1) in [Vikalp2502/Portfolio-Neumorphism-ReactJs](https://github.com/Vikalp2502/Portfolio-Neumorphism-ReactJs)
-5. 💪 Opened PR [#1](https://github.com/Vikalp2502/Portfolio-Neumorphism-ReactJs/pull/1) in [Vikalp2502/Portfolio-Neumorphism-ReactJs](https://github.com/Vikalp2502/Portfolio-Neumorphism-ReactJs)
+1. ❗️ Closed issue [#47](https://github.com/max-programming/max-todos/issues/47) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 🎉 Merged PR [#48](https://github.com/max-programming/max-todos/pull/48) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. 💪 Opened PR [#2](https://github.com/Vikalp2502/Portfolio-Neumorphism-ReactJs/pull/2) in [Vikalp2502/Portfolio-Neumorphism-ReactJs](https://github.com/Vikalp2502/Portfolio-Neumorphism-ReactJs)
+4. 🎉 Merged PR [#45](https://github.com/max-programming/max-todos/pull/45) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. ❗️ Closed issue [#44](https://github.com/max-programming/max-todos/issues/44) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
