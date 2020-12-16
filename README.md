@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/max-programming/max-todos/issues/47) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. 🗣 Commented on [#45](https://github.com/max-programming/max-todos/issues/45) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 🗣 Commented on [#2](https://github.com/max-programming/battery-info-javascript/issues/2) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+2. 🗣 Commented on [#47](https://github.com/max-programming/max-todos/issues/47) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 3. 🗣 Commented on [#45](https://github.com/max-programming/max-todos/issues/45) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 💪 Opened PR [#24](https://github.com/noahbuscher/inspire/pull/24) in [noahbuscher/inspire](https://github.com/noahbuscher/inspire)
-5. 🗣 Commented on [#18](https://github.com/fiwl-js/fiwl-js.github.io/issues/18) in [fiwl-js/fiwl-js.github.io](https://github.com/fiwl-js/fiwl-js.github.io)
+4. 🗣 Commented on [#45](https://github.com/max-programming/max-todos/issues/45) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 💪 Opened PR [#24](https://github.com/noahbuscher/inspire/pull/24) in [noahbuscher/inspire](https://github.com/noahbuscher/inspire)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
