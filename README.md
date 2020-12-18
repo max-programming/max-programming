@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/johannchopin/gitmoji-browser-extension/issues/37) in [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension)
-2. 🗣 Commented on [#2](https://github.com/max-programming/battery-info-javascript/issues/2) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-3. 🗣 Commented on [#2](https://github.com/max-programming/battery-info-javascript/issues/2) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-4. ❗️ Closed issue [#47](https://github.com/max-programming/max-todos/issues/47) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🎉 Merged PR [#48](https://github.com/max-programming/max-todos/pull/48) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 💪 Opened PR [#14](https://github.com/lalalilo/gitmemoji/pull/14) in [lalalilo/gitmemoji](https://github.com/lalalilo/gitmemoji)
+2. 🗣 Commented on [#37597](https://github.com/microsoft/TypeScript/issues/37597) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+3. ❗️ Opened issue [#37](https://github.com/johannchopin/gitmoji-browser-extension/issues/37) in [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension)
+4. 🗣 Commented on [#2](https://github.com/max-programming/battery-info-javascript/issues/2) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+5. 🗣 Commented on [#2](https://github.com/max-programming/battery-info-javascript/issues/2) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
