@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/max-programming/battery-info-javascript/issues/2) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+1. ❗️ Opened issue [#37](https://github.com/johannchopin/gitmoji-browser-extension/issues/37) in [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension)
 2. 🗣 Commented on [#2](https://github.com/max-programming/battery-info-javascript/issues/2) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
-3. ❗️ Closed issue [#47](https://github.com/max-programming/max-todos/issues/47) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🎉 Merged PR [#48](https://github.com/max-programming/max-todos/pull/48) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 💪 Opened PR [#2](https://github.com/Vikalp2502/Portfolio-Neumorphism-ReactJs/pull/2) in [Vikalp2502/Portfolio-Neumorphism-ReactJs](https://github.com/Vikalp2502/Portfolio-Neumorphism-ReactJs)
+3. 🗣 Commented on [#2](https://github.com/max-programming/battery-info-javascript/issues/2) in [max-programming/battery-info-javascript](https://github.com/max-programming/battery-info-javascript)
+4. ❗️ Closed issue [#47](https://github.com/max-programming/max-todos/issues/47) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🎉 Merged PR [#48](https://github.com/max-programming/max-todos/pull/48) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
