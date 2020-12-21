@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-2. 🗣 Commented on [#37](https://github.com/johannchopin/gitmoji-browser-extension/issues/37) in [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension)
-3. 🗣 Commented on [#14](https://github.com/lalalilo/gitmemoji/issues/14) in [lalalilo/gitmemoji](https://github.com/lalalilo/gitmemoji)
-4. 💪 Opened PR [#14](https://github.com/lalalilo/gitmemoji/pull/14) in [lalalilo/gitmemoji](https://github.com/lalalilo/gitmemoji)
-5. 🗣 Commented on [#37597](https://github.com/microsoft/TypeScript/issues/37597) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+1. ❌ Closed PR [#94](https://github.com/primer/github-vscode-theme/pull/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+2. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+3. ❗️ Opened issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+4. 🗣 Commented on [#37](https://github.com/johannchopin/gitmoji-browser-extension/issues/37) in [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension)
+5. 🗣 Commented on [#14](https://github.com/lalalilo/gitmemoji/issues/14) in [lalalilo/gitmemoji](https://github.com/lalalilo/gitmemoji)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
