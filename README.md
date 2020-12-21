@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#94](https://github.com/primer/github-vscode-theme/pull/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-2. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-3. ❗️ Opened issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 🗣 Commented on [#37](https://github.com/johannchopin/gitmoji-browser-extension/issues/37) in [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension)
-5. 🗣 Commented on [#14](https://github.com/lalalilo/gitmemoji/issues/14) in [lalalilo/gitmemoji](https://github.com/lalalilo/gitmemoji)
+1. 💪 Opened PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+2. ❌ Closed PR [#94](https://github.com/primer/github-vscode-theme/pull/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+3. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+4. ❗️ Opened issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+5. 🗣 Commented on [#37](https://github.com/johannchopin/gitmoji-browser-extension/issues/37) in [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
