@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#49](https://github.com/max-programming/max-todos/pull/49) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. 💪 Opened PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-3. ❌ Closed PR [#94](https://github.com/primer/github-vscode-theme/pull/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-4. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-5. ❗️ Opened issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+1. ❗️ Closed issue [#2](https://github.com/max-programming/battery-info-typescript/issues/2) in [max-programming/battery-info-typescript](https://github.com/max-programming/battery-info-typescript)
+2. 🎉 Merged PR [#5](https://github.com/max-programming/battery-info-typescript/pull/5) in [max-programming/battery-info-typescript](https://github.com/max-programming/battery-info-typescript)
+3. 🎉 Merged PR [#49](https://github.com/max-programming/max-todos/pull/49) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 💪 Opened PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+5. ❌ Closed PR [#94](https://github.com/primer/github-vscode-theme/pull/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
