@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-2. ❌ Closed PR [#94](https://github.com/primer/github-vscode-theme/pull/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-3. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-4. ❗️ Opened issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. 🗣 Commented on [#37](https://github.com/johannchopin/gitmoji-browser-extension/issues/37) in [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension)
+1. 🎉 Merged PR [#49](https://github.com/max-programming/max-todos/pull/49) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 💪 Opened PR [#7](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/7) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+3. ❌ Closed PR [#94](https://github.com/primer/github-vscode-theme/pull/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+4. 🗣 Commented on [#94](https://github.com/primer/github-vscode-theme/issues/94) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+5. ❗️ Opened issue [#6](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/6) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
