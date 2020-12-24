@@ -85,7 +85,9 @@
 ## ▶ My Latest YouTube Videos
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=6LJM05gl-xQ"><img width="140px" src="https://i.ytimg.com/vi/6LJM05gl-xQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=Iur-3V2W3P4"><img width="140px" src="https://i.ytimg.com/vi/Iur-3V2W3P4/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Iur-3V2W3P4">How to use serviceWorker in Create React App 4</a><br/>Dec 24, 2020</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=6LJM05gl-xQ"><img width="140px" src="https://i.ytimg.com/vi/6LJM05gl-xQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=6LJM05gl-xQ">How to change the favicon according to system dark mode</a><br/>Dec 20, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=sfMgdyshCLk"><img width="140px" src="https://i.ytimg.com/vi/sfMgdyshCLk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sfMgdyshCLk">What is the useEffect hook in React</a><br/>Dec 10, 2020</td></tr>
@@ -93,8 +95,6 @@
 <td><a href="https://www.youtube.com/watch?v=mqJw3TLfBFk">Build a Cricket Score Counter mobile app using React Native: Setup on a physical device</a><br/>Dec 6, 2020</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ScMvV5uW4hQ"><img width="140px" src="https://i.ytimg.com/vi/ScMvV5uW4hQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ScMvV5uW4hQ">How to create Discord-like Emoji hover effect using HTML CSS and JavaScript</a><br/>Nov 30, 2020</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=UB6cWXzYALk"><img width="140px" src="https://i.ytimg.com/vi/UB6cWXzYALk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UB6cWXzYALk">How to create Custom Emmet Snippets in VS Code!</a><br/>Nov 10, 2020</td></tr>
 <!-- YOUTUBE:END -->
   </tbody>
  <table>
