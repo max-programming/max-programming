@@ -76,10 +76,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#419](https://github.com/EddieJaoudeCommunity/support/issues/419) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. ❗️ Opened issue [#51](https://github.com/max-programming/max-todos/issues/51) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. ❗️ Closed issue [#50](https://github.com/max-programming/max-todos/issues/50) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. ❗️ Opened issue [#50](https://github.com/max-programming/max-todos/issues/50) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🗣 Commented on [#37](https://github.com/johannchopin/gitmoji-browser-extension/issues/37) in [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension)
+2. 🗣 Commented on [#419](https://github.com/EddieJaoudeCommunity/support/issues/419) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 🗣 Commented on [#419](https://github.com/EddieJaoudeCommunity/support/issues/419) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+4. ❗️ Opened issue [#51](https://github.com/max-programming/max-todos/issues/51) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. ❗️ Closed issue [#50](https://github.com/max-programming/max-todos/issues/50) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
