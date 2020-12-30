@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#51](https://github.com/max-programming/max-todos/issues/51) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. ❗️ Closed issue [#50](https://github.com/max-programming/max-todos/issues/50) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. ❗️ Opened issue [#50](https://github.com/max-programming/max-todos/issues/50) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🗣 Commented on [#37](https://github.com/johannchopin/gitmoji-browser-extension/issues/37) in [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension)
-5. ❗️ Closed issue [#2](https://github.com/max-programming/battery-info-typescript/issues/2) in [max-programming/battery-info-typescript](https://github.com/max-programming/battery-info-typescript)
+1. 🗣 Commented on [#419](https://github.com/EddieJaoudeCommunity/support/issues/419) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+2. ❗️ Opened issue [#51](https://github.com/max-programming/max-todos/issues/51) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. ❗️ Closed issue [#50](https://github.com/max-programming/max-todos/issues/50) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. ❗️ Opened issue [#50](https://github.com/max-programming/max-todos/issues/50) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🗣 Commented on [#37](https://github.com/johannchopin/gitmoji-browser-extension/issues/37) in [johannchopin/gitmoji-browser-extension](https://github.com/johannchopin/gitmoji-browser-extension)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
