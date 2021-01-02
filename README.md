@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#419](https://github.com/EddieJaoudeCommunity/support/issues/419) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+1. 🗣 Commented on [#52](https://github.com/max-programming/max-todos/issues/52) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 2. 🗣 Commented on [#419](https://github.com/EddieJaoudeCommunity/support/issues/419) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
 3. 🗣 Commented on [#419](https://github.com/EddieJaoudeCommunity/support/issues/419) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-4. ❗️ Opened issue [#51](https://github.com/max-programming/max-todos/issues/51) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. ❗️ Closed issue [#50](https://github.com/max-programming/max-todos/issues/50) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 🗣 Commented on [#419](https://github.com/EddieJaoudeCommunity/support/issues/419) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+5. ❗️ Opened issue [#51](https://github.com/max-programming/max-todos/issues/51) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
