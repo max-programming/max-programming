@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/arturssmirnovs/parluks/issues/1) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-2. 🗣 Commented on [#24](https://github.com/noahbuscher/inspire/issues/24) in [noahbuscher/inspire](https://github.com/noahbuscher/inspire)
-3. 💪 Opened PR [#1](https://github.com/arturssmirnovs/parluks/pull/1) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-4. 🗣 Commented on [#21](https://github.com/fiwl-js/fiwl-js.github.io/issues/21) in [fiwl-js/fiwl-js.github.io](https://github.com/fiwl-js/fiwl-js.github.io)
-5. 💪 Opened PR [#21](https://github.com/fiwl-js/fiwl-js.github.io/pull/21) in [fiwl-js/fiwl-js.github.io](https://github.com/fiwl-js/fiwl-js.github.io)
+1. 💪 Opened PR [#3](https://github.com/arturssmirnovs/parluks/pull/3) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+2. ❗️ Opened issue [#2](https://github.com/arturssmirnovs/parluks/issues/2) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+3. 🗣 Commented on [#1](https://github.com/arturssmirnovs/parluks/issues/1) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+4. 🗣 Commented on [#24](https://github.com/noahbuscher/inspire/issues/24) in [noahbuscher/inspire](https://github.com/noahbuscher/inspire)
+5. 💪 Opened PR [#1](https://github.com/arturssmirnovs/parluks/pull/1) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
