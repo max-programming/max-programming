@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/fiwl-js/fiwl-js.github.io/issues/21) in [fiwl-js/fiwl-js.github.io](https://github.com/fiwl-js/fiwl-js.github.io)
-2. 💪 Opened PR [#21](https://github.com/fiwl-js/fiwl-js.github.io/pull/21) in [fiwl-js/fiwl-js.github.io](https://github.com/fiwl-js/fiwl-js.github.io)
-3. 🗣 Commented on [#52](https://github.com/max-programming/max-todos/issues/52) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🗣 Commented on [#43](https://github.com/max-programming/max-todos/issues/43) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🗣 Commented on [#52](https://github.com/max-programming/max-todos/issues/52) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 💪 Opened PR [#1](https://github.com/arturssmirnovs/parluks/pull/1) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+2. 🗣 Commented on [#21](https://github.com/fiwl-js/fiwl-js.github.io/issues/21) in [fiwl-js/fiwl-js.github.io](https://github.com/fiwl-js/fiwl-js.github.io)
+3. 💪 Opened PR [#21](https://github.com/fiwl-js/fiwl-js.github.io/pull/21) in [fiwl-js/fiwl-js.github.io](https://github.com/fiwl-js/fiwl-js.github.io)
+4. 🗣 Commented on [#52](https://github.com/max-programming/max-todos/issues/52) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🗣 Commented on [#43](https://github.com/max-programming/max-todos/issues/43) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
