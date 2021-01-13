@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/AlexTorresSk/custom-electron-titlebar/pull/122) in [AlexTorresSk/custom-electron-titlebar](https://github.com/AlexTorresSk/custom-electron-titlebar)
-2. 💪 Opened PR [#4](https://github.com/arturssmirnovs/parluks/pull/4) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-3. ❗️ Opened issue [#42311](https://github.com/microsoft/TypeScript/issues/42311) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
-4. 🎉 Merged PR [#53](https://github.com/max-programming/max-todos/pull/53) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. ❗️ Opened issue [#114242](https://github.com/microsoft/vscode/issues/114242) in [microsoft/vscode](https://github.com/microsoft/vscode)
+1. 🗣 Commented on [#42311](https://github.com/microsoft/TypeScript/issues/42311) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+2. 💪 Opened PR [#122](https://github.com/AlexTorresSk/custom-electron-titlebar/pull/122) in [AlexTorresSk/custom-electron-titlebar](https://github.com/AlexTorresSk/custom-electron-titlebar)
+3. 💪 Opened PR [#4](https://github.com/arturssmirnovs/parluks/pull/4) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+4. ❗️ Opened issue [#42311](https://github.com/microsoft/TypeScript/issues/42311) in [microsoft/TypeScript](https://github.com/microsoft/TypeScript)
+5. 🎉 Merged PR [#53](https://github.com/max-programming/max-todos/pull/53) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
