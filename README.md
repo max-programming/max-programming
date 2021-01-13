@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#419](https://github.com/EddieJaoudeCommunity/support/issues/419) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
-2. 💪 Opened PR [#3](https://github.com/arturssmirnovs/parluks/pull/3) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-3. ❗️ Opened issue [#2](https://github.com/arturssmirnovs/parluks/issues/2) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-4. 🗣 Commented on [#1](https://github.com/arturssmirnovs/parluks/issues/1) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-5. 🗣 Commented on [#24](https://github.com/noahbuscher/inspire/issues/24) in [noahbuscher/inspire](https://github.com/noahbuscher/inspire)
+1. ❗️ Opened issue [#114242](https://github.com/microsoft/vscode/issues/114242) in [microsoft/vscode](https://github.com/microsoft/vscode)
+2. 🗣 Commented on [#419](https://github.com/EddieJaoudeCommunity/support/issues/419) in [EddieJaoudeCommunity/support](https://github.com/EddieJaoudeCommunity/support)
+3. 💪 Opened PR [#3](https://github.com/arturssmirnovs/parluks/pull/3) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+4. ❗️ Opened issue [#2](https://github.com/arturssmirnovs/parluks/issues/2) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+5. 🗣 Commented on [#1](https://github.com/arturssmirnovs/parluks/issues/1) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
