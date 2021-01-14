@@ -86,7 +86,7 @@
 <table>
   <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=tHzmSuBRb0k"><img width="140px" src="https://i.ytimg.com/vi/tHzmSuBRb0k/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tHzmSuBRb0k">Setting up TypeScript and Node with Express</a><br/>Jan 14, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=tHzmSuBRb0k">How to set up TypeScript with Node and Express</a><br/>Jan 14, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=660-wn1bZe8"><img width="140px" src="https://i.ytimg.com/vi/660-wn1bZe8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=660-wn1bZe8">Build a Cricket Score Counter mobile app using React Native: Creating the runs buttons</a><br/>Jan 10, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=XxV395LzRTk"><img width="140px" src="https://i.ytimg.com/vi/XxV395LzRTk/mqdefault.jpg"></a></td>
