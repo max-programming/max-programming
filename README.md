@@ -172,11 +172,13 @@ So, if you don't know, my name is Usman and I am a learner. Now let's start!
 🚨 A Ternary Operator is an operator that makes a decision based on what cond... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-
+## GitHub Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.max-programming.vercel.app/api?username=max-programming&show_icons=true&theme=react&count_private=true" alt="max-programming" /></p>
 
+## Top Languages
 <p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=max-programming&layout=compact&hide=html&theme=react" alt="max-programming" /></p> 
 
+## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=max-programming&theme=github" alt="max-programming" /></p> 
 
 
