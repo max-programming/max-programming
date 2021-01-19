@@ -178,6 +178,8 @@ So, if you don't know, my name is Usman and I am a learner. Now let's start!
 ## Top Languages
 <p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=max-programming&layout=compact&hide=html&theme=react" alt="max-programming" /></p> 
 
+<br>
+
 ## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=max-programming&theme=github" alt="max-programming" /></p> 
 
