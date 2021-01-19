@@ -84,9 +84,12 @@
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-## ▶ My Latest YouTube Videos
+<details>
+<summary>
+  <h2>▶ My Latest YouTube Videos</h2>
+  </summary>
 <table>
+  
   <tbody>
 <!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=tHzmSuBRb0k"><img width="140px" src="https://i.ytimg.com/vi/tHzmSuBRb0k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tHzmSuBRb0k">How to set up TypeScript with Node and Express</a><br/>Jan 14, 2021</td></tr>
@@ -100,7 +103,10 @@
 <td><a href="https://www.youtube.com/watch?v=Iur-3V2W3P4">How to use serviceWorker in Create React App 4</a><br/>Dec 24, 2020</td></tr>
 <!-- YOUTUBE:END -->
   </tbody>
+    
  <table>
+   </details>
+  
    
 ## 👀 My Latest Blog Posts 
    
