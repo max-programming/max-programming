@@ -173,9 +173,11 @@ So, if you don't know, my name is Usman and I am a learner. Now let's start!
 <!-- HASHNODE_BLOG:END -->
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.max-programming.vercel.app/api?username=max-programming&show_icons=true&theme=onedark&count_private=true" alt="max-programming" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.max-programming.vercel.app/api?username=max-programming&show_icons=true&theme=react&count_private=true" alt="max-programming" /></p>
 
-<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=max-programming&layout=compact&hide=html&theme=onedark" alt="max-programming" /></p> 
+<p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=max-programming&layout=compact&hide=html&theme=react" alt="max-programming" /></p> 
+
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=max-programming&theme=github" alt="max-programming" /></p> 
 
 
 
