@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#54](https://github.com/max-programming/max-todos/issues/54) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. ❗️ Closed issue [#42](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/42) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-3. 🗣 Commented on [#42](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/42) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+1. 💪 Opened PR [#8](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/8) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+2. 🗣 Commented on [#54](https://github.com/max-programming/max-todos/issues/54) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. ❗️ Closed issue [#42](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/42) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 4. 🗣 Commented on [#42](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/42) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-5. ❌ Closed PR [#1](https://github.com/max-programming/max-programming/pull/1) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
+5. 🗣 Commented on [#42](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/42) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
