@@ -75,11 +75,11 @@
   <summary>:zap: Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/arturssmirnovs/parluks/issues/7) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-2. ❗️ Opened issue [#7](https://github.com/arturssmirnovs/parluks/issues/7) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-3. 💪 Opened PR [#6](https://github.com/arturssmirnovs/parluks/pull/6) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-4. ❗️ Opened issue [#23](https://github.com/leveluptuts/level-up-vscode-theme/issues/23) in [leveluptuts/level-up-vscode-theme](https://github.com/leveluptuts/level-up-vscode-theme)
-5. ❗️ Opened issue [#126](https://github.com/primer/github-vscode-theme/issues/126) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+1. 💪 Opened PR [#8](https://github.com/arturssmirnovs/parluks/pull/8) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+2. 🗣 Commented on [#7](https://github.com/arturssmirnovs/parluks/issues/7) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+3. ❗️ Opened issue [#7](https://github.com/arturssmirnovs/parluks/issues/7) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+4. 💪 Opened PR [#6](https://github.com/arturssmirnovs/parluks/pull/6) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+5. ❗️ Opened issue [#23](https://github.com/leveluptuts/level-up-vscode-theme/issues/23) in [leveluptuts/level-up-vscode-theme](https://github.com/leveluptuts/level-up-vscode-theme)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
