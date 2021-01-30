@@ -76,10 +76,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/arturssmirnovs/parluks/issues/8) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-2. 💪 Opened PR [#8](https://github.com/arturssmirnovs/parluks/pull/8) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-3. 🗣 Commented on [#7](https://github.com/arturssmirnovs/parluks/issues/7) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-4. ❗️ Opened issue [#7](https://github.com/arturssmirnovs/parluks/issues/7) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-5. 💪 Opened PR [#6](https://github.com/arturssmirnovs/parluks/pull/6) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+2. 🗣 Commented on [#8](https://github.com/arturssmirnovs/parluks/issues/8) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+3. 💪 Opened PR [#8](https://github.com/arturssmirnovs/parluks/pull/8) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+4. 🗣 Commented on [#7](https://github.com/arturssmirnovs/parluks/issues/7) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+5. ❗️ Opened issue [#7](https://github.com/arturssmirnovs/parluks/issues/7) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
