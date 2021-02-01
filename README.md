@@ -72,7 +72,7 @@
 <br />
 <br />
 
-  <summary>:zap: Recent Github Activity</summary>
+  <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/arturssmirnovs/parluks/issues/8) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
