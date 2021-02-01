@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **React.js, Vue.js, Backend with Node and Express**
 
-- 👨‍💻 All of my projects are available at [https://github.com/max-programming](github.com/max-programming)
+- 👨‍💻 All of my projects are available at [github.com/max-programming](https://github.com/max-programming)
 
-- 📝 I write articles on [https://blog.usman-s.me/](blog.usman-s.me/)
+- 📝 I write articles on [blog.usman-s.me/](https://blog.usman-s.me/)
 
 - 💬 Ask me about **React, Basic Vue, JavaScript**
 
