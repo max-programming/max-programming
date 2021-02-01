@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **React.js, Vue.js, Backend with Node and Express**
 
-- 👨‍💻 All of my projects are available at [https://github.com/max-programming](https://github.com/max-programming)
+- 👨‍💻 All of my projects are available at [https://github.com/max-programming](github.com/max-programming)
 
-- 📝 I write articles on [https://blog.usman-s.me/](https://blog.usman-s.me/)
+- 📝 I write articles on [https://blog.usman-s.me/](blog.usman-s.me/)
 
 - 💬 Ask me about **React, Basic Vue, JavaScript**
 
@@ -49,7 +49,7 @@
   <a href="https://www.facebook.com/usman.sabuwala.7"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
   <a href="https://www.instagram.com/usmansabuwala7/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://twitter.com/MaxProgramming1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://usman2102.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
+  <a href="https://blog.usman-s.me/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
   <a href="https://dev.to/maxprogramming"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 <p align="center">
