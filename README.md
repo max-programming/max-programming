@@ -88,7 +88,9 @@
 ## ▶ My Latest YouTube Videos
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=uRd4YXSZ0_M"><img width="140px" src="https://i.ytimg.com/vi/uRd4YXSZ0_M/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=flABv88fyuQ"><img width="140px" src="https://i.ytimg.com/vi/flABv88fyuQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=flABv88fyuQ">Build a Cricket Score Counter mobile app using React Native: Creating the other buttons</a><br/>Feb 9, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=uRd4YXSZ0_M"><img width="140px" src="https://i.ytimg.com/vi/uRd4YXSZ0_M/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=uRd4YXSZ0_M">How to create Twitter Profile Hover Card using HTML and CSS</a><br/>Jan 24, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tHzmSuBRb0k"><img width="140px" src="https://i.ytimg.com/vi/tHzmSuBRb0k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tHzmSuBRb0k">How to set up TypeScript with Node and Express</a><br/>Jan 14, 2021</td></tr>
@@ -96,8 +98,6 @@
 <td><a href="https://www.youtube.com/watch?v=660-wn1bZe8">Build a Cricket Score Counter mobile app using React Native: Creating the runs buttons</a><br/>Jan 10, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=XxV395LzRTk"><img width="140px" src="https://i.ytimg.com/vi/XxV395LzRTk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XxV395LzRTk">How to use Props in React with TypeScript</a><br/>Jan 4, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=aG-wLVuVcCk"><img width="140px" src="https://i.ytimg.com/vi/aG-wLVuVcCk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aG-wLVuVcCk">Build a Cricket Score Counter mobile app using React Native: Creating the Score section</a><br/>Dec 30, 2020</td></tr>
 <!-- YOUTUBE:END -->
   </tbody>
  <table>
