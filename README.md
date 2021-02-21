@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3593](https://github.com/simple-icons/simple-icons/issues/3593) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 🗣 Commented on [#8](https://github.com/arturssmirnovs/parluks/issues/8) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+1. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+2. 🗣 Commented on [#3593](https://github.com/simple-icons/simple-icons/issues/3593) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 3. 🗣 Commented on [#8](https://github.com/arturssmirnovs/parluks/issues/8) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
 4. 🗣 Commented on [#8](https://github.com/arturssmirnovs/parluks/issues/8) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
-5. 💪 Opened PR [#8](https://github.com/arturssmirnovs/parluks/pull/8) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
+5. 🗣 Commented on [#8](https://github.com/arturssmirnovs/parluks/issues/8) in [arturssmirnovs/parluks](https://github.com/arturssmirnovs/parluks)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
