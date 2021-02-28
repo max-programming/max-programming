@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1051](https://github.com/vercel/pkg/issues/1051) in [vercel/pkg](https://github.com/vercel/pkg)
-2. 🗣 Commented on [#799](https://github.com/nexe/nexe/issues/799) in [nexe/nexe](https://github.com/nexe/nexe)
+1. 🗣 Commented on [#229](https://github.com/vercel/pkg/issues/229) in [vercel/pkg](https://github.com/vercel/pkg)
+2. ❗️ Opened issue [#1051](https://github.com/vercel/pkg/issues/1051) in [vercel/pkg](https://github.com/vercel/pkg)
 3. 🗣 Commented on [#799](https://github.com/nexe/nexe/issues/799) in [nexe/nexe](https://github.com/nexe/nexe)
-4. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. 🗣 Commented on [#3593](https://github.com/simple-icons/simple-icons/issues/3593) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+4. 🗣 Commented on [#799](https://github.com/nexe/nexe/issues/799) in [nexe/nexe](https://github.com/nexe/nexe)
+5. 🗣 Commented on [#3](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/3) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
