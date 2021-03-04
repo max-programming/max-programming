@@ -78,9 +78,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1051](https://github.com/vercel/pkg/issues/1051) in [vercel/pkg](https://github.com/vercel/pkg)
-2. 🗣 Commented on [#229](https://github.com/vercel/pkg/issues/229) in [vercel/pkg](https://github.com/vercel/pkg)
-3. ❗️ Opened issue [#1051](https://github.com/vercel/pkg/issues/1051) in [vercel/pkg](https://github.com/vercel/pkg)
-4. 🗣 Commented on [#799](https://github.com/nexe/nexe/issues/799) in [nexe/nexe](https://github.com/nexe/nexe)
+2. 🗣 Commented on [#1051](https://github.com/vercel/pkg/issues/1051) in [vercel/pkg](https://github.com/vercel/pkg)
+3. 🗣 Commented on [#229](https://github.com/vercel/pkg/issues/229) in [vercel/pkg](https://github.com/vercel/pkg)
+4. ❗️ Opened issue [#1051](https://github.com/vercel/pkg/issues/1051) in [vercel/pkg](https://github.com/vercel/pkg)
 5. 🗣 Commented on [#799](https://github.com/nexe/nexe/issues/799) in [nexe/nexe](https://github.com/nexe/nexe)
 <!--END_SECTION:activity-->
 
