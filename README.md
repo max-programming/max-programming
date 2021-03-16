@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#84](https://github.com/cossssmin/tailwindcss-border-gradients/pull/84) in [cossssmin/tailwindcss-border-gradients](https://github.com/cossssmin/tailwindcss-border-gradients)
-2. 🗣 Commented on [#1051](https://github.com/vercel/pkg/issues/1051) in [vercel/pkg](https://github.com/vercel/pkg)
+1. 🗣 Commented on [#9776](https://github.com/facebook/create-react-app/issues/9776) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+2. 💪 Opened PR [#84](https://github.com/cossssmin/tailwindcss-border-gradients/pull/84) in [cossssmin/tailwindcss-border-gradients](https://github.com/cossssmin/tailwindcss-border-gradients)
 3. 🗣 Commented on [#1051](https://github.com/vercel/pkg/issues/1051) in [vercel/pkg](https://github.com/vercel/pkg)
-4. 🗣 Commented on [#229](https://github.com/vercel/pkg/issues/229) in [vercel/pkg](https://github.com/vercel/pkg)
-5. ❗️ Opened issue [#1051](https://github.com/vercel/pkg/issues/1051) in [vercel/pkg](https://github.com/vercel/pkg)
+4. 🗣 Commented on [#1051](https://github.com/vercel/pkg/issues/1051) in [vercel/pkg](https://github.com/vercel/pkg)
+5. 🗣 Commented on [#229](https://github.com/vercel/pkg/issues/229) in [vercel/pkg](https://github.com/vercel/pkg)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
