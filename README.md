@@ -90,7 +90,9 @@
 ## ▶ My Latest YouTube Videos
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=t6phR2qiiDk"><img width="140px" src="https://i.ytimg.com/vi/t6phR2qiiDk/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=ciRdVJh9LRU"><img width="140px" src="https://i.ytimg.com/vi/ciRdVJh9LRU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ciRdVJh9LRU">How to bundle a TypeScript app using Parcel</a><br/>Mar 30, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=t6phR2qiiDk"><img width="140px" src="https://i.ytimg.com/vi/t6phR2qiiDk/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t6phR2qiiDk">Arrays in JavaScript explained</a><br/>Mar 1, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=flABv88fyuQ"><img width="140px" src="https://i.ytimg.com/vi/flABv88fyuQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=flABv88fyuQ">Build a Cricket Score Counter mobile app using React Native: Creating the other buttons</a><br/>Feb 9, 2021</td></tr>
@@ -98,8 +100,6 @@
 <td><a href="https://www.youtube.com/watch?v=uRd4YXSZ0_M">How to create Twitter Profile Hover Card using HTML and CSS</a><br/>Jan 24, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tHzmSuBRb0k"><img width="140px" src="https://i.ytimg.com/vi/tHzmSuBRb0k/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tHzmSuBRb0k">How to set up TypeScript with Node and Express</a><br/>Jan 14, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=660-wn1bZe8"><img width="140px" src="https://i.ytimg.com/vi/660-wn1bZe8/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=660-wn1bZe8">Build a Cricket Score Counter mobile app using React Native: Creating the runs buttons</a><br/>Jan 10, 2021</td></tr>
 <!-- YOUTUBE:END -->
   </tbody>
  <table>
