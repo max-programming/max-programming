@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#573](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues/573) in [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
-2. 🗣 Commented on [#998](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues/998) in [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
-3. 🗣 Commented on [#1200](https://github.com/npm/cli/issues/1200) in [npm/cli](https://github.com/npm/cli)
-4. 🎉 Merged PR [#57](https://github.com/max-programming/max-todos/pull/57) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🗣 Commented on [#9776](https://github.com/facebook/create-react-app/issues/9776) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+1. 💪 Opened PR [#1](https://github.com/philippbosch/tailwindcss-selection-variant/pull/1) in [philippbosch/tailwindcss-selection-variant](https://github.com/philippbosch/tailwindcss-selection-variant)
+2. 🗣 Commented on [#573](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues/573) in [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
+3. 🗣 Commented on [#998](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues/998) in [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
+4. 🗣 Commented on [#1200](https://github.com/npm/cli/issues/1200) in [npm/cli](https://github.com/npm/cli)
+5. 🎉 Merged PR [#57](https://github.com/max-programming/max-todos/pull/57) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
