@@ -108,69 +108,69 @@
    
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/how-to-create-twitter-profile-hover-card-using-html-and-css-ckkhz7uvz00aog4s1am7u70fv" title="🎨 How to create Twitter Profile Hover Card using HTML and CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611905993702/akVYADg6g.png" alt="🎨 How to create Twitter Profile Hover Card using HTML and CSS" width="250px" align="left" /></a>
+<a href="https://usmanwrites.hashnode.dev/how-to-quickly-spot-errors-in-your-javascript-code-in-vs-code-cknhg353b02i12ks1ffe1aqkg" title="🐛 How to quickly spot errors in your JavaScript code in VS Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618404188804/JCkGJFKhD.png" alt="🐛 How to quickly spot errors in your JavaScript code in VS Code" width="250px" align="left" /></a>
+<a href="https://usmanwrites.hashnode.dev/how-to-quickly-spot-errors-in-your-javascript-code-in-vs-code-cknhg353b02i12ks1ffe1aqkg" title="🐛 How to quickly spot errors in your JavaScript code in VS Code"><strong>🐛 How to quickly spot errors in your JavaScript code in VS Code</strong></a>
+<br/> Hello again 👋
+This is a very amazing way to use the powers of Visual Studio Code in your JavaScript files to quickly spot errors.
+
+You might know about  TypeScript . It's a wonderful superset of JavaScript which gives JS the power of types and helps... </p> <br/> <br/>
+<p align="left">
+<a href="https://usmanwrites.hashnode.dev/how-to-create-twitter-profile-hover-card-using-html-and-css-ckkhz7uvz00aog4s1am7u70fv" title="🎨 How to create Twitter Profile Hover Card using HTML and CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611905993702/akVYADg6g.png" alt="🎨 How to create Twitter Profile Hover Card using HTML and CSS" width="250px" align="right" /></a>
 <a href="https://usmanwrites.hashnode.dev/how-to-create-twitter-profile-hover-card-using-html-and-css-ckkhz7uvz00aog4s1am7u70fv" title="🎨 How to create Twitter Profile Hover Card using HTML and CSS"><strong>🎨 How to create Twitter Profile Hover Card using HTML and CSS</strong></a>
 <br/> Welcome back developers! 👋
 In this post, we'll see how you can recreate the hover card by Twitter using HTML and CSS, so let's get started.
 This hover card will appear when you hover over any profile. But in our case, we will just make the over card... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/how-to-make-your-react-app-a-pwa-with-create-react-app-4-ckj3sjucc01wcozs1azop67kr" title="✨ How to make your React app a PWA with Create React App 4"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608871466811/e5_5zDD81.png" alt="✨ How to make your React app a PWA with Create React App 4" width="250px" align="right" /></a>
+<a href="https://usmanwrites.hashnode.dev/how-to-make-your-react-app-a-pwa-with-create-react-app-4-ckj3sjucc01wcozs1azop67kr" title="✨ How to make your React app a PWA with Create React App 4"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608871466811/e5_5zDD81.png" alt="✨ How to make your React app a PWA with Create React App 4" width="250px" align="left" /></a>
 <a href="https://usmanwrites.hashnode.dev/how-to-make-your-react-app-a-pwa-with-create-react-app-4-ckj3sjucc01wcozs1azop67kr" title="✨ How to make your React app a PWA with Create React App 4"><strong>✨ How to make your React app a PWA with Create React App 4</strong></a>
 <br/> Welcome back developers 👋.
 Create React App or react-scripts is a great tool to scaffold out our React Apps. And one of the best parts of it was that we got a readymade serviceWorker.js file with it which would help us make the React app offline so ... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/how-to-change-the-favicon-according-to-system-dark-mode-ckiify2zt059680s1ek9c8ewn" title="🌓 How to change the favicon according to system dark mode!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607580494174/JRrtZUUoP.png" alt="🌓 How to change the favicon according to system dark mode!" width="250px" align="left" /></a>
+<a href="https://usmanwrites.hashnode.dev/how-to-change-the-favicon-according-to-system-dark-mode-ckiify2zt059680s1ek9c8ewn" title="🌓 How to change the favicon according to system dark mode!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607580494174/JRrtZUUoP.png" alt="🌓 How to change the favicon according to system dark mode!" width="250px" align="right" /></a>
 <a href="https://usmanwrites.hashnode.dev/how-to-change-the-favicon-according-to-system-dark-mode-ckiify2zt059680s1ek9c8ewn" title="🌓 How to change the favicon according to system dark mode!"><strong>🌓 How to change the favicon according to system dark mode!</strong></a>
 <br/> 👋 Hi again!
 Welcome back to another blog post and this one will also be quite helpful! In this post, I have covered about how you can change the favicon according to system dark mode.
 An example is  GitHub. When my system color is dark, the logo bec... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/how-to-use-microsoft-fluent-ui-icons-on-your-website-ckhsswovt08ges6s179407qx5" title="💄 How to use Microsoft Fluent UI Icons on your website?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606029962194/FHCkaxrFK.png" alt="💄 How to use Microsoft Fluent UI Icons on your website?" width="250px" align="right" /></a>
+<a href="https://usmanwrites.hashnode.dev/how-to-use-microsoft-fluent-ui-icons-on-your-website-ckhsswovt08ges6s179407qx5" title="💄 How to use Microsoft Fluent UI Icons on your website?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606029962194/FHCkaxrFK.png" alt="💄 How to use Microsoft Fluent UI Icons on your website?" width="250px" align="left" /></a>
 <a href="https://usmanwrites.hashnode.dev/how-to-use-microsoft-fluent-ui-icons-on-your-website-ckhsswovt08ges6s179407qx5" title="💄 How to use Microsoft Fluent UI Icons on your website?"><strong>💄 How to use Microsoft Fluent UI Icons on your website?</strong></a>
 <br/> 👋 Hey Developers!
 I really love the icons used and provided by Microsoft in their products. And I always wish to use them in my projects. But it is pretty hard to find a way to use them. This post will help you to use them in your project!
 It is pre... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/easy-copy-to-clipboard-button-in-vanilla-javascript-ckhfph9qh08jtzms18h0ehykf" title="💡 Easy Copy to Clipboard Button in Vanilla JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605238355074/j10AmEa2x.png" alt="💡 Easy Copy to Clipboard Button in Vanilla JavaScript" width="250px" align="left" /></a>
+<a href="https://usmanwrites.hashnode.dev/easy-copy-to-clipboard-button-in-vanilla-javascript-ckhfph9qh08jtzms18h0ehykf" title="💡 Easy Copy to Clipboard Button in Vanilla JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605238355074/j10AmEa2x.png" alt="💡 Easy Copy to Clipboard Button in Vanilla JavaScript" width="250px" align="right" /></a>
 <a href="https://usmanwrites.hashnode.dev/easy-copy-to-clipboard-button-in-vanilla-javascript-ckhfph9qh08jtzms18h0ehykf" title="💡 Easy Copy to Clipboard Button in Vanilla JavaScript"><strong>💡 Easy Copy to Clipboard Button in Vanilla JavaScript</strong></a>
 <br/> 👋 Welcome back developers.
 So, in this article we will see how we can create a simple Copy to Clipboard functionality in JavaScript.
 
 Note: This will only work if you want to copy text inside of an input or textarea. It can't be done with any other ... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/11-browser-keyboard-shortcuts-that-will-stick-to-your-fingers-ckhd42yd503fmb7s1g2av6h9n" title="⚡ 11 Browser Keyboard Shortcuts that will stick to your fingers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605081338256/AQs3J8xaU.png" alt="⚡ 11 Browser Keyboard Shortcuts that will stick to your fingers" width="250px" align="right" /></a>
+<a href="https://usmanwrites.hashnode.dev/11-browser-keyboard-shortcuts-that-will-stick-to-your-fingers-ckhd42yd503fmb7s1g2av6h9n" title="⚡ 11 Browser Keyboard Shortcuts that will stick to your fingers"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605081338256/AQs3J8xaU.png" alt="⚡ 11 Browser Keyboard Shortcuts that will stick to your fingers" width="250px" align="left" /></a>
 <a href="https://usmanwrites.hashnode.dev/11-browser-keyboard-shortcuts-that-will-stick-to-your-fingers-ckhd42yd503fmb7s1g2av6h9n" title="⚡ 11 Browser Keyboard Shortcuts that will stick to your fingers"><strong>⚡ 11 Browser Keyboard Shortcuts that will stick to your fingers</strong></a>
 <br/> 👋 Welcome back developers!
 In this post, I have covered 11 most useful browser keyboard shortcuts which will stick to your fingers! And this will increase your productivity as well! So let's get startteddd!
 
 Note: These keyboard shortcuts work on al... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/how-to-create-custom-emmet-snippets-in-vs-code-ckhaplmd801bxo0s11z6z4zmh" title="✨ How to create Custom Emmet Snippets in VS Code!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604935891651/QL_sKiZGM.png" alt="✨ How to create Custom Emmet Snippets in VS Code!" width="250px" align="left" /></a>
+<a href="https://usmanwrites.hashnode.dev/how-to-create-custom-emmet-snippets-in-vs-code-ckhaplmd801bxo0s11z6z4zmh" title="✨ How to create Custom Emmet Snippets in VS Code!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604935891651/QL_sKiZGM.png" alt="✨ How to create Custom Emmet Snippets in VS Code!" width="250px" align="right" /></a>
 <a href="https://usmanwrites.hashnode.dev/how-to-create-custom-emmet-snippets-in-vs-code-ckhaplmd801bxo0s11z6z4zmh" title="✨ How to create Custom Emmet Snippets in VS Code!"><strong>✨ How to create Custom Emmet Snippets in VS Code!</strong></a>
 <br/> 👋 Hi again developers!
 This post covers how you can use Custom Emmet Snippets in VS Code. With VS Code's new release: version 1.51!
 
 Emmet is very powerful and very productive! And the mix of Emmet & VS Code, is like never before. But sometimes you ... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/context-api-in-react-ckh808kw905pcras1hhhl0ac2" title="♻️ Context API in React! | Switch to it NOW!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604772609501/HJUxFRhhQ.png" alt="♻️ Context API in React! | Switch to it NOW!" width="250px" align="right" /></a>
+<a href="https://usmanwrites.hashnode.dev/context-api-in-react-ckh808kw905pcras1hhhl0ac2" title="♻️ Context API in React! | Switch to it NOW!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604772609501/HJUxFRhhQ.png" alt="♻️ Context API in React! | Switch to it NOW!" width="250px" align="left" /></a>
 <a href="https://usmanwrites.hashnode.dev/context-api-in-react-ckh808kw905pcras1hhhl0ac2" title="♻️ Context API in React! | Switch to it NOW!"><strong>♻️ Context API in React! | Switch to it NOW!</strong></a>
 <br/> 👋 Hello Developers!!!
 This post covers how you can use the Context API in React. Which is an awesome way to manage your state and get rid of prop drill.
 
 Note: I have used .jsx for component file extensions here, but you can use .js if you want, tha... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/react-17-and-react-scripts-4-ckh5s883i09ff39s1dtlnbj4w" title="✨ React 17 and React Scripts 4 | A Walkthrough"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604772525902/0JTmH3Krw.png" alt="✨ React 17 and React Scripts 4 | A Walkthrough" width="250px" align="left" /></a>
+<a href="https://usmanwrites.hashnode.dev/react-17-and-react-scripts-4-ckh5s883i09ff39s1dtlnbj4w" title="✨ React 17 and React Scripts 4 | A Walkthrough"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604772525902/0JTmH3Krw.png" alt="✨ React 17 and React Scripts 4 | A Walkthrough" width="250px" align="right" /></a>
 <a href="https://usmanwrites.hashnode.dev/react-17-and-react-scripts-4-ckh5s883i09ff39s1dtlnbj4w" title="✨ React 17 and React Scripts 4 | A Walkthrough"><strong>✨ React 17 and React Scripts 4 | A Walkthrough</strong></a>
 <br/> 👋 Hello Developers
 This post covers how you can update your app to use React 17. And what do you get from using React 17 and React Scripts 4
 So React 17 and React Scripts 4 are successfully released. Actually React 17 was released with no new featur... </p> <br/> <br/>
-<p align="left">
-
-<a href="https://usmanwrites.hashnode.dev/initialize-a-desktop-app-with-electronjs-1-cke9h3hey018wy0s1ectf2tjm" title="Initialize a 🖥 desktop app with Electron.js"><strong>Initialize a 🖥 desktop app with Electron.js</strong></a>
-<br/> 👋 HELLO DEVELOPERS!
-This blog post is about how you can start a desktop app with  Electron.js .
-🚨 Electron.js is a JavaScript framework that lets you build 🖥 DESKTOP APPS / SOFTWARES using nothing but HTML, CSS, and JavaScript.
-So if you also wann... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
