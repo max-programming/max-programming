@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#145](https://github.com/primer/github-vscode-theme/issues/145) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-2. ❗️ Opened issue [#145](https://github.com/primer/github-vscode-theme/issues/145) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-3. 💪 Opened PR [#1](https://github.com/philippbosch/tailwindcss-selection-variant/pull/1) in [philippbosch/tailwindcss-selection-variant](https://github.com/philippbosch/tailwindcss-selection-variant)
-4. 🗣 Commented on [#573](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues/573) in [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
-5. 🗣 Commented on [#998](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues/998) in [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
+1. 💪 Opened PR [#1](https://github.com/janaSunrise/spotify-playing-readme/pull/1) in [janaSunrise/spotify-playing-readme](https://github.com/janaSunrise/spotify-playing-readme)
+2. 🗣 Commented on [#145](https://github.com/primer/github-vscode-theme/issues/145) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+3. ❗️ Opened issue [#145](https://github.com/primer/github-vscode-theme/issues/145) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+4. 💪 Opened PR [#1](https://github.com/philippbosch/tailwindcss-selection-variant/pull/1) in [philippbosch/tailwindcss-selection-variant](https://github.com/philippbosch/tailwindcss-selection-variant)
+5. 🗣 Commented on [#573](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues/573) in [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
