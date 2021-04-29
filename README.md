@@ -78,10 +78,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/designcourse/threejs-webpack-starter/issues/1) in [designcourse/threejs-webpack-starter](https://github.com/designcourse/threejs-webpack-starter)
-2. 🗣 Commented on [#59](https://github.com/max-programming/max-todos/issues/59) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. 💪 Opened PR [#1](https://github.com/janaSunrise/spotify-playing-readme/pull/1) in [janaSunrise/spotify-playing-readme](https://github.com/janaSunrise/spotify-playing-readme)
-4. 🗣 Commented on [#145](https://github.com/primer/github-vscode-theme/issues/145) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
-5. ❗️ Opened issue [#145](https://github.com/primer/github-vscode-theme/issues/145) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
+2. 🗣 Commented on [#1](https://github.com/designcourse/threejs-webpack-starter/issues/1) in [designcourse/threejs-webpack-starter](https://github.com/designcourse/threejs-webpack-starter)
+3. 🗣 Commented on [#59](https://github.com/max-programming/max-todos/issues/59) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 💪 Opened PR [#1](https://github.com/janaSunrise/spotify-playing-readme/pull/1) in [janaSunrise/spotify-playing-readme](https://github.com/janaSunrise/spotify-playing-readme)
+5. 🗣 Commented on [#145](https://github.com/primer/github-vscode-theme/issues/145) in [primer/github-vscode-theme](https://github.com/primer/github-vscode-theme)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
