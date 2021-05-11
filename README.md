@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#61](https://github.com/max-programming/max-todos/pull/61) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-2. 🎉 Merged PR [#55](https://github.com/max-programming/max-todos/pull/55) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. 🎉 Merged PR [#58](https://github.com/max-programming/max-todos/pull/58) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🎉 Merged PR [#60](https://github.com/max-programming/max-todos/pull/60) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🗣 Commented on [#1](https://github.com/designcourse/threejs-webpack-starter/issues/1) in [designcourse/threejs-webpack-starter](https://github.com/designcourse/threejs-webpack-starter)
+1. ❗️ Opened issue [#1](https://github.com/mdbootstrap/mdb-react-ui-kit/issues/1) in [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit)
+2. 🎉 Merged PR [#61](https://github.com/max-programming/max-todos/pull/61) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. 🎉 Merged PR [#55](https://github.com/max-programming/max-todos/pull/55) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 🎉 Merged PR [#58](https://github.com/max-programming/max-todos/pull/58) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🎉 Merged PR [#60](https://github.com/max-programming/max-todos/pull/60) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
