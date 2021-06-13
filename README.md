@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2451](https://github.com/blitz-js/blitz/pull/2451) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
-2. ❗️ Opened issue [#1](https://github.com/mdbootstrap/mdb-react-ui-kit/issues/1) in [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit)
-3. 🎉 Merged PR [#61](https://github.com/max-programming/max-todos/pull/61) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-4. 🎉 Merged PR [#55](https://github.com/max-programming/max-todos/pull/55) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-5. 🎉 Merged PR [#58](https://github.com/max-programming/max-todos/pull/58) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+1. 💪 Opened PR [#36](https://github.com/apal21/nextjs-progressbar/pull/36) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
+2. 💪 Opened PR [#2451](https://github.com/blitz-js/blitz/pull/2451) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
+3. ❗️ Opened issue [#1](https://github.com/mdbootstrap/mdb-react-ui-kit/issues/1) in [mdbootstrap/mdb-react-ui-kit](https://github.com/mdbootstrap/mdb-react-ui-kit)
+4. 🎉 Merged PR [#61](https://github.com/max-programming/max-todos/pull/61) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🎉 Merged PR [#55](https://github.com/max-programming/max-todos/pull/55) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
