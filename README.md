@@ -80,8 +80,8 @@
 1. 🗣 Commented on [#3](https://github.com/atapas/webapis-playground/issues/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
 2. 🗣 Commented on [#3](https://github.com/atapas/webapis-playground/issues/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
 3. 🗣 Commented on [#3](https://github.com/atapas/webapis-playground/issues/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-4. 💪 Opened PR [#3](https://github.com/atapas/webapis-playground/pull/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-5. 💪 Opened PR [#2](https://github.com/atapas/webapis-playground/pull/2) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+4. 🗣 Commented on [#3](https://github.com/atapas/webapis-playground/issues/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+5. 💪 Opened PR [#3](https://github.com/atapas/webapis-playground/pull/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
