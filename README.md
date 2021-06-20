@@ -78,10 +78,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3](https://github.com/atapas/webapis-playground/issues/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-2. 💪 Opened PR [#3](https://github.com/atapas/webapis-playground/pull/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-3. 💪 Opened PR [#2](https://github.com/atapas/webapis-playground/pull/2) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-4. 💪 Opened PR [#36](https://github.com/apal21/nextjs-progressbar/pull/36) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
-5. 💪 Opened PR [#2451](https://github.com/blitz-js/blitz/pull/2451) in [blitz-js/blitz](https://github.com/blitz-js/blitz)
+2. 🗣 Commented on [#3](https://github.com/atapas/webapis-playground/issues/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+3. 🗣 Commented on [#3](https://github.com/atapas/webapis-playground/issues/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+4. 💪 Opened PR [#3](https://github.com/atapas/webapis-playground/pull/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+5. 💪 Opened PR [#2](https://github.com/atapas/webapis-playground/pull/2) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
