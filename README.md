@@ -90,7 +90,9 @@
 ## ▶ My Latest YouTube Videos
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=QDiA6auJaMg"><img width="140px" src="https://i.ytimg.com/vi/QDiA6auJaMg/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=aSGV-j8dTwY"><img width="140px" src="https://i.ytimg.com/vi/aSGV-j8dTwY/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=aSGV-j8dTwY">Build a File Picker app using HTML, CSS, JavaScript | Vite | File System Access API</a><br/>Jun 21, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=QDiA6auJaMg"><img width="140px" src="https://i.ytimg.com/vi/QDiA6auJaMg/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QDiA6auJaMg">Introduction to the Chrome File System Access API</a><br/>Jun 10, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=QmGGHr0BHkY"><img width="140px" src="https://i.ytimg.com/vi/QmGGHr0BHkY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QmGGHr0BHkY">How to use the dark mode feature in Tailwind CSS</a><br/>Apr 24, 2021</td></tr>
@@ -98,8 +100,6 @@
 <td><a href="https://www.youtube.com/watch?v=U693xrQKFy4">Learn localStorage in JavaScript by building a project!</a><br/>Apr 19, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=i3lMN2JqRtI"><img width="140px" src="https://i.ytimg.com/vi/i3lMN2JqRtI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=i3lMN2JqRtI">How to use ES Modules in Node.js (import & export)</a><br/>Apr 13, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ciRdVJh9LRU"><img width="140px" src="https://i.ytimg.com/vi/ciRdVJh9LRU/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ciRdVJh9LRU">How to bundle a TypeScript app using Parcel</a><br/>Mar 30, 2021</td></tr>
 <!-- YOUTUBE:END -->
   </tbody>
  <table>
