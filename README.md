@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/mattcroat/joy-of-code/pull/13) in [mattcroat/joy-of-code](https://github.com/mattcroat/joy-of-code)
-2. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
-3. 💪 Opened PR [#9](https://github.com/atapas/webapis-playground/pull/9) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-4. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
-5. 🗣 Commented on [#3](https://github.com/atapas/webapis-playground/issues/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+1. ❗️ Opened issue [#770](https://github.com/zenorocha/clipboard.js/issues/770) in [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)
+2. 💪 Opened PR [#13](https://github.com/mattcroat/joy-of-code/pull/13) in [mattcroat/joy-of-code](https://github.com/mattcroat/joy-of-code)
+3. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
+4. 💪 Opened PR [#9](https://github.com/atapas/webapis-playground/pull/9) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+5. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
