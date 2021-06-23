@@ -77,9 +77,9 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/atapas/webapis-playground/pull/9) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-2. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
-3. 🗣 Commented on [#3](https://github.com/atapas/webapis-playground/issues/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+1. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
+2. 💪 Opened PR [#9](https://github.com/atapas/webapis-playground/pull/9) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+3. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
 4. 🗣 Commented on [#3](https://github.com/atapas/webapis-playground/issues/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
 5. 🗣 Commented on [#3](https://github.com/atapas/webapis-playground/issues/3) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
 <!--END_SECTION:activity-->
