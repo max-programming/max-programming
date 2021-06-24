@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
+1. 🗣 Commented on [#13](https://github.com/mattcroat/joy-of-code/issues/13) in [mattcroat/joy-of-code](https://github.com/mattcroat/joy-of-code)
 2. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
-3. ❗️ Opened issue [#770](https://github.com/zenorocha/clipboard.js/issues/770) in [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)
-4. 💪 Opened PR [#13](https://github.com/mattcroat/joy-of-code/pull/13) in [mattcroat/joy-of-code](https://github.com/mattcroat/joy-of-code)
-5. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
+3. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
+4. ❗️ Opened issue [#770](https://github.com/zenorocha/clipboard.js/issues/770) in [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)
+5. 💪 Opened PR [#13](https://github.com/mattcroat/joy-of-code/pull/13) in [mattcroat/joy-of-code](https://github.com/mattcroat/joy-of-code)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
