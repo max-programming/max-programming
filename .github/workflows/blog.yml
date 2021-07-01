@@ -16,7 +16,6 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          USERNAME: 'usmanwrites'
           BLOG_URL: 'blog.usman-s.me'
           STYLE: "blog-alternate"
         env:
