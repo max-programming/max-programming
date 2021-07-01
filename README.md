@@ -6,7 +6,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/MaxProgramming1?color=1DA1F2&logo=Twitter&style=for-the-badge)
 
-- 🔭 I’m currently working on **My Studies**
+- 🔭 I’m currently working on **Learning development**
 
 - 🌱 I’m currently learning **React.js, Vue.js, Backend with Node and Express**
 
