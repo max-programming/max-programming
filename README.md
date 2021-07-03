@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6172](https://github.com/darkreader/darkreader/issues/6172) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-2. ❗️ Closed issue [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
-3. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
-4. 🗣 Commented on [#770](https://github.com/zenorocha/clipboard.js/issues/770) in [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)
-5. 💪 Opened PR [#10](https://github.com/atapas/webapis-playground/pull/10) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+1. 🗣 Commented on [#6172](https://github.com/darkreader/darkreader/issues/6172) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+2. ❗️ Opened issue [#6172](https://github.com/darkreader/darkreader/issues/6172) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. ❗️ Closed issue [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
+4. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
+5. 🗣 Commented on [#770](https://github.com/zenorocha/clipboard.js/issues/770) in [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
