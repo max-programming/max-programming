@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6172](https://github.com/darkreader/darkreader/issues/6172) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-2. ❗️ Opened issue [#6172](https://github.com/darkreader/darkreader/issues/6172) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-3. ❗️ Closed issue [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
-4. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
-5. 🗣 Commented on [#770](https://github.com/zenorocha/clipboard.js/issues/770) in [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js)
+1. 🗣 Commented on [#942](https://github.com/Hacker0x01/react-datepicker/issues/942) in [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker)
+2. 🗣 Commented on [#6172](https://github.com/darkreader/darkreader/issues/6172) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. ❗️ Opened issue [#6172](https://github.com/darkreader/darkreader/issues/6172) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+4. ❗️ Closed issue [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
+5. 🗣 Commented on [#1](https://github.com/max-programming/usman-portfolio/issues/1) in [max-programming/usman-portfolio](https://github.com/max-programming/usman-portfolio)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
