@@ -108,43 +108,43 @@
    
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/how-to-add-routing-loader-using-nprogress-in-a-nextjs-ckqku2iz1003ld7s1hfen691p" title="💫 How to add routing loader using nprogress in a Next.js?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625141319379/XYXZdRTNE.png" alt="💫 How to add routing loader using nprogress in a Next.js?" width="250px" align="left" /></a>
-<a href="https://usmanwrites.hashnode.dev/how-to-add-routing-loader-using-nprogress-in-a-nextjs-ckqku2iz1003ld7s1hfen691p" title="💫 How to add routing loader using nprogress in a Next.js?"><strong>💫 How to add routing loader using nprogress in a Next.js?</strong></a>
-<div><strong>1 July 2021</strong> | <strong>1 July 2021</strong></div>
+<a href="blog.usman-s.me/how-to-add-routing-loader-using-nprogress-in-nextjs" title="💫 How to add routing loader using nprogress in Next.js?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625221932414/rjbSj_res.png" alt="💫 How to add routing loader using nprogress in Next.js?" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/how-to-add-routing-loader-using-nprogress-in-nextjs" title="💫 How to add routing loader using nprogress in Next.js?"><strong>💫 How to add routing loader using nprogress in Next.js?</strong></a>
+<div><strong>1 July 2021</strong> | <strong>2 July 2021</strong></div>
 <br/> Hey everyone 👋!
 So Next.js has been very popular nowadays and I am completely switching from the good old React to the Next.js because it's of course better.
 With the awesome routing system in Next.js, there are a ton of advantages like events and a... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/how-to-quickly-spot-errors-in-your-javascript-code-in-vs-code-cknhg353b02i12ks1ffe1aqkg" title="🐛 How to quickly spot errors in your JavaScript code in VS Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618404188804/JCkGJFKhD.png" alt="🐛 How to quickly spot errors in your JavaScript code in VS Code" width="250px" align="right" /></a>
-<a href="https://usmanwrites.hashnode.dev/how-to-quickly-spot-errors-in-your-javascript-code-in-vs-code-cknhg353b02i12ks1ffe1aqkg" title="🐛 How to quickly spot errors in your JavaScript code in VS Code"><strong>🐛 How to quickly spot errors in your JavaScript code in VS Code</strong></a>
+<a href="blog.usman-s.me/how-to-quickly-spot-errors-in-your-javascript-code-in-vs-code" title="🐛 How to quickly spot errors in your JavaScript code in VS Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618404188804/JCkGJFKhD.png" alt="🐛 How to quickly spot errors in your JavaScript code in VS Code" width="250px" align="right" /></a>
+<a href="blog.usman-s.me/how-to-quickly-spot-errors-in-your-javascript-code-in-vs-code" title="🐛 How to quickly spot errors in your JavaScript code in VS Code"><strong>🐛 How to quickly spot errors in your JavaScript code in VS Code</strong></a>
 <div><strong>14 Apr 2021</strong> | <strong>15 Apr 2021</strong></div>
 <br/> Hello again 👋
 This is a very amazing way to use the powers of Visual Studio Code in your JavaScript files to quickly spot errors.
 
 You might know about  TypeScript . It's a wonderful superset of JavaScript which gives JS the power of types and helps... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/how-to-create-twitter-profile-hover-card-using-html-and-css-ckkhz7uvz00aog4s1am7u70fv" title="🎨 How to create Twitter Profile Hover Card using HTML and CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611905993702/akVYADg6g.png" alt="🎨 How to create Twitter Profile Hover Card using HTML and CSS" width="250px" align="left" /></a>
-<a href="https://usmanwrites.hashnode.dev/how-to-create-twitter-profile-hover-card-using-html-and-css-ckkhz7uvz00aog4s1am7u70fv" title="🎨 How to create Twitter Profile Hover Card using HTML and CSS"><strong>🎨 How to create Twitter Profile Hover Card using HTML and CSS</strong></a>
+<a href="blog.usman-s.me/how-to-create-twitter-profile-hover-card-using-html-and-css" title="🎨 How to create Twitter Profile Hover Card using HTML and CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611905993702/akVYADg6g.png" alt="🎨 How to create Twitter Profile Hover Card using HTML and CSS" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/how-to-create-twitter-profile-hover-card-using-html-and-css" title="🎨 How to create Twitter Profile Hover Card using HTML and CSS"><strong>🎨 How to create Twitter Profile Hover Card using HTML and CSS</strong></a>
 <div><strong>29 Jan 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Welcome back developers! 👋
 In this post, we'll see how you can recreate the hover card by Twitter using HTML and CSS, so let's get started.
 This hover card will appear when you hover over any profile. But in our case, we will just make the over card... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/how-to-make-your-react-app-a-pwa-with-create-react-app-4-ckj3sjucc01wcozs1azop67kr" title="✨ How to make your React app a PWA with Create React App 4"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608871466811/e5_5zDD81.png" alt="✨ How to make your React app a PWA with Create React App 4" width="250px" align="right" /></a>
-<a href="https://usmanwrites.hashnode.dev/how-to-make-your-react-app-a-pwa-with-create-react-app-4-ckj3sjucc01wcozs1azop67kr" title="✨ How to make your React app a PWA with Create React App 4"><strong>✨ How to make your React app a PWA with Create React App 4</strong></a>
+<a href="blog.usman-s.me/how-to-make-your-react-app-a-pwa-with-create-react-app-4" title="✨ How to make your React app a PWA with Create React App 4"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1608871466811/e5_5zDD81.png" alt="✨ How to make your React app a PWA with Create React App 4" width="250px" align="right" /></a>
+<a href="blog.usman-s.me/how-to-make-your-react-app-a-pwa-with-create-react-app-4" title="✨ How to make your React app a PWA with Create React App 4"><strong>✨ How to make your React app a PWA with Create React App 4</strong></a>
 <div><strong>25 Dec 2020</strong> | <strong>25 Dec 2020</strong></div>
 <br/> Welcome back developers 👋.
 Create React App or react-scripts is a great tool to scaffold out our React Apps. And one of the best parts of it was that we got a readymade serviceWorker.js file with it which would help us make the React app offline so ... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/how-to-change-the-favicon-according-to-system-dark-mode-ckiify2zt059680s1ek9c8ewn" title="🌓 How to change the favicon according to system dark mode!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607580494174/JRrtZUUoP.png" alt="🌓 How to change the favicon according to system dark mode!" width="250px" align="left" /></a>
-<a href="https://usmanwrites.hashnode.dev/how-to-change-the-favicon-according-to-system-dark-mode-ckiify2zt059680s1ek9c8ewn" title="🌓 How to change the favicon according to system dark mode!"><strong>🌓 How to change the favicon according to system dark mode!</strong></a>
+<a href="blog.usman-s.me/how-to-change-the-favicon-according-to-system-dark-mode" title="🌓 How to change the favicon according to system dark mode!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607580494174/JRrtZUUoP.png" alt="🌓 How to change the favicon according to system dark mode!" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/how-to-change-the-favicon-according-to-system-dark-mode" title="🌓 How to change the favicon according to system dark mode!"><strong>🌓 How to change the favicon according to system dark mode!</strong></a>
 <div><strong>10 Dec 2020</strong> | <strong>22 Dec 2020</strong></div>
 <br/> 👋 Hi again!
 Welcome back to another blog post and this one will also be quite helpful! In this post, I have covered about how you can change the favicon according to system dark mode.
 An example is  GitHub. When my system color is dark, the logo bec... </p> <br/> <br/>
 <p align="left">
-<a href="https://usmanwrites.hashnode.dev/how-to-use-microsoft-fluent-ui-icons-on-your-website-ckhsswovt08ges6s179407qx5" title="💄 How to use Microsoft Fluent UI Icons on your website?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606029962194/FHCkaxrFK.png" alt="💄 How to use Microsoft Fluent UI Icons on your website?" width="250px" align="right" /></a>
-<a href="https://usmanwrites.hashnode.dev/how-to-use-microsoft-fluent-ui-icons-on-your-website-ckhsswovt08ges6s179407qx5" title="💄 How to use Microsoft Fluent UI Icons on your website?"><strong>💄 How to use Microsoft Fluent UI Icons on your website?</strong></a>
+<a href="blog.usman-s.me/how-to-use-microsoft-fluent-ui-icons-on-your-website" title="💄 How to use Microsoft Fluent UI Icons on your website?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606029962194/FHCkaxrFK.png" alt="💄 How to use Microsoft Fluent UI Icons on your website?" width="250px" align="right" /></a>
+<a href="blog.usman-s.me/how-to-use-microsoft-fluent-ui-icons-on-your-website" title="💄 How to use Microsoft Fluent UI Icons on your website?"><strong>💄 How to use Microsoft Fluent UI Icons on your website?</strong></a>
 <div><strong>22 Nov 2020</strong> | <strong>22 Nov 2020</strong></div>
 <br/> 👋 Hey Developers!
 I really love the icons used and provided by Microsoft in their products. And I always wish to use them in my projects. But it is pretty hard to find a way to use them. This post will help you to use them in your project!
