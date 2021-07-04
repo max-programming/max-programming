@@ -19,5 +19,6 @@ jobs:
           BLOG_URL: 'blog.usman-s.me'
           USERNAME: 'usmanwrites'
           STYLE: "blog-alternate"
+          COUNT: 5
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
