@@ -17,6 +17,7 @@ jobs:
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
           BLOG_URL: 'blog.usman-s.me'
+          USERNAME: 'usmanwrites'
           STYLE: "blog-alternate"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
