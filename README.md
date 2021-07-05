@@ -142,13 +142,6 @@ Create React App or react-scripts is a great tool to scaffold out our React Apps
 <br/> 👋 Hi again!
 Welcome back to another blog post and this one will also be quite helpful! In this post, I have covered about how you can change the favicon according to system dark mode.
 An example is  GitHub. When my system color is dark, the logo bec... </p> <br/> <br/>
-<p align="left">
-<a href="blog.usman-s.me/how-to-use-microsoft-fluent-ui-icons-on-your-website" title="💄 How to use Microsoft Fluent UI Icons on your website?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1606029962194/FHCkaxrFK.png" alt="💄 How to use Microsoft Fluent UI Icons on your website?" width="250px" align="right" /></a>
-<a href="blog.usman-s.me/how-to-use-microsoft-fluent-ui-icons-on-your-website" title="💄 How to use Microsoft Fluent UI Icons on your website?"><strong>💄 How to use Microsoft Fluent UI Icons on your website?</strong></a>
-<div><strong>22 Nov 2020</strong> | <strong>22 Nov 2020</strong></div>
-<br/> 👋 Hey Developers!
-I really love the icons used and provided by Microsoft in their products. And I always wish to use them in my projects. But it is pretty hard to find a way to use them. This post will help you to use them in your project!
-It is pre... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
