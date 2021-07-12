@@ -90,7 +90,9 @@
 ## ▶ My Latest YouTube Videos
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=oD0CIe14M5I"><img width="140px" src="https://i.ytimg.com/vi/oD0CIe14M5I/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=2X1xIiMnB6o"><img width="140px" src="https://i.ytimg.com/vi/2X1xIiMnB6o/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2X1xIiMnB6o">Build & Deploy a YouTube thumbnail fetcher app with React & TypeScript Part 1 | Vite | Tailwind CSS</a><br/>Jul 12, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=oD0CIe14M5I"><img width="140px" src="https://i.ytimg.com/vi/oD0CIe14M5I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oD0CIe14M5I">How to add routing loader using nprogress in Next.js?</a><br/>Jul 2, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=aSGV-j8dTwY"><img width="140px" src="https://i.ytimg.com/vi/aSGV-j8dTwY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aSGV-j8dTwY">Build a File Picker app using HTML, CSS, JavaScript | Vite | File System Access API</a><br/>Jun 21, 2021</td></tr>
@@ -98,8 +100,6 @@
 <td><a href="https://www.youtube.com/watch?v=QDiA6auJaMg">Introduction to the Chrome File System Access API</a><br/>Jun 10, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=QmGGHr0BHkY"><img width="140px" src="https://i.ytimg.com/vi/QmGGHr0BHkY/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QmGGHr0BHkY">How to use the dark mode feature in Tailwind CSS</a><br/>Apr 24, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=U693xrQKFy4"><img width="140px" src="https://i.ytimg.com/vi/U693xrQKFy4/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=U693xrQKFy4">Learn localStorage in JavaScript by building a project!</a><br/>Apr 19, 2021</td></tr>
 <!-- YOUTUBE:END -->
   </tbody>
  <table>
