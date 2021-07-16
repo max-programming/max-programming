@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/idoshamun/nextjs-isr-logrocket/pull/1) in [idoshamun/nextjs-isr-logrocket](https://github.com/idoshamun/nextjs-isr-logrocket)
-2. 🗣 Commented on [#11](https://github.com/atapas/webapis-playground/issues/11) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-3. 🗣 Commented on [#942](https://github.com/Hacker0x01/react-datepicker/issues/942) in [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker)
-4. 🗣 Commented on [#6172](https://github.com/darkreader/darkreader/issues/6172) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-5. ❗️ Opened issue [#6172](https://github.com/darkreader/darkreader/issues/6172) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+1. 💪 Opened PR [#897](https://github.com/tailwindlabs/tailwindcss.com/pull/897) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+2. 💪 Opened PR [#1](https://github.com/idoshamun/nextjs-isr-logrocket/pull/1) in [idoshamun/nextjs-isr-logrocket](https://github.com/idoshamun/nextjs-isr-logrocket)
+3. 🗣 Commented on [#11](https://github.com/atapas/webapis-playground/issues/11) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+4. 🗣 Commented on [#942](https://github.com/Hacker0x01/react-datepicker/issues/942) in [Hacker0x01/react-datepicker](https://github.com/Hacker0x01/react-datepicker)
+5. 🗣 Commented on [#6172](https://github.com/darkreader/darkreader/issues/6172) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
