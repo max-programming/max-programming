@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/13) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-2. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/13) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-4. 💪 Opened PR [#897](https://github.com/tailwindlabs/tailwindcss.com/pull/897) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-5. 💪 Opened PR [#1](https://github.com/idoshamun/nextjs-isr-logrocket/pull/1) in [idoshamun/nextjs-isr-logrocket](https://github.com/idoshamun/nextjs-isr-logrocket)
+1. 💪 Opened PR [#20](https://github.com/avneesh0612/audible/pull/20) in [avneesh0612/audible](https://github.com/avneesh0612/audible)
+2. 🗣 Commented on [#13](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/13) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+3. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+4. 💪 Opened PR [#13](https://github.com/codeSTACKr/codestackr-vscode-theme/pull/13) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+5. 💪 Opened PR [#897](https://github.com/tailwindlabs/tailwindcss.com/pull/897) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
