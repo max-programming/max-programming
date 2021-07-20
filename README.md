@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#102](https://github.com/FormidableLabs/prism-react-renderer/issues/102) in [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
+1. 💪 Opened PR [#34](https://github.com/benawad/tsconfig.json/pull/34) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
 2. 🗣 Commented on [#102](https://github.com/FormidableLabs/prism-react-renderer/issues/102) in [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
-3. 💪 Opened PR [#20](https://github.com/avneesh0612/audible/pull/20) in [avneesh0612/audible](https://github.com/avneesh0612/audible)
-4. 🗣 Commented on [#13](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/13) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
-5. 🗣 Commented on [#10](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/10) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
+3. 🗣 Commented on [#102](https://github.com/FormidableLabs/prism-react-renderer/issues/102) in [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
+4. 💪 Opened PR [#20](https://github.com/avneesh0612/audible/pull/20) in [avneesh0612/audible](https://github.com/avneesh0612/audible)
+5. 🗣 Commented on [#13](https://github.com/codeSTACKr/codestackr-vscode-theme/issues/13) in [codeSTACKr/codestackr-vscode-theme](https://github.com/codeSTACKr/codestackr-vscode-theme)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
