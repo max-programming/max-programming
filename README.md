@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/MahidharMannuru5/memegen/pull/2) in [MahidharMannuru5/memegen](https://github.com/MahidharMannuru5/memegen)
-2. 💪 Opened PR [#1](https://github.com/MahidharMannuru5/memegen/pull/1) in [MahidharMannuru5/memegen](https://github.com/MahidharMannuru5/memegen)
-3. 💪 Opened PR [#39](https://github.com/benawad/tsconfig.json/pull/39) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
-4. 🗣 Commented on [#34](https://github.com/benawad/tsconfig.json/issues/34) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
-5. 💪 Opened PR [#2](https://github.com/msaaddev/password-gen-cli/pull/2) in [msaaddev/password-gen-cli](https://github.com/msaaddev/password-gen-cli)
+1. 💪 Opened PR [#184](https://github.com/octokatherine/readme.so/pull/184) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
+2. 💪 Opened PR [#2](https://github.com/MahidharMannuru5/memegen/pull/2) in [MahidharMannuru5/memegen](https://github.com/MahidharMannuru5/memegen)
+3. 💪 Opened PR [#1](https://github.com/MahidharMannuru5/memegen/pull/1) in [MahidharMannuru5/memegen](https://github.com/MahidharMannuru5/memegen)
+4. 💪 Opened PR [#39](https://github.com/benawad/tsconfig.json/pull/39) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
+5. 🗣 Commented on [#34](https://github.com/benawad/tsconfig.json/issues/34) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
