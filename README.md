@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/tewarig/torii/pull/2) in [tewarig/torii](https://github.com/tewarig/torii)
-2. ❗️ Opened issue [#35](https://github.com/yoeo/guesslang/issues/35) in [yoeo/guesslang](https://github.com/yoeo/guesslang)
-3. 💪 Opened PR [#184](https://github.com/octokatherine/readme.so/pull/184) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
-4. 💪 Opened PR [#2](https://github.com/MahidharMannuru5/memegen/pull/2) in [MahidharMannuru5/memegen](https://github.com/MahidharMannuru5/memegen)
-5. 💪 Opened PR [#1](https://github.com/MahidharMannuru5/memegen/pull/1) in [MahidharMannuru5/memegen](https://github.com/MahidharMannuru5/memegen)
+1. ❗️ Opened issue [#3](https://github.com/tewarig/torii/issues/3) in [tewarig/torii](https://github.com/tewarig/torii)
+2. 💪 Opened PR [#2](https://github.com/tewarig/torii/pull/2) in [tewarig/torii](https://github.com/tewarig/torii)
+3. ❗️ Opened issue [#35](https://github.com/yoeo/guesslang/issues/35) in [yoeo/guesslang](https://github.com/yoeo/guesslang)
+4. 💪 Opened PR [#184](https://github.com/octokatherine/readme.so/pull/184) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
+5. 💪 Opened PR [#2](https://github.com/MahidharMannuru5/memegen/pull/2) in [MahidharMannuru5/memegen](https://github.com/MahidharMannuru5/memegen)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
