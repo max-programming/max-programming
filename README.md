@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#245](https://github.com/shadowwalker/next-pwa/pull/245) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
-2. 💪 Opened PR [#54762](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/54762) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. ❗️ Opened issue [#1](https://github.com/microsoft/vscode-languagedetection/issues/1) in [microsoft/vscode-languagedetection](https://github.com/microsoft/vscode-languagedetection)
-4. 🗣 Commented on [#35](https://github.com/yoeo/guesslang/issues/35) in [yoeo/guesslang](https://github.com/yoeo/guesslang)
-5. ❗️ Opened issue [#3](https://github.com/tewarig/torii/issues/3) in [tewarig/torii](https://github.com/tewarig/torii)
+1. ❗️ Opened issue [#2](https://github.com/AbhinavRajesh/Aura/issues/2) in [AbhinavRajesh/Aura](https://github.com/AbhinavRajesh/Aura)
+2. 💪 Opened PR [#245](https://github.com/shadowwalker/next-pwa/pull/245) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
+3. 💪 Opened PR [#54762](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/54762) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. ❗️ Opened issue [#1](https://github.com/microsoft/vscode-languagedetection/issues/1) in [microsoft/vscode-languagedetection](https://github.com/microsoft/vscode-languagedetection)
+5. 🗣 Commented on [#35](https://github.com/yoeo/guesslang/issues/35) in [yoeo/guesslang](https://github.com/yoeo/guesslang)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
