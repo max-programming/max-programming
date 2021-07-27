@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/microsoft/vscode-languagedetection/issues/1) in [microsoft/vscode-languagedetection](https://github.com/microsoft/vscode-languagedetection)
-2. 🗣 Commented on [#35](https://github.com/yoeo/guesslang/issues/35) in [yoeo/guesslang](https://github.com/yoeo/guesslang)
-3. ❗️ Opened issue [#3](https://github.com/tewarig/torii/issues/3) in [tewarig/torii](https://github.com/tewarig/torii)
-4. 💪 Opened PR [#2](https://github.com/tewarig/torii/pull/2) in [tewarig/torii](https://github.com/tewarig/torii)
-5. ❗️ Opened issue [#35](https://github.com/yoeo/guesslang/issues/35) in [yoeo/guesslang](https://github.com/yoeo/guesslang)
+1. 💪 Opened PR [#54762](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/54762) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. ❗️ Opened issue [#1](https://github.com/microsoft/vscode-languagedetection/issues/1) in [microsoft/vscode-languagedetection](https://github.com/microsoft/vscode-languagedetection)
+3. 🗣 Commented on [#35](https://github.com/yoeo/guesslang/issues/35) in [yoeo/guesslang](https://github.com/yoeo/guesslang)
+4. ❗️ Opened issue [#3](https://github.com/tewarig/torii/issues/3) in [tewarig/torii](https://github.com/tewarig/torii)
+5. 💪 Opened PR [#2](https://github.com/tewarig/torii/pull/2) in [tewarig/torii](https://github.com/tewarig/torii)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
