@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#203](https://github.com/unicodeveloper/awesome-nextjs/pull/203) in [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
-2. 🗣 Commented on [#3](https://github.com/barbarbar338/hastepaste/issues/3) in [barbarbar338/hastepaste](https://github.com/barbarbar338/hastepaste)
-3. ❗️ Opened issue [#3](https://github.com/barbarbar338/hastepaste/issues/3) in [barbarbar338/hastepaste](https://github.com/barbarbar338/hastepaste)
-4. 💪 Opened PR [#1](https://github.com/rutikwankhade/myhal/pull/1) in [rutikwankhade/myhal](https://github.com/rutikwankhade/myhal)
-5. 🗣 Commented on [#10358](https://github.com/DefinitelyTyped/DefinitelyTyped/issues/10358) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. 🗣 Commented on [#3](https://github.com/barbarbar338/hastepaste/issues/3) in [barbarbar338/hastepaste](https://github.com/barbarbar338/hastepaste)
+2. 💪 Opened PR [#203](https://github.com/unicodeveloper/awesome-nextjs/pull/203) in [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
+3. 🗣 Commented on [#3](https://github.com/barbarbar338/hastepaste/issues/3) in [barbarbar338/hastepaste](https://github.com/barbarbar338/hastepaste)
+4. ❗️ Opened issue [#3](https://github.com/barbarbar338/hastepaste/issues/3) in [barbarbar338/hastepaste](https://github.com/barbarbar338/hastepaste)
+5. 💪 Opened PR [#1](https://github.com/rutikwankhade/myhal/pull/1) in [rutikwankhade/myhal](https://github.com/rutikwankhade/myhal)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
