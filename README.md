@@ -78,10 +78,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#825](https://github.com/carloscuesta/gitmoji/issues/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-2. 💪 Opened PR [#825](https://github.com/carloscuesta/gitmoji/pull/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-3. 💪 Opened PR [#1](https://github.com/bradgarropy/next-seo/pull/1) in [bradgarropy/next-seo](https://github.com/bradgarropy/next-seo)
-4. 💪 Opened PR [#1](https://github.com/ShubhamVerma1811/Bytes/pull/1) in [ShubhamVerma1811/Bytes](https://github.com/ShubhamVerma1811/Bytes)
-5. 🗣 Commented on [#4](https://github.com/barbarbar338/hastepaste/issues/4) in [barbarbar338/hastepaste](https://github.com/barbarbar338/hastepaste)
+2. 🗣 Commented on [#825](https://github.com/carloscuesta/gitmoji/issues/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+3. 💪 Opened PR [#825](https://github.com/carloscuesta/gitmoji/pull/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+4. 💪 Opened PR [#1](https://github.com/bradgarropy/next-seo/pull/1) in [bradgarropy/next-seo](https://github.com/bradgarropy/next-seo)
+5. 💪 Opened PR [#1](https://github.com/ShubhamVerma1811/Bytes/pull/1) in [ShubhamVerma1811/Bytes](https://github.com/ShubhamVerma1811/Bytes)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
