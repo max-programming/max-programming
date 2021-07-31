@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ShubhamVerma1811/Bytes/pull/1) in [ShubhamVerma1811/Bytes](https://github.com/ShubhamVerma1811/Bytes)
-2. 🗣 Commented on [#4](https://github.com/barbarbar338/hastepaste/issues/4) in [barbarbar338/hastepaste](https://github.com/barbarbar338/hastepaste)
-3. 💪 Opened PR [#4](https://github.com/barbarbar338/hastepaste/pull/4) in [barbarbar338/hastepaste](https://github.com/barbarbar338/hastepaste)
-4. 🗣 Commented on [#3](https://github.com/barbarbar338/hastepaste/issues/3) in [barbarbar338/hastepaste](https://github.com/barbarbar338/hastepaste)
-5. 💪 Opened PR [#203](https://github.com/unicodeveloper/awesome-nextjs/pull/203) in [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
+1. 💪 Opened PR [#1](https://github.com/bradgarropy/next-seo/pull/1) in [bradgarropy/next-seo](https://github.com/bradgarropy/next-seo)
+2. 💪 Opened PR [#1](https://github.com/ShubhamVerma1811/Bytes/pull/1) in [ShubhamVerma1811/Bytes](https://github.com/ShubhamVerma1811/Bytes)
+3. 🗣 Commented on [#4](https://github.com/barbarbar338/hastepaste/issues/4) in [barbarbar338/hastepaste](https://github.com/barbarbar338/hastepaste)
+4. 💪 Opened PR [#4](https://github.com/barbarbar338/hastepaste/pull/4) in [barbarbar338/hastepaste](https://github.com/barbarbar338/hastepaste)
+5. 🗣 Commented on [#3](https://github.com/barbarbar338/hastepaste/issues/3) in [barbarbar338/hastepaste](https://github.com/barbarbar338/hastepaste)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
