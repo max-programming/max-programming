@@ -77,10 +77,10 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/janaSunrise/nextjs-quickstart-template/issues/3) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
-2. 💪 Opened PR [#3](https://github.com/janaSunrise/nextjs-quickstart-template/pull/3) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
-3. ❗️ Opened issue [#826](https://github.com/carloscuesta/gitmoji/issues/826) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-4. 🗣 Commented on [#825](https://github.com/carloscuesta/gitmoji/issues/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+1. 🗣 Commented on [#826](https://github.com/carloscuesta/gitmoji/issues/826) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+2. 🗣 Commented on [#3](https://github.com/janaSunrise/nextjs-quickstart-template/issues/3) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
+3. 💪 Opened PR [#3](https://github.com/janaSunrise/nextjs-quickstart-template/pull/3) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
+4. ❗️ Opened issue [#826](https://github.com/carloscuesta/gitmoji/issues/826) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
 5. 🗣 Commented on [#825](https://github.com/carloscuesta/gitmoji/issues/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
 <!--END_SECTION:activity-->
 
