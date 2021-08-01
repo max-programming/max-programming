@@ -78,10 +78,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#825](https://github.com/carloscuesta/gitmoji/issues/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-2. ❗️ Opened issue [#827](https://github.com/carloscuesta/gitmoji/issues/827) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-3. 🗣 Commented on [#826](https://github.com/carloscuesta/gitmoji/issues/826) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-4. 🗣 Commented on [#3](https://github.com/janaSunrise/nextjs-quickstart-template/issues/3) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
-5. 💪 Opened PR [#3](https://github.com/janaSunrise/nextjs-quickstart-template/pull/3) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
+2. 🗣 Commented on [#825](https://github.com/carloscuesta/gitmoji/issues/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+3. ❗️ Opened issue [#827](https://github.com/carloscuesta/gitmoji/issues/827) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+4. 🗣 Commented on [#826](https://github.com/carloscuesta/gitmoji/issues/826) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+5. 🗣 Commented on [#3](https://github.com/janaSunrise/nextjs-quickstart-template/issues/3) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
