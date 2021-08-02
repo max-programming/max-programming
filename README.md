@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#825](https://github.com/carloscuesta/gitmoji/issues/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-2. 🗣 Commented on [#825](https://github.com/carloscuesta/gitmoji/issues/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-3. ❗️ Opened issue [#827](https://github.com/carloscuesta/gitmoji/issues/827) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-4. 🗣 Commented on [#826](https://github.com/carloscuesta/gitmoji/issues/826) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
-5. 🗣 Commented on [#3](https://github.com/janaSunrise/nextjs-quickstart-template/issues/3) in [janaSunrise/nextjs-quickstart-template](https://github.com/janaSunrise/nextjs-quickstart-template)
+1. 🗣 Commented on [#2](https://github.com/max-programming/max-programming/issues/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
+2. 🎉 Merged PR [#2](https://github.com/max-programming/max-programming/pull/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
+3. 🗣 Commented on [#2](https://github.com/max-programming/max-programming/issues/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
+4. 🗣 Commented on [#825](https://github.com/carloscuesta/gitmoji/issues/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+5. 🗣 Commented on [#825](https://github.com/carloscuesta/gitmoji/issues/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
