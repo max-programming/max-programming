@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/apal21/nextjs-progressbar/pull/42) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
-2. 🗣 Commented on [#184](https://github.com/octokatherine/readme.so/issues/184) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
-3. 🗣 Commented on [#2](https://github.com/max-programming/max-programming/issues/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
-4. 🎉 Merged PR [#2](https://github.com/max-programming/max-programming/pull/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
-5. 🗣 Commented on [#2](https://github.com/max-programming/max-programming/issues/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
+1. 🗣 Commented on [#42](https://github.com/apal21/nextjs-progressbar/issues/42) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
+2. 💪 Opened PR [#42](https://github.com/apal21/nextjs-progressbar/pull/42) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
+3. 🗣 Commented on [#184](https://github.com/octokatherine/readme.so/issues/184) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
+4. 🗣 Commented on [#2](https://github.com/max-programming/max-programming/issues/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
+5. 🎉 Merged PR [#2](https://github.com/max-programming/max-programming/pull/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
