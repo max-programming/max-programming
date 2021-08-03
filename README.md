@@ -77,10 +77,10 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/max-programming/max-programming/issues/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
-2. 🎉 Merged PR [#2](https://github.com/max-programming/max-programming/pull/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
-3. 🗣 Commented on [#2](https://github.com/max-programming/max-programming/issues/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
-4. 🗣 Commented on [#825](https://github.com/carloscuesta/gitmoji/issues/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
+1. 🗣 Commented on [#184](https://github.com/octokatherine/readme.so/issues/184) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
+2. 🗣 Commented on [#2](https://github.com/max-programming/max-programming/issues/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
+3. 🎉 Merged PR [#2](https://github.com/max-programming/max-programming/pull/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
+4. 🗣 Commented on [#2](https://github.com/max-programming/max-programming/issues/2) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
 5. 🗣 Commented on [#825](https://github.com/carloscuesta/gitmoji/issues/825) in [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji)
 <!--END_SECTION:activity-->
 
