@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#43](https://github.com/apal21/nextjs-progressbar/issues/43) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
-2. ❌ Closed PR [#42](https://github.com/apal21/nextjs-progressbar/pull/42) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
-3. 🗣 Commented on [#42](https://github.com/apal21/nextjs-progressbar/issues/42) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
-4. 💪 Opened PR [#42](https://github.com/apal21/nextjs-progressbar/pull/42) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
-5. 🗣 Commented on [#184](https://github.com/octokatherine/readme.so/issues/184) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
+1. 🎉 Merged PR [#56](https://github.com/max-programming/max-todos/pull/56) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+2. 🎉 Merged PR [#62](https://github.com/max-programming/max-todos/pull/62) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+3. 🎉 Merged PR [#64](https://github.com/max-programming/max-todos/pull/64) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 🎉 Merged PR [#63](https://github.com/max-programming/max-todos/pull/63) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+5. 🎉 Merged PR [#66](https://github.com/max-programming/max-todos/pull/66) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
