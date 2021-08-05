@@ -118,7 +118,7 @@ I found this interesting package looking at Ashik Chapagain's Hashnode + Clerk h
 <p align="left">
 <a href="blog.usman-s.me/introducing-easy-pastes-easiest-way-to-create-and-share-code-pastes" title="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627290238311/Zje5ihf50.png" alt="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes" width="250px" align="right" /></a>
 <a href="blog.usman-s.me/introducing-easy-pastes-easiest-way-to-create-and-share-code-pastes" title="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes"><strong>🎉 Introducing Easy Pastes - Easiest way to create and share code pastes</strong></a>
-<div><strong>26 July 2021</strong> | <strong>30 July 2021</strong></div>
+<div><strong>26 July 2021</strong> | <strong>4 Aug 2021</strong></div>
 <br/> ✨ Introduction to the app
 Easy Pastes is an app where users can easily paste some code they want to share with someone with syntax highlight and even if they want to make it public, they can do so to show other people.
 It is the easiest and fastest w... </p> <br/> <br/>
