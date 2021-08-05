@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/apal21/nextjs-progressbar/issues/43) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
-2. ❗️ Opened issue [#187](https://github.com/octokatherine/readme.so/issues/187) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
-3. 🗣 Commented on [#184](https://github.com/octokatherine/readme.so/issues/184) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
-4. 🗣 Commented on [#43](https://github.com/apal21/nextjs-progressbar/issues/43) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
-5. 🗣 Commented on [#43](https://github.com/apal21/nextjs-progressbar/issues/43) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
+1. 🗣 Commented on [#184](https://github.com/octokatherine/readme.so/issues/184) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
+2. 🗣 Commented on [#187](https://github.com/octokatherine/readme.so/issues/187) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
+3. 🗣 Commented on [#43](https://github.com/apal21/nextjs-progressbar/issues/43) in [apal21/nextjs-progressbar](https://github.com/apal21/nextjs-progressbar)
+4. ❗️ Opened issue [#187](https://github.com/octokatherine/readme.so/issues/187) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
+5. 🗣 Commented on [#184](https://github.com/octokatherine/readme.so/issues/184) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
