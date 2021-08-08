@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#254](https://github.com/shadowwalker/next-pwa/issues/254) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
-2. 💪 Opened PR [#191](https://github.com/octokatherine/readme.so/pull/191) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
-3. 🗣 Commented on [#187](https://github.com/octokatherine/readme.so/issues/187) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
-4. 🗣 Commented on [#187](https://github.com/octokatherine/readme.so/issues/187) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
-5. 🗣 Commented on [#184](https://github.com/octokatherine/readme.so/issues/184) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
+1. ❗️ Closed issue [#254](https://github.com/shadowwalker/next-pwa/issues/254) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
+2. 🗣 Commented on [#254](https://github.com/shadowwalker/next-pwa/issues/254) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
+3. 🗣 Commented on [#191](https://github.com/octokatherine/readme.so/issues/191) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
+4. ❗️ Opened issue [#254](https://github.com/shadowwalker/next-pwa/issues/254) in [shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa)
+5. 💪 Opened PR [#191](https://github.com/octokatherine/readme.so/pull/191) in [octokatherine/readme.so](https://github.com/octokatherine/readme.so)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
