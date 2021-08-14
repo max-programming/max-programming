@@ -90,7 +90,9 @@
 ## ▶ My Latest YouTube Videos
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=aOnGDL-tDCw"><img width="140px" src="https://i.ytimg.com/vi/aOnGDL-tDCw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=MHjF166fcxw"><img width="140px" src="https://i.ytimg.com/vi/MHjF166fcxw/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MHjF166fcxw">How to make a Next.js app a PWA with offline support | Progressive Web App</a><br/>Aug 14, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=aOnGDL-tDCw"><img width="140px" src="https://i.ytimg.com/vi/aOnGDL-tDCw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aOnGDL-tDCw">How to add SEO to your Next.js app</a><br/>Aug 3, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=m2gdCjrksgQ"><img width="140px" src="https://i.ytimg.com/vi/m2gdCjrksgQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=m2gdCjrksgQ">Build & Deploy a YouTube thumbnail fetcher app with React & TypeScript Part 2 | Vite | Tailwind CSS</a><br/>Jul 19, 2021</td></tr>
@@ -98,8 +100,6 @@
 <td><a href="https://www.youtube.com/watch?v=2X1xIiMnB6o">Build & Deploy a YouTube thumbnail fetcher app with React & TypeScript Part 1 | Vite | Tailwind CSS</a><br/>Jul 12, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=oD0CIe14M5I"><img width="140px" src="https://i.ytimg.com/vi/oD0CIe14M5I/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oD0CIe14M5I">How to add routing loader using nprogress in Next.js?</a><br/>Jul 2, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=aSGV-j8dTwY"><img width="140px" src="https://i.ytimg.com/vi/aSGV-j8dTwY/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=aSGV-j8dTwY">Build a File Picker app using HTML, CSS, JavaScript | Vite | File System Access API</a><br/>Jun 21, 2021</td></tr>
 <!-- YOUTUBE:END -->
   </tbody>
  <table>
