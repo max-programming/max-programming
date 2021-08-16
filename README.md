@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#663](https://github.com/onderceylan/pwa-asset-generator/issues/663) in [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator)
-2. 🎉 Merged PR [#67](https://github.com/max-programming/max-todos/pull/67) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
-3. 🗣 Commented on [#6](https://github.com/max-programming/easypastes/issues/6) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
-4. 🎉 Merged PR [#7](https://github.com/max-programming/easypastes/pull/7) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
-5. ❗️ Reopened issue [#6](https://github.com/max-programming/easypastes/issues/6) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
+1. 🗣 Commented on [#11](https://github.com/atapas/webapis-playground/issues/11) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+2. ❗️ Opened issue [#663](https://github.com/onderceylan/pwa-asset-generator/issues/663) in [onderceylan/pwa-asset-generator](https://github.com/onderceylan/pwa-asset-generator)
+3. 🎉 Merged PR [#67](https://github.com/max-programming/max-todos/pull/67) in [max-programming/max-todos](https://github.com/max-programming/max-todos)
+4. 🗣 Commented on [#6](https://github.com/max-programming/easypastes/issues/6) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
+5. 🎉 Merged PR [#7](https://github.com/max-programming/easypastes/pull/7) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
