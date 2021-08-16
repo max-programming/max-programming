@@ -108,7 +108,17 @@
    
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="blog.usman-s.me/introduction-to-jotai-or-the-best-react-state-management-library" title="💥 Introduction to Jotai | The best React state management library"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627877240901/O2gF8rQnr.gif" alt="💥 Introduction to Jotai | The best React state management library" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/how-to-make-a-nextjs-app-a-pwa-with-offline-support" title="✨ How to make a Next.js app a PWA with offline support"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629045972734/ix5-HtXNi.png" alt="✨ How to make a Next.js app a PWA with offline support" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/how-to-make-a-nextjs-app-a-pwa-with-offline-support" title="✨ How to make a Next.js app a PWA with offline support"><strong>✨ How to make a Next.js app a PWA with offline support</strong></a>
+<div><strong>15 Aug 2021</strong> | <strong>15 Aug 2021</strong></div>
+<br/> Hello everyone 👋
+In today's article, we will see how we can make a PWA out of a Next.js app! And it is going to be very exciting as the biggest feature will be offline support with a very little configuration!
+📃 INDEX
+
+Project code
+next-pwa package... </p> <br/> <br/>
+<p align="left">
+<a href="blog.usman-s.me/introduction-to-jotai-or-the-best-react-state-management-library" title="💥 Introduction to Jotai | The best React state management library"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627877240901/O2gF8rQnr.gif" alt="💥 Introduction to Jotai | The best React state management library" width="250px" align="right" /></a>
 <a href="blog.usman-s.me/introduction-to-jotai-or-the-best-react-state-management-library" title="💥 Introduction to Jotai | The best React state management library"><strong>💥 Introduction to Jotai | The best React state management library</strong></a>
 <div><strong>2 Aug 2021</strong> | <strong>2 Aug 2021</strong></div>
 <br/> Hello friends 👋
@@ -116,34 +126,27 @@ What is it and how I found it
 So Jotai is a state management library for React, and it is just so easy to work with when compared to Redux, Flux, etc.
 I found this interesting package looking at Ashik Chapagain's Hashnode + Clerk hac... </p> <br/> <br/>
 <p align="left">
-<a href="blog.usman-s.me/introducing-easy-pastes-easiest-way-to-create-and-share-code-pastes" title="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627290238311/Zje5ihf50.png" alt="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes" width="250px" align="right" /></a>
+<a href="blog.usman-s.me/introducing-easy-pastes-easiest-way-to-create-and-share-code-pastes" title="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627290238311/Zje5ihf50.png" alt="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes" width="250px" align="left" /></a>
 <a href="blog.usman-s.me/introducing-easy-pastes-easiest-way-to-create-and-share-code-pastes" title="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes"><strong>🎉 Introducing Easy Pastes - Easiest way to create and share code pastes</strong></a>
 <div><strong>26 July 2021</strong> | <strong>4 Aug 2021</strong></div>
 <br/> ✨ Introduction to the app
 Easy Pastes is an app where users can easily paste some code they want to share with someone with syntax highlight and even if they want to make it public, they can do so to show other people.
 It is the easiest and fastest w... </p> <br/> <br/>
 <p align="left">
-<a href="blog.usman-s.me/how-to-add-routing-loader-using-nprogress-in-nextjs" title="💫 How to add routing loader using nprogress in Next.js?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625221932414/rjbSj_res.png" alt="💫 How to add routing loader using nprogress in Next.js?" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/how-to-add-routing-loader-using-nprogress-in-nextjs" title="💫 How to add routing loader using nprogress in Next.js?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1625221932414/rjbSj_res.png" alt="💫 How to add routing loader using nprogress in Next.js?" width="250px" align="right" /></a>
 <a href="blog.usman-s.me/how-to-add-routing-loader-using-nprogress-in-nextjs" title="💫 How to add routing loader using nprogress in Next.js?"><strong>💫 How to add routing loader using nprogress in Next.js?</strong></a>
 <div><strong>1 July 2021</strong> | <strong>2 July 2021</strong></div>
 <br/> Hey everyone 👋!
 So Next.js has been very popular nowadays and I am completely switching from the good old React to the Next.js because it's of course better.
 With the awesome routing system in Next.js, there are a ton of advantages like events and a... </p> <br/> <br/>
 <p align="left">
-<a href="blog.usman-s.me/how-to-quickly-spot-errors-in-your-javascript-code-in-vs-code" title="🐛 How to quickly spot errors in your JavaScript code in VS Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618404188804/JCkGJFKhD.png" alt="🐛 How to quickly spot errors in your JavaScript code in VS Code" width="250px" align="right" /></a>
+<a href="blog.usman-s.me/how-to-quickly-spot-errors-in-your-javascript-code-in-vs-code" title="🐛 How to quickly spot errors in your JavaScript code in VS Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1618404188804/JCkGJFKhD.png" alt="🐛 How to quickly spot errors in your JavaScript code in VS Code" width="250px" align="left" /></a>
 <a href="blog.usman-s.me/how-to-quickly-spot-errors-in-your-javascript-code-in-vs-code" title="🐛 How to quickly spot errors in your JavaScript code in VS Code"><strong>🐛 How to quickly spot errors in your JavaScript code in VS Code</strong></a>
 <div><strong>14 Apr 2021</strong> | <strong>15 Apr 2021</strong></div>
 <br/> Hello again 👋
 This is a very amazing way to use the powers of Visual Studio Code in your JavaScript files to quickly spot errors.
 
 You might know about  TypeScript . It's a wonderful superset of JavaScript which gives JS the power of types and helps... </p> <br/> <br/>
-<p align="left">
-<a href="blog.usman-s.me/how-to-create-twitter-profile-hover-card-using-html-and-css" title="🎨 How to create Twitter Profile Hover Card using HTML and CSS"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611905993702/akVYADg6g.png" alt="🎨 How to create Twitter Profile Hover Card using HTML and CSS" width="250px" align="left" /></a>
-<a href="blog.usman-s.me/how-to-create-twitter-profile-hover-card-using-html-and-css" title="🎨 How to create Twitter Profile Hover Card using HTML and CSS"><strong>🎨 How to create Twitter Profile Hover Card using HTML and CSS</strong></a>
-<div><strong>29 Jan 2021</strong> | <strong>1 Jan 1970</strong></div>
-<br/> Welcome back developers! 👋
-In this post, we'll see how you can recreate the hover card by Twitter using HTML and CSS, so let's get started.
-This hover card will appear when you hover over any profile. But in our case, we will just make the over card... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
