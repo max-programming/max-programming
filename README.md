@@ -110,7 +110,7 @@
 <p align="left">
 <a href="blog.usman-s.me/how-to-make-a-nextjs-app-a-pwa-with-offline-support" title="✨ How to make a Next.js app a PWA with offline support"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629045972734/ix5-HtXNi.png" alt="✨ How to make a Next.js app a PWA with offline support" width="250px" align="left" /></a>
 <a href="blog.usman-s.me/how-to-make-a-nextjs-app-a-pwa-with-offline-support" title="✨ How to make a Next.js app a PWA with offline support"><strong>✨ How to make a Next.js app a PWA with offline support</strong></a>
-<div><strong>15 Aug 2021</strong> | <strong>15 Aug 2021</strong></div>
+<div><strong>15 Aug 2021</strong> | <strong>16 Aug 2021</strong></div>
 <br/> Hello everyone 👋
 In today's article, we will see how we can make a PWA out of a Next.js app! And it is going to be very exciting as the biggest feature will be offline support with a very little configuration!
 📃 INDEX
