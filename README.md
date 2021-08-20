@@ -108,7 +108,14 @@
    
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="blog.usman-s.me/how-to-skip-chromium-download-in-puppeteer" title="⚡ How to skip Chromium download in Puppeteer?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629284301822/qFmrKbq2T.png" alt="⚡ How to skip Chromium download in Puppeteer?" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/getstaticprops-in-nextjs" title="🍽️ Next.js Fetching methods - getStaticProps explained"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629355732366/z3F831Ivg.png" alt="🍽️ Next.js Fetching methods - getStaticProps explained" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/getstaticprops-in-nextjs" title="🍽️ Next.js Fetching methods - getStaticProps explained"><strong>🍽️ Next.js Fetching methods - getStaticProps explained</strong></a>
+<div><strong>19 Aug 2021</strong> | <strong>19 Aug 2021</strong></div>
+<br/> 👋 Welcome back!
+Today I thought of starting my first series about  Next.js Fetching methods because many people (including me) don't understand them easily.
+I will make these methods very easy for you to understand so that you don't have to be worri... </p> <br/> <br/>
+<p align="left">
+<a href="blog.usman-s.me/how-to-skip-chromium-download-in-puppeteer" title="⚡ How to skip Chromium download in Puppeteer?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629284301822/qFmrKbq2T.png" alt="⚡ How to skip Chromium download in Puppeteer?" width="250px" align="right" /></a>
 <a href="blog.usman-s.me/how-to-skip-chromium-download-in-puppeteer" title="⚡ How to skip Chromium download in Puppeteer?"><strong>⚡ How to skip Chromium download in Puppeteer?</strong></a>
 <div><strong>18 Aug 2021</strong> | <strong>1 Jan 1970</strong></div>
 <br/> Hello again 👋!
@@ -116,14 +123,14 @@ If you're a Node.js developer and you've used Puppeteer for web scraping, you mi
 
 Many of you people don't like to download an external web browser for this. You ... </p> <br/> <br/>
 <p align="left">
-<a href="blog.usman-s.me/make-a-random-meme-api-with-nodejs-and-puppeteer" title="😱 Make a Random Meme API With Node.js and Puppeteer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629217819962/54P2j0rjH.png" alt="😱 Make a Random Meme API With Node.js and Puppeteer" width="250px" align="right" /></a>
+<a href="blog.usman-s.me/make-a-random-meme-api-with-nodejs-and-puppeteer" title="😱 Make a Random Meme API With Node.js and Puppeteer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629217819962/54P2j0rjH.png" alt="😱 Make a Random Meme API With Node.js and Puppeteer" width="250px" align="left" /></a>
 <a href="blog.usman-s.me/make-a-random-meme-api-with-nodejs-and-puppeteer" title="😱 Make a Random Meme API With Node.js and Puppeteer"><strong>😱 Make a Random Meme API With Node.js and Puppeteer</strong></a>
 <div><strong>17 Aug 2021</strong> | <strong>18 Aug 2021</strong></div>
 <br/> 👋 Hello there
 Today's article is all about how you can make a Random Meme API using Node.js and web scraping. We'll be using Fastify for our API and we'll be using Puppeteer to scrape the web and get the random meme.
 This random meme API was inspire... </p> <br/> <br/>
 <p align="left">
-<a href="blog.usman-s.me/how-to-make-a-nextjs-app-a-pwa-with-offline-support" title="✨ How to make a Next.js app a PWA with offline support"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629045972734/ix5-HtXNi.png" alt="✨ How to make a Next.js app a PWA with offline support" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/how-to-make-a-nextjs-app-a-pwa-with-offline-support" title="✨ How to make a Next.js app a PWA with offline support"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629045972734/ix5-HtXNi.png" alt="✨ How to make a Next.js app a PWA with offline support" width="250px" align="right" /></a>
 <a href="blog.usman-s.me/how-to-make-a-nextjs-app-a-pwa-with-offline-support" title="✨ How to make a Next.js app a PWA with offline support"><strong>✨ How to make a Next.js app a PWA with offline support</strong></a>
 <div><strong>15 Aug 2021</strong> | <strong>17 Aug 2021</strong></div>
 <br/> Hello everyone 👋
@@ -133,20 +140,13 @@ In today's article, we will see how we can make a PWA out of a Next.js app! And 
 Project code
 next-pwa package... </p> <br/> <br/>
 <p align="left">
-<a href="blog.usman-s.me/introduction-to-jotai-or-the-best-react-state-management-library" title="💥 Introduction to Jotai | The best React state management library"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627877240901/O2gF8rQnr.gif" alt="💥 Introduction to Jotai | The best React state management library" width="250px" align="right" /></a>
+<a href="blog.usman-s.me/introduction-to-jotai-or-the-best-react-state-management-library" title="💥 Introduction to Jotai | The best React state management library"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627877240901/O2gF8rQnr.gif" alt="💥 Introduction to Jotai | The best React state management library" width="250px" align="left" /></a>
 <a href="blog.usman-s.me/introduction-to-jotai-or-the-best-react-state-management-library" title="💥 Introduction to Jotai | The best React state management library"><strong>💥 Introduction to Jotai | The best React state management library</strong></a>
 <div><strong>2 Aug 2021</strong> | <strong>2 Aug 2021</strong></div>
 <br/> Hello friends 👋
 What is it and how I found it
 So Jotai is a state management library for React, and it is just so easy to work with when compared to Redux, Flux, etc.
 I found this interesting package looking at Ashik Chapagain's Hashnode + Clerk hac... </p> <br/> <br/>
-<p align="left">
-<a href="blog.usman-s.me/introducing-easy-pastes-easiest-way-to-create-and-share-code-pastes" title="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627290238311/Zje5ihf50.png" alt="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes" width="250px" align="left" /></a>
-<a href="blog.usman-s.me/introducing-easy-pastes-easiest-way-to-create-and-share-code-pastes" title="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes"><strong>🎉 Introducing Easy Pastes - Easiest way to create and share code pastes</strong></a>
-<div><strong>26 July 2021</strong> | <strong>4 Aug 2021</strong></div>
-<br/> ✨ Introduction to the app
-Easy Pastes is an app where users can easily paste some code they want to share with someone with syntax highlight and even if they want to make it public, they can do so to show other people.
-It is the easiest and fastest w... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
