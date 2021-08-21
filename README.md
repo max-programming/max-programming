@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/drkPrince/tweet-to-image/issues/4) in [drkPrince/tweet-to-image](https://github.com/drkPrince/tweet-to-image)
-2. 💪 Opened PR [#13](https://github.com/swve/framestack/pull/13) in [swve/framestack](https://github.com/swve/framestack)
-3. 💪 Opened PR [#16](https://github.com/atapas/webapis-playground/pull/16) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-4. 🗣 Commented on [#26673](https://github.com/electron/electron/issues/26673) in [electron/electron](https://github.com/electron/electron)
-5. 🗣 Commented on [#15](https://github.com/atapas/webapis-playground/issues/15) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+1. 🗣 Commented on [#16](https://github.com/atapas/webapis-playground/issues/16) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+2. ❗️ Opened issue [#4](https://github.com/drkPrince/tweet-to-image/issues/4) in [drkPrince/tweet-to-image](https://github.com/drkPrince/tweet-to-image)
+3. 💪 Opened PR [#13](https://github.com/swve/framestack/pull/13) in [swve/framestack](https://github.com/swve/framestack)
+4. 💪 Opened PR [#16](https://github.com/atapas/webapis-playground/pull/16) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+5. 🗣 Commented on [#26673](https://github.com/electron/electron/issues/26673) in [electron/electron](https://github.com/electron/electron)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
