@@ -79,9 +79,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/atapas/webapis-playground/issues/16) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
 2. 🗣 Commented on [#16](https://github.com/atapas/webapis-playground/issues/16) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-3. ❗️ Opened issue [#4](https://github.com/drkPrince/tweet-to-image/issues/4) in [drkPrince/tweet-to-image](https://github.com/drkPrince/tweet-to-image)
-4. 💪 Opened PR [#13](https://github.com/swve/framestack/pull/13) in [swve/framestack](https://github.com/swve/framestack)
-5. 💪 Opened PR [#16](https://github.com/atapas/webapis-playground/pull/16) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+3. 🗣 Commented on [#16](https://github.com/atapas/webapis-playground/issues/16) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+4. ❗️ Opened issue [#4](https://github.com/drkPrince/tweet-to-image/issues/4) in [drkPrince/tweet-to-image](https://github.com/drkPrince/tweet-to-image)
+5. 💪 Opened PR [#13](https://github.com/swve/framestack/pull/13) in [swve/framestack](https://github.com/swve/framestack)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
