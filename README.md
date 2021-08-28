@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5119](https://github.com/discordjs/discord.js/issues/5119) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-2. 💪 Opened PR [#17](https://github.com/atapas/webapis-playground/pull/17) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-3. 💪 Opened PR [#127](https://github.com/FormidableLabs/prism-react-renderer/pull/127) in [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
-4. 🗣 Commented on [#4](https://github.com/drkPrince/tweet-to-image/issues/4) in [drkPrince/tweet-to-image](https://github.com/drkPrince/tweet-to-image)
-5. 🗣 Commented on [#16](https://github.com/atapas/webapis-playground/issues/16) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+1. 💪 Opened PR [#1](https://github.com/saviomartin/styler/pull/1) in [saviomartin/styler](https://github.com/saviomartin/styler)
+2. 🗣 Commented on [#5119](https://github.com/discordjs/discord.js/issues/5119) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+3. 💪 Opened PR [#17](https://github.com/atapas/webapis-playground/pull/17) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+4. 💪 Opened PR [#127](https://github.com/FormidableLabs/prism-react-renderer/pull/127) in [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
+5. 🗣 Commented on [#4](https://github.com/drkPrince/tweet-to-image/issues/4) in [drkPrince/tweet-to-image](https://github.com/drkPrince/tweet-to-image)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
