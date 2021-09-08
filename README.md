@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#95](https://github.com/frandiox/vite-ssr/pull/95) in [frandiox/vite-ssr](https://github.com/frandiox/vite-ssr)
-2. 💪 Opened PR [#1](https://github.com/saviomartin/styler/pull/1) in [saviomartin/styler](https://github.com/saviomartin/styler)
-3. 🗣 Commented on [#5119](https://github.com/discordjs/discord.js/issues/5119) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
-4. 💪 Opened PR [#17](https://github.com/atapas/webapis-playground/pull/17) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-5. 💪 Opened PR [#127](https://github.com/FormidableLabs/prism-react-renderer/pull/127) in [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
+1. ❗️ Opened issue [#43](https://github.com/benawad/tsconfig.json/issues/43) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
+2. 💪 Opened PR [#95](https://github.com/frandiox/vite-ssr/pull/95) in [frandiox/vite-ssr](https://github.com/frandiox/vite-ssr)
+3. 💪 Opened PR [#1](https://github.com/saviomartin/styler/pull/1) in [saviomartin/styler](https://github.com/saviomartin/styler)
+4. 🗣 Commented on [#5119](https://github.com/discordjs/discord.js/issues/5119) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+5. 💪 Opened PR [#17](https://github.com/atapas/webapis-playground/pull/17) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
