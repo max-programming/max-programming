@@ -90,7 +90,9 @@
 ## ▶ My Latest YouTube Videos
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=LKZ1_lZK1Zw"><img width="140px" src="https://i.ytimg.com/vi/LKZ1_lZK1Zw/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=4Fk3DcbslEk"><img width="140px" src="https://i.ytimg.com/vi/4Fk3DcbslEk/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4Fk3DcbslEk">5 Useful Commands for the Command Line Interface (Windows) #shorts</a><br/>Sep 10, 2021</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=LKZ1_lZK1Zw"><img width="140px" src="https://i.ytimg.com/vi/LKZ1_lZK1Zw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LKZ1_lZK1Zw">How to make a cool CSS gradient hover effect? #shorts</a><br/>Sep 9, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=cjFmO7X_sS0"><img width="140px" src="https://i.ytimg.com/vi/cjFmO7X_sS0/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cjFmO7X_sS0">How to use the removeEventListener method in JavaScript #shorts</a><br/>Sep 4, 2021</td></tr>
@@ -98,8 +100,6 @@
 <td><a href="https://www.youtube.com/watch?v=MHjF166fcxw">How to make a Next.js app a PWA with offline support | Progressive Web App</a><br/>Aug 14, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=aOnGDL-tDCw"><img width="140px" src="https://i.ytimg.com/vi/aOnGDL-tDCw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=aOnGDL-tDCw">How to add SEO to your Next.js app</a><br/>Aug 3, 2021</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=m2gdCjrksgQ"><img width="140px" src="https://i.ytimg.com/vi/m2gdCjrksgQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=m2gdCjrksgQ">Build & Deploy a YouTube thumbnail fetcher app with React & TypeScript Part 2 | Vite | Tailwind CSS</a><br/>Jul 19, 2021</td></tr>
 <!-- YOUTUBE:END -->
   </tbody>
  <table>
