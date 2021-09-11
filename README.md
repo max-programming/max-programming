@@ -90,8 +90,8 @@
 ## ▶ My Latest YouTube Videos
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=4Fk3DcbslEk"><img width="140px" src="https://i.ytimg.com/vi/4Fk3DcbslEk/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4Fk3DcbslEk">5 Useful Commands for the Command Line Interface (Windows) #shorts</a><br/>Sep 10, 2021</td></tr>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=uXhgikR-Qic"><img width="140px" src="https://i.ytimg.com/vi/uXhgikR-Qic/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uXhgikR-Qic">5 Useful Commands for the Command Line Interface (Windows) #shorts</a><br/>Sep 11, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=LKZ1_lZK1Zw"><img width="140px" src="https://i.ytimg.com/vi/LKZ1_lZK1Zw/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LKZ1_lZK1Zw">How to make a cool CSS gradient hover effect? #shorts</a><br/>Sep 9, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=cjFmO7X_sS0"><img width="140px" src="https://i.ytimg.com/vi/cjFmO7X_sS0/mqdefault.jpg"></a></td>
