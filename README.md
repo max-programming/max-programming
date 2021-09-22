@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#43](https://github.com/benawad/tsconfig.json/issues/43) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
-2. 💪 Opened PR [#93](https://github.com/stuyy/slappey/pull/93) in [stuyy/slappey](https://github.com/stuyy/slappey)
-3. ❗️ Opened issue [#43](https://github.com/benawad/tsconfig.json/issues/43) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
-4. 💪 Opened PR [#95](https://github.com/frandiox/vite-ssr/pull/95) in [frandiox/vite-ssr](https://github.com/frandiox/vite-ssr)
-5. 💪 Opened PR [#1](https://github.com/saviomartin/styler/pull/1) in [saviomartin/styler](https://github.com/saviomartin/styler)
+1. 🗣 Commented on [#1](https://github.com/bradgarropy/next-seo/issues/1) in [bradgarropy/next-seo](https://github.com/bradgarropy/next-seo)
+2. 🗣 Commented on [#43](https://github.com/benawad/tsconfig.json/issues/43) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
+3. 💪 Opened PR [#93](https://github.com/stuyy/slappey/pull/93) in [stuyy/slappey](https://github.com/stuyy/slappey)
+4. ❗️ Opened issue [#43](https://github.com/benawad/tsconfig.json/issues/43) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
+5. 💪 Opened PR [#95](https://github.com/frandiox/vite-ssr/pull/95) in [frandiox/vite-ssr](https://github.com/frandiox/vite-ssr)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
