@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#211](https://github.com/saadeghi/daisyui/issues/211) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
-2. 🗣 Commented on [#1](https://github.com/bradgarropy/next-seo/issues/1) in [bradgarropy/next-seo](https://github.com/bradgarropy/next-seo)
-3. 🗣 Commented on [#43](https://github.com/benawad/tsconfig.json/issues/43) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
-4. 💪 Opened PR [#93](https://github.com/stuyy/slappey/pull/93) in [stuyy/slappey](https://github.com/stuyy/slappey)
-5. ❗️ Opened issue [#43](https://github.com/benawad/tsconfig.json/issues/43) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
+1. 🗣 Commented on [#211](https://github.com/saadeghi/daisyui/issues/211) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
+2. ❗️ Opened issue [#211](https://github.com/saadeghi/daisyui/issues/211) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
+3. 🗣 Commented on [#1](https://github.com/bradgarropy/next-seo/issues/1) in [bradgarropy/next-seo](https://github.com/bradgarropy/next-seo)
+4. 🗣 Commented on [#43](https://github.com/benawad/tsconfig.json/issues/43) in [benawad/tsconfig.json](https://github.com/benawad/tsconfig.json)
+5. 💪 Opened PR [#93](https://github.com/stuyy/slappey/pull/93) in [stuyy/slappey](https://github.com/stuyy/slappey)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
