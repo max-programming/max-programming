@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Visualway/Markdownify/pull/1) in [Visualway/Markdownify](https://github.com/Visualway/Markdownify)
-2. 🗣 Commented on [#211](https://github.com/saadeghi/daisyui/issues/211) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
+1. 🗣 Commented on [#1](https://github.com/bradgarropy/next-seo/issues/1) in [bradgarropy/next-seo](https://github.com/bradgarropy/next-seo)
+2. 💪 Opened PR [#1](https://github.com/Visualway/Markdownify/pull/1) in [Visualway/Markdownify](https://github.com/Visualway/Markdownify)
 3. 🗣 Commented on [#211](https://github.com/saadeghi/daisyui/issues/211) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
-4. ❗️ Opened issue [#211](https://github.com/saadeghi/daisyui/issues/211) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
-5. 🗣 Commented on [#1](https://github.com/bradgarropy/next-seo/issues/1) in [bradgarropy/next-seo](https://github.com/bradgarropy/next-seo)
+4. 🗣 Commented on [#211](https://github.com/saadeghi/daisyui/issues/211) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
+5. ❗️ Opened issue [#211](https://github.com/saadeghi/daisyui/issues/211) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
