@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56081](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/56081) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 💪 Opened PR [#237](https://github.com/LakeYS/Discord-Trivia-Bot/pull/237) in [LakeYS/Discord-Trivia-Bot](https://github.com/LakeYS/Discord-Trivia-Bot)
-3. ❗️ Opened issue [#236](https://github.com/LakeYS/Discord-Trivia-Bot/issues/236) in [LakeYS/Discord-Trivia-Bot](https://github.com/LakeYS/Discord-Trivia-Bot)
-4. 🗣 Commented on [#1](https://github.com/bradgarropy/next-seo/issues/1) in [bradgarropy/next-seo](https://github.com/bradgarropy/next-seo)
-5. 💪 Opened PR [#1](https://github.com/Visualway/Markdownify/pull/1) in [Visualway/Markdownify](https://github.com/Visualway/Markdownify)
+1. 🎉 Merged PR [#1](https://github.com/max-programming/hacktoberfest-projects/pull/1) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#1](https://github.com/max-programming/hacktoberfest-projects/issues/1) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 💪 Opened PR [#56081](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/56081) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. 💪 Opened PR [#237](https://github.com/LakeYS/Discord-Trivia-Bot/pull/237) in [LakeYS/Discord-Trivia-Bot](https://github.com/LakeYS/Discord-Trivia-Bot)
+5. ❗️ Opened issue [#236](https://github.com/LakeYS/Discord-Trivia-Bot/issues/236) in [LakeYS/Discord-Trivia-Bot](https://github.com/LakeYS/Discord-Trivia-Bot)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
