@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/max-programming/hacktoberfest-projects/pull/3) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#1](https://github.com/max-programming/hacktoberfest-projects/issues/1) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🎉 Merged PR [#1](https://github.com/max-programming/hacktoberfest-projects/pull/1) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🎉 Merged PR [#7](https://github.com/max-programming/hacktoberfest-projects/pull/7) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#6](https://github.com/max-programming/hacktoberfest-projects/issues/6) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🎉 Merged PR [#3](https://github.com/max-programming/hacktoberfest-projects/pull/3) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 4. 🗣 Commented on [#1](https://github.com/max-programming/hacktoberfest-projects/issues/1) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 💪 Opened PR [#56081](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/56081) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+5. 🎉 Merged PR [#1](https://github.com/max-programming/hacktoberfest-projects/pull/1) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
