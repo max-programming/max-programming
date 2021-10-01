@@ -78,10 +78,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#8](https://github.com/max-programming/hacktoberfest-projects/issues/8) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#8](https://github.com/max-programming/hacktoberfest-projects/issues/8) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🎉 Merged PR [#8](https://github.com/max-programming/hacktoberfest-projects/pull/8) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 3. 🗣 Commented on [#8](https://github.com/max-programming/hacktoberfest-projects/issues/8) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 4. 🗣 Commented on [#8](https://github.com/max-programming/hacktoberfest-projects/issues/8) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🎉 Merged PR [#7](https://github.com/max-programming/hacktoberfest-projects/pull/7) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#8](https://github.com/max-programming/hacktoberfest-projects/issues/8) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
