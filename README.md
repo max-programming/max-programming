@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#388](https://github.com/EddieHubCommunity/LinkFree/issues/388) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🎉 Merged PR [#17](https://github.com/max-programming/hacktoberfest-projects/pull/17) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#15](https://github.com/max-programming/hacktoberfest-projects/issues/15) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🎉 Merged PR [#15](https://github.com/max-programming/hacktoberfest-projects/pull/15) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🎉 Merged PR [#16](https://github.com/max-programming/hacktoberfest-projects/pull/16) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. ❗️ Closed issue [#38](https://github.com/atapas/webapis-playground/issues/38) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+2. 🎉 Merged PR [#44](https://github.com/atapas/webapis-playground/pull/44) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+3. 🎉 Merged PR [#19](https://github.com/max-programming/hacktoberfest-projects/pull/19) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#18](https://github.com/max-programming/hacktoberfest-projects/issues/18) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🎉 Merged PR [#18](https://github.com/max-programming/hacktoberfest-projects/pull/18) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
