@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/max-programming/hacktoberfest-projects/pull/1) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🎉 Merged PR [#3](https://github.com/max-programming/hacktoberfest-projects/pull/3) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 2. 🗣 Commented on [#1](https://github.com/max-programming/hacktoberfest-projects/issues/1) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 💪 Opened PR [#56081](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/56081) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. 💪 Opened PR [#237](https://github.com/LakeYS/Discord-Trivia-Bot/pull/237) in [LakeYS/Discord-Trivia-Bot](https://github.com/LakeYS/Discord-Trivia-Bot)
-5. ❗️ Opened issue [#236](https://github.com/LakeYS/Discord-Trivia-Bot/issues/236) in [LakeYS/Discord-Trivia-Bot](https://github.com/LakeYS/Discord-Trivia-Bot)
+3. 🎉 Merged PR [#1](https://github.com/max-programming/hacktoberfest-projects/pull/1) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#1](https://github.com/max-programming/hacktoberfest-projects/issues/1) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 💪 Opened PR [#56081](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/56081) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
