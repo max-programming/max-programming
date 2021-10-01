@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/max-programming/hacktoberfest-projects/pull/13) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#12](https://github.com/max-programming/hacktoberfest-projects/issues/12) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 💪 Opened PR [#388](https://github.com/EddieHubCommunity/LinkFree/pull/388) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🎉 Merged PR [#11](https://github.com/max-programming/hacktoberfest-projects/pull/11) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#9](https://github.com/max-programming/hacktoberfest-projects/issues/9) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#14](https://github.com/max-programming/hacktoberfest-projects/issues/14) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#14](https://github.com/max-programming/hacktoberfest-projects/issues/14) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🎉 Merged PR [#14](https://github.com/max-programming/hacktoberfest-projects/pull/14) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🎉 Merged PR [#13](https://github.com/max-programming/hacktoberfest-projects/pull/13) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#12](https://github.com/max-programming/hacktoberfest-projects/issues/12) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
