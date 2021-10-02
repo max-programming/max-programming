@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#26](https://github.com/max-programming/hacktoberfest-projects/pull/26) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🎉 Merged PR [#25](https://github.com/max-programming/hacktoberfest-projects/pull/25) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#23](https://github.com/max-programming/hacktoberfest-projects/issues/23) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🎉 Merged PR [#23](https://github.com/max-programming/hacktoberfest-projects/pull/23) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#23](https://github.com/max-programming/hacktoberfest-projects/issues/23) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🎉 Merged PR [#33](https://github.com/max-programming/hacktoberfest-projects/pull/33) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#30](https://github.com/max-programming/hacktoberfest-projects/issues/30) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🎉 Merged PR [#30](https://github.com/max-programming/hacktoberfest-projects/pull/30) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#30](https://github.com/max-programming/hacktoberfest-projects/issues/30) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. ❗️ Closed issue [#21](https://github.com/max-programming/hacktoberfest-projects/issues/21) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
