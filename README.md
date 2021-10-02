@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/max-programming/hacktoberfest-projects/pull/22) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#20](https://github.com/max-programming/hacktoberfest-projects/issues/20) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🎉 Merged PR [#20](https://github.com/max-programming/hacktoberfest-projects/pull/20) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#20](https://github.com/max-programming/hacktoberfest-projects/issues/20) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 💪 Opened PR [#738](https://github.com/Hazmi35/jukebox/pull/738) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+1. 💪 Opened PR [#7](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/7) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+2. 🎉 Merged PR [#22](https://github.com/max-programming/hacktoberfest-projects/pull/22) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#20](https://github.com/max-programming/hacktoberfest-projects/issues/20) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🎉 Merged PR [#20](https://github.com/max-programming/hacktoberfest-projects/pull/20) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#20](https://github.com/max-programming/hacktoberfest-projects/issues/20) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
