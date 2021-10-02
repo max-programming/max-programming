@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/max-programming/hacktoberfest-projects/issues/21) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. ❗️ Closed issue [#38](https://github.com/atapas/webapis-playground/issues/38) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-3. 🎉 Merged PR [#44](https://github.com/atapas/webapis-playground/pull/44) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-4. 🎉 Merged PR [#19](https://github.com/max-programming/hacktoberfest-projects/pull/19) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#18](https://github.com/max-programming/hacktoberfest-projects/issues/18) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 💪 Opened PR [#738](https://github.com/Hazmi35/jukebox/pull/738) in [Hazmi35/jukebox](https://github.com/Hazmi35/jukebox)
+2. 💪 Opened PR [#5](https://github.com/MagicfTail/Discord-ReminderBot/pull/5) in [MagicfTail/Discord-ReminderBot](https://github.com/MagicfTail/Discord-ReminderBot)
+3. 🗣 Commented on [#21](https://github.com/max-programming/hacktoberfest-projects/issues/21) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. ❗️ Closed issue [#38](https://github.com/atapas/webapis-playground/issues/38) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+5. 🎉 Merged PR [#44](https://github.com/atapas/webapis-playground/pull/44) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
