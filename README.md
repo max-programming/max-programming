@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#19](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/19) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+1. 🎉 Merged PR [#35](https://github.com/max-programming/hacktoberfest-projects/pull/35) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 2. 🗣 Commented on [#34](https://github.com/max-programming/hacktoberfest-projects/issues/34) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#57](https://github.com/atapas/webapis-playground/issues/57) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-4. 🎉 Merged PR [#33](https://github.com/max-programming/hacktoberfest-projects/pull/33) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#30](https://github.com/max-programming/hacktoberfest-projects/issues/30) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. ❗️ Closed issue [#27](https://github.com/max-programming/hacktoberfest-projects/issues/27) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🎉 Merged PR [#34](https://github.com/max-programming/hacktoberfest-projects/pull/34) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 💪 Opened PR [#19](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/19) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
