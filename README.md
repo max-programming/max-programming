@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#35](https://github.com/max-programming/hacktoberfest-projects/pull/35) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#34](https://github.com/max-programming/hacktoberfest-projects/issues/34) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. ❗️ Closed issue [#27](https://github.com/max-programming/hacktoberfest-projects/issues/27) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🎉 Merged PR [#34](https://github.com/max-programming/hacktoberfest-projects/pull/34) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 💪 Opened PR [#19](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/19) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+1. ❌ Closed PR [#36](https://github.com/max-programming/hacktoberfest-projects/pull/36) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#36](https://github.com/max-programming/hacktoberfest-projects/issues/36) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🎉 Merged PR [#35](https://github.com/max-programming/hacktoberfest-projects/pull/35) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#34](https://github.com/max-programming/hacktoberfest-projects/issues/34) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. ❗️ Closed issue [#27](https://github.com/max-programming/hacktoberfest-projects/issues/27) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
