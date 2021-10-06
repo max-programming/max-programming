@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#57](https://github.com/atapas/webapis-playground/pull/57) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-2. 💪 Opened PR [#21](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/21) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
-3. 🗣 Commented on [#57](https://github.com/atapas/webapis-playground/issues/57) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-4. 💪 Opened PR [#20](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/20) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
-5. 🎉 Merged PR [#40](https://github.com/max-programming/hacktoberfest-projects/pull/40) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#41](https://github.com/max-programming/hacktoberfest-projects/issues/41) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🎉 Merged PR [#57](https://github.com/atapas/webapis-playground/pull/57) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+3. 💪 Opened PR [#21](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/21) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+4. 🗣 Commented on [#57](https://github.com/atapas/webapis-playground/issues/57) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+5. 💪 Opened PR [#20](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/20) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
