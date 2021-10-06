@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/atapas/webapis-playground/issues/57) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-2. 💪 Opened PR [#20](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/20) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
-3. 🎉 Merged PR [#40](https://github.com/max-programming/hacktoberfest-projects/pull/40) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#39](https://github.com/max-programming/hacktoberfest-projects/issues/39) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🎉 Merged PR [#39](https://github.com/max-programming/hacktoberfest-projects/pull/39) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 💪 Opened PR [#21](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/21) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+2. 🗣 Commented on [#57](https://github.com/atapas/webapis-playground/issues/57) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+3. 💪 Opened PR [#20](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/20) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+4. 🎉 Merged PR [#40](https://github.com/max-programming/hacktoberfest-projects/pull/40) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#39](https://github.com/max-programming/hacktoberfest-projects/issues/39) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
