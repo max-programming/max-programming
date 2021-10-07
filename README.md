@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#43](https://github.com/max-programming/hacktoberfest-projects/pull/43) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#43](https://github.com/max-programming/hacktoberfest-projects/issues/43) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#51](https://github.com/atapas/webapis-playground/issues/51) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-4. 🗣 Commented on [#42](https://github.com/max-programming/hacktoberfest-projects/issues/42) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🎉 Merged PR [#41](https://github.com/max-programming/hacktoberfest-projects/pull/41) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🎉 Merged PR [#44](https://github.com/max-programming/hacktoberfest-projects/pull/44) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#42](https://github.com/max-programming/hacktoberfest-projects/issues/42) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🎉 Merged PR [#42](https://github.com/max-programming/hacktoberfest-projects/pull/42) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. ❌ Closed PR [#43](https://github.com/max-programming/hacktoberfest-projects/pull/43) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#43](https://github.com/max-programming/hacktoberfest-projects/issues/43) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
