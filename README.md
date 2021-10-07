@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/max-programming/hacktoberfest-projects/pull/44) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#42](https://github.com/max-programming/hacktoberfest-projects/issues/42) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🎉 Merged PR [#42](https://github.com/max-programming/hacktoberfest-projects/pull/42) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. ❌ Closed PR [#43](https://github.com/max-programming/hacktoberfest-projects/pull/43) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#43](https://github.com/max-programming/hacktoberfest-projects/issues/43) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 💪 Opened PR [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+2. 🎉 Merged PR [#44](https://github.com/max-programming/hacktoberfest-projects/pull/44) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#42](https://github.com/max-programming/hacktoberfest-projects/issues/42) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🎉 Merged PR [#42](https://github.com/max-programming/hacktoberfest-projects/pull/42) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. ❌ Closed PR [#43](https://github.com/max-programming/hacktoberfest-projects/pull/43) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
