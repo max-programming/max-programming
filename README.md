@@ -79,9 +79,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
 2. 🗣 Commented on [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
-3. 💪 Opened PR [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
-4. 🎉 Merged PR [#44](https://github.com/max-programming/hacktoberfest-projects/pull/44) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#42](https://github.com/max-programming/hacktoberfest-projects/issues/42) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+4. 💪 Opened PR [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+5. 🎉 Merged PR [#44](https://github.com/max-programming/hacktoberfest-projects/pull/44) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
