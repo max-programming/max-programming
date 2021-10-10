@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+1. 💪 Opened PR [#3](https://github.com/harshhhdev/issure/pull/3) in [harshhhdev/issure](https://github.com/harshhhdev/issure)
 2. 🗣 Commented on [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
 3. 🗣 Commented on [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
-4. 💪 Opened PR [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
-5. 🎉 Merged PR [#44](https://github.com/max-programming/hacktoberfest-projects/pull/44) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+5. 💪 Opened PR [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
