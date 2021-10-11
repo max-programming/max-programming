@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#46](https://github.com/max-programming/hacktoberfest-projects/pull/46) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#46](https://github.com/max-programming/hacktoberfest-projects/issues/46) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#13](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/13) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
-4. 💪 Opened PR [#7054](https://github.com/darkreader/darkreader/pull/7054) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-5. 🗣 Commented on [#4](https://github.com/harshhhdev/issure/issues/4) in [harshhhdev/issure](https://github.com/harshhhdev/issure)
+1. ❌ Reopened PR [#23](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/23) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+2. 🗣 Commented on [#23](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/23) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+3. ❌ Closed PR [#23](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/23) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+4. 💪 Opened PR [#23](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/23) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+5. 🗣 Commented on [#22](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/22) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
