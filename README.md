@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#47](https://github.com/max-programming/hacktoberfest-projects/issues/47) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#90](https://github.com/atapas/webapis-playground/issues/90) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+1. 🗣 Commented on [#47](https://github.com/max-programming/hacktoberfest-projects/issues/47) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. ❗️ Opened issue [#47](https://github.com/max-programming/hacktoberfest-projects/issues/47) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 3. 🗣 Commented on [#90](https://github.com/atapas/webapis-playground/issues/90) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-4. ❌ Reopened PR [#23](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/23) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
-5. 🗣 Commented on [#23](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/23) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+4. 🗣 Commented on [#90](https://github.com/atapas/webapis-playground/issues/90) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+5. ❌ Reopened PR [#23](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/23) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
