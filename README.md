@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/twuni/emojify/pull/6) in [twuni/emojify](https://github.com/twuni/emojify)
-2. 🗣 Commented on [#23](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/23) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
-3. 🗣 Commented on [#48](https://github.com/max-programming/hacktoberfest-projects/issues/48) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#49](https://github.com/max-programming/hacktoberfest-projects/issues/49) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. ❌ Closed PR [#49](https://github.com/max-programming/hacktoberfest-projects/pull/49) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#6](https://github.com/twuni/emojify/issues/6) in [twuni/emojify](https://github.com/twuni/emojify)
+2. 💪 Opened PR [#6](https://github.com/twuni/emojify/pull/6) in [twuni/emojify](https://github.com/twuni/emojify)
+3. 🗣 Commented on [#23](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/23) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+4. 🗣 Commented on [#48](https://github.com/max-programming/hacktoberfest-projects/issues/48) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#49](https://github.com/max-programming/hacktoberfest-projects/issues/49) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
