@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#47](https://github.com/max-programming/hacktoberfest-projects/issues/47) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. ❌ Closed PR [#48](https://github.com/max-programming/hacktoberfest-projects/pull/48) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#48](https://github.com/max-programming/hacktoberfest-projects/issues/48) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#6](https://github.com/twuni/emojify/issues/6) in [twuni/emojify](https://github.com/twuni/emojify)
-5. 💪 Opened PR [#6](https://github.com/twuni/emojify/pull/6) in [twuni/emojify](https://github.com/twuni/emojify)
+1. 🗣 Commented on [#50](https://github.com/max-programming/hacktoberfest-projects/issues/50) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. ❗️ Closed issue [#47](https://github.com/max-programming/hacktoberfest-projects/issues/47) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. ❌ Closed PR [#48](https://github.com/max-programming/hacktoberfest-projects/pull/48) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#48](https://github.com/max-programming/hacktoberfest-projects/issues/48) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#6](https://github.com/twuni/emojify/issues/6) in [twuni/emojify](https://github.com/twuni/emojify)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
