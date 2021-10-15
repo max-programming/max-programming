@@ -78,10 +78,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#50](https://github.com/max-programming/hacktoberfest-projects/issues/50) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. ❌ Closed PR [#93](https://github.com/stuyy/slappey/pull/93) in [stuyy/slappey](https://github.com/stuyy/slappey)
-3. 🗣 Commented on [#90](https://github.com/atapas/webapis-playground/issues/90) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
-4. 🗣 Commented on [#50](https://github.com/max-programming/hacktoberfest-projects/issues/50) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. ❗️ Closed issue [#47](https://github.com/max-programming/hacktoberfest-projects/issues/47) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🎉 Merged PR [#50](https://github.com/max-programming/hacktoberfest-projects/pull/50) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#50](https://github.com/max-programming/hacktoberfest-projects/issues/50) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. ❌ Closed PR [#93](https://github.com/stuyy/slappey/pull/93) in [stuyy/slappey](https://github.com/stuyy/slappey)
+5. 🗣 Commented on [#90](https://github.com/atapas/webapis-playground/issues/90) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
