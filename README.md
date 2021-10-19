@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/harshhhdev/issure/issues/4) in [harshhhdev/issure](https://github.com/harshhhdev/issure)
-2. 🎉 Merged PR [#51](https://github.com/max-programming/hacktoberfest-projects/pull/51) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#50](https://github.com/max-programming/hacktoberfest-projects/issues/50) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 💪 Opened PR [#51](https://github.com/max-programming/hacktoberfest-projects/pull/51) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#50](https://github.com/max-programming/hacktoberfest-projects/issues/50) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#103](https://github.com/atapas/webapis-playground/issues/103) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+2. 🎉 Merged PR [#52](https://github.com/max-programming/hacktoberfest-projects/pull/52) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#52](https://github.com/max-programming/hacktoberfest-projects/issues/52) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#52](https://github.com/max-programming/hacktoberfest-projects/issues/52) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#52](https://github.com/max-programming/hacktoberfest-projects/issues/52) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
