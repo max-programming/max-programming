@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#54](https://github.com/max-programming/hacktoberfest-projects/pull/54) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#54](https://github.com/max-programming/hacktoberfest-projects/issues/54) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. ❌ Closed PR [#53](https://github.com/max-programming/hacktoberfest-projects/pull/53) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#52](https://github.com/max-programming/hacktoberfest-projects/issues/52) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#103](https://github.com/atapas/webapis-playground/issues/103) in [atapas/webapis-playground](https://github.com/atapas/webapis-playground)
+1. ❌ Closed PR [#55](https://github.com/max-programming/hacktoberfest-projects/pull/55) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. ❌ Closed PR [#54](https://github.com/max-programming/hacktoberfest-projects/pull/54) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#54](https://github.com/max-programming/hacktoberfest-projects/issues/54) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. ❌ Closed PR [#53](https://github.com/max-programming/hacktoberfest-projects/pull/53) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#52](https://github.com/max-programming/hacktoberfest-projects/issues/52) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
