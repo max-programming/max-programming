@@ -110,7 +110,7 @@
 <p align="left">
 <a href="blog.usman-s.me/how-to-make-your-qr-code-generator-using-html-css-and-javascript" title="How to make your QR Code Generator using HTML, CSS & JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632647097912/4rTqHn94N.png" alt="How to make your QR Code Generator using HTML, CSS & JavaScript" width="250px" align="left" /></a>
 <a href="blog.usman-s.me/how-to-make-your-qr-code-generator-using-html-css-and-javascript" title="How to make your QR Code Generator using HTML, CSS & JavaScript"><strong>How to make your QR Code Generator using HTML, CSS & JavaScript</strong></a>
-<div><strong>26 Sept 2021</strong> | <strong>1 Jan 1970</strong></div>
+<div><strong>26 Sept 2021</strong></div>
 <br/> Hey all 🤘!
 So I am back again! This time we have a little different project to build and it's an easy one. 
 I discovered that this was interesting and indeed it is!
@@ -118,7 +118,7 @@ I will teach you how you can make your own QR Code Generator using HTML, CSS, an
 <p align="left">
 <a href="blog.usman-s.me/what-are-netlify-serverless-functions-and-how-to-use-them" title="👽️ What are Netlify Serverless Functions and how to use them?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629475587236/31szEXipw.png" alt="👽️ What are Netlify Serverless Functions and how to use them?" width="250px" align="right" /></a>
 <a href="blog.usman-s.me/what-are-netlify-serverless-functions-and-how-to-use-them" title="👽️ What are Netlify Serverless Functions and how to use them?"><strong>👽️ What are Netlify Serverless Functions and how to use them?</strong></a>
-<div><strong>20 Aug 2021</strong> | <strong>1 Jan 1970</strong></div>
+<div><strong>20 Aug 2021</strong></div>
 <br/> 👋 Welcome back!
 So I recently looked into Serverless functions or Lambda functions and I learned them.
 They can be extremely useful when building an app that is fully front-end and there are chances to expose API keys and so on.
@@ -126,14 +126,14 @@ So today we'll be le... </p> <br/> <br/>
 <p align="left">
 <a href="blog.usman-s.me/getstaticprops-in-nextjs" title="🍽️ Next.js Fetching methods - getStaticProps explained"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629355732366/z3F831Ivg.png" alt="🍽️ Next.js Fetching methods - getStaticProps explained" width="250px" align="left" /></a>
 <a href="blog.usman-s.me/getstaticprops-in-nextjs" title="🍽️ Next.js Fetching methods - getStaticProps explained"><strong>🍽️ Next.js Fetching methods - getStaticProps explained</strong></a>
-<div><strong>19 Aug 2021</strong> | <strong>19 Aug 2021</strong></div>
+<div><strong>19 Aug 2021</strong> | <strong>Updated: 19 Aug 2021</strong></div>
 <br/> 👋 Welcome back!
 Today I thought of starting my first series about  Next.js Fetching methods because many people (including me) don't understand them easily.
 I will make these methods very easy for you to understand so that you don't have to be worri... </p> <br/> <br/>
 <p align="left">
 <a href="blog.usman-s.me/how-to-skip-chromium-download-in-puppeteer" title="⚡ How to skip Chromium download in Puppeteer?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629284301822/qFmrKbq2T.png" alt="⚡ How to skip Chromium download in Puppeteer?" width="250px" align="right" /></a>
 <a href="blog.usman-s.me/how-to-skip-chromium-download-in-puppeteer" title="⚡ How to skip Chromium download in Puppeteer?"><strong>⚡ How to skip Chromium download in Puppeteer?</strong></a>
-<div><strong>18 Aug 2021</strong> | <strong>1 Jan 1970</strong></div>
+<div><strong>18 Aug 2021</strong></div>
 <br/> Hello again 👋!
 If you're a Node.js developer and you've used Puppeteer for web scraping, you might have seen that it downloads Chromium whenever you install puppeteer.
 
@@ -141,7 +141,7 @@ Many of you people don't like to download an external web browser for this. You 
 <p align="left">
 <a href="blog.usman-s.me/make-a-random-meme-api-with-nodejs-and-puppeteer" title="😱 Make a Random Meme API With Node.js and Puppeteer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629217819962/54P2j0rjH.png" alt="😱 Make a Random Meme API With Node.js and Puppeteer" width="250px" align="left" /></a>
 <a href="blog.usman-s.me/make-a-random-meme-api-with-nodejs-and-puppeteer" title="😱 Make a Random Meme API With Node.js and Puppeteer"><strong>😱 Make a Random Meme API With Node.js and Puppeteer</strong></a>
-<div><strong>17 Aug 2021</strong> | <strong>18 Aug 2021</strong></div>
+<div><strong>17 Aug 2021</strong> | <strong>Updated: 18 Aug 2021</strong></div>
 <br/> 👋 Hello there
 Today's article is all about how you can make a Random Meme API using Node.js and web scraping. We'll be using Fastify for our API and we'll be using Puppeteer to scrape the web and get the random meme.
 This random meme API was inspire... </p> <br/> <br/>
