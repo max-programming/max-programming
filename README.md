@@ -97,9 +97,9 @@
 <tr><td><a href="https://www.youtube.com/watch?v=cZksc92oyww"><img width="140px" src="https://i.ytimg.com/vi/cZksc92oyww/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cZksc92oyww">What is Hacktoberfest 2021 and how to participate?</a><br/>Oct 2, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=fxh8wlkxJ2Q"><img width="140px" src="https://i.ytimg.com/vi/fxh8wlkxJ2Q/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fxh8wlkxJ2Q">Build & Deploy a Number Fact Discord Bot using Node.js and Heroku | Node.js | Rapid API</a><br/>Sep 22, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=fxh8wlkxJ2Q">Build &amp; Deploy a Number Fact Discord Bot using Node.js and Heroku | Node.js | Rapid API</a><br/>Sep 22, 2021</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=uXhgikR-Qic"><img width="140px" src="https://i.ytimg.com/vi/uXhgikR-Qic/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uXhgikR-Qic">5 Useful Commands for the Command Line Interface (Windows) #shorts</a><br/>Sep 11, 2021</td></tr>
+<td><a href="https://www.youtube.com/watch?v=uXhgikR-Qic">5 Useful Commands for the Command Line Interface &lpar;Windows&rpar; #shorts</a><br/>Sep 11, 2021</td></tr>
 <!-- YOUTUBE:END -->
   </tbody>
  <table>
