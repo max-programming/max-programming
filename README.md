@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/scripters-dev/use-socket.io/pull/38) in [scripters-dev/use-socket.io](https://github.com/scripters-dev/use-socket.io)
-2. ❌ Closed PR [#55](https://github.com/max-programming/hacktoberfest-projects/pull/55) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. ❌ Closed PR [#54](https://github.com/max-programming/hacktoberfest-projects/pull/54) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#54](https://github.com/max-programming/hacktoberfest-projects/issues/54) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. ❌ Closed PR [#53](https://github.com/max-programming/hacktoberfest-projects/pull/53) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. ❗️ Opened issue [#80](https://github.com/daltonmenezes/aura-theme/issues/80) in [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
+2. 💪 Opened PR [#38](https://github.com/scripters-dev/use-socket.io/pull/38) in [scripters-dev/use-socket.io](https://github.com/scripters-dev/use-socket.io)
+3. ❌ Closed PR [#55](https://github.com/max-programming/hacktoberfest-projects/pull/55) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. ❌ Closed PR [#54](https://github.com/max-programming/hacktoberfest-projects/pull/54) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#54](https://github.com/max-programming/hacktoberfest-projects/issues/54) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
