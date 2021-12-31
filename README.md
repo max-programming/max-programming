@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/harshhhdev/issure/issues/4) in [harshhhdev/issure](https://github.com/harshhhdev/issure)
-2. ❗️ Opened issue [#80](https://github.com/daltonmenezes/aura-theme/issues/80) in [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
-3. 💪 Opened PR [#38](https://github.com/scripters-dev/use-socket.io/pull/38) in [scripters-dev/use-socket.io](https://github.com/scripters-dev/use-socket.io)
-4. ❌ Closed PR [#55](https://github.com/max-programming/hacktoberfest-projects/pull/55) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. ❌ Closed PR [#54](https://github.com/max-programming/hacktoberfest-projects/pull/54) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 💪 Opened PR [#1](https://github.com/max-programming/DefinitelyTyped/pull/1) in [max-programming/DefinitelyTyped](https://github.com/max-programming/DefinitelyTyped)
+2. 🗣 Commented on [#4](https://github.com/harshhhdev/issure/issues/4) in [harshhhdev/issure](https://github.com/harshhhdev/issure)
+3. ❗️ Opened issue [#80](https://github.com/daltonmenezes/aura-theme/issues/80) in [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
+4. 💪 Opened PR [#38](https://github.com/scripters-dev/use-socket.io/pull/38) in [scripters-dev/use-socket.io](https://github.com/scripters-dev/use-socket.io)
+5. ❌ Closed PR [#55](https://github.com/max-programming/hacktoberfest-projects/pull/55) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
