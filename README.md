@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/trulymittal/express-draft/pull/2) in [trulymittal/express-draft](https://github.com/trulymittal/express-draft)
-2. 💪 Opened PR [#1](https://github.com/max-programming/DefinitelyTyped/pull/1) in [max-programming/DefinitelyTyped](https://github.com/max-programming/DefinitelyTyped)
-3. 🗣 Commented on [#4](https://github.com/harshhhdev/issure/issues/4) in [harshhhdev/issure](https://github.com/harshhhdev/issure)
-4. ❗️ Opened issue [#80](https://github.com/daltonmenezes/aura-theme/issues/80) in [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
-5. 💪 Opened PR [#38](https://github.com/scripters-dev/use-socket.io/pull/38) in [scripters-dev/use-socket.io](https://github.com/scripters-dev/use-socket.io)
+1. 💪 Opened PR [#56](https://github.com/genicsblog/genicsblog.github.io/pull/56) in [genicsblog/genicsblog.github.io](https://github.com/genicsblog/genicsblog.github.io)
+2. 💪 Opened PR [#2](https://github.com/trulymittal/express-draft/pull/2) in [trulymittal/express-draft](https://github.com/trulymittal/express-draft)
+3. 💪 Opened PR [#1](https://github.com/max-programming/DefinitelyTyped/pull/1) in [max-programming/DefinitelyTyped](https://github.com/max-programming/DefinitelyTyped)
+4. 🗣 Commented on [#4](https://github.com/harshhhdev/issure/issues/4) in [harshhhdev/issure](https://github.com/harshhhdev/issure)
+5. ❗️ Opened issue [#80](https://github.com/daltonmenezes/aura-theme/issues/80) in [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
