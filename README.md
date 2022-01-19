@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/genicsblog/genicsblog.github.io/pull/57) in [genicsblog/genicsblog.github.io](https://github.com/genicsblog/genicsblog.github.io)
-2. 💪 Opened PR [#56](https://github.com/genicsblog/genicsblog.github.io/pull/56) in [genicsblog/genicsblog.github.io](https://github.com/genicsblog/genicsblog.github.io)
-3. 💪 Opened PR [#2](https://github.com/trulymittal/express-draft/pull/2) in [trulymittal/express-draft](https://github.com/trulymittal/express-draft)
-4. 💪 Opened PR [#1](https://github.com/max-programming/DefinitelyTyped/pull/1) in [max-programming/DefinitelyTyped](https://github.com/max-programming/DefinitelyTyped)
-5. 🗣 Commented on [#4](https://github.com/harshhhdev/issure/issues/4) in [harshhhdev/issure](https://github.com/harshhhdev/issure)
+1. 💪 Opened PR [#140](https://github.com/nextui-org/nextui/pull/140) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+2. 💪 Opened PR [#57](https://github.com/genicsblog/genicsblog.github.io/pull/57) in [genicsblog/genicsblog.github.io](https://github.com/genicsblog/genicsblog.github.io)
+3. 💪 Opened PR [#56](https://github.com/genicsblog/genicsblog.github.io/pull/56) in [genicsblog/genicsblog.github.io](https://github.com/genicsblog/genicsblog.github.io)
+4. 💪 Opened PR [#2](https://github.com/trulymittal/express-draft/pull/2) in [trulymittal/express-draft](https://github.com/trulymittal/express-draft)
+5. 💪 Opened PR [#1](https://github.com/max-programming/DefinitelyTyped/pull/1) in [max-programming/DefinitelyTyped](https://github.com/max-programming/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
