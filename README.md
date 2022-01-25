@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/atordvairn/throw-me/pull/17) in [atordvairn/throw-me](https://github.com/atordvairn/throw-me)
-2. 💪 Opened PR [#140](https://github.com/nextui-org/nextui/pull/140) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-3. 💪 Opened PR [#57](https://github.com/genicsblog/genicsblog.github.io/pull/57) in [genicsblog/genicsblog.github.io](https://github.com/genicsblog/genicsblog.github.io)
-4. 💪 Opened PR [#56](https://github.com/genicsblog/genicsblog.github.io/pull/56) in [genicsblog/genicsblog.github.io](https://github.com/genicsblog/genicsblog.github.io)
-5. 💪 Opened PR [#2](https://github.com/trulymittal/express-draft/pull/2) in [trulymittal/express-draft](https://github.com/trulymittal/express-draft)
+1. 🗣 Commented on [#17](https://github.com/max-programming/easypastes/issues/17) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
+2. 💪 Opened PR [#18](https://github.com/max-programming/easypastes/pull/18) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
+3. 💪 Opened PR [#17](https://github.com/atordvairn/throw-me/pull/17) in [atordvairn/throw-me](https://github.com/atordvairn/throw-me)
+4. 💪 Opened PR [#140](https://github.com/nextui-org/nextui/pull/140) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+5. 💪 Opened PR [#57](https://github.com/genicsblog/genicsblog.github.io/pull/57) in [genicsblog/genicsblog.github.io](https://github.com/genicsblog/genicsblog.github.io)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
