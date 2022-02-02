@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#219](https://github.com/nextui-org/nextui/pull/219) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-2. 💪 Opened PR [#219](https://github.com/nextui-org/nextui/pull/219) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-3. 💪 Opened PR [#19](https://github.com/atordvairn/throw-me/pull/19) in [atordvairn/throw-me](https://github.com/atordvairn/throw-me)
-4. ❗️ Opened issue [#814](https://github.com/withfig/fig/issues/814) in [withfig/fig](https://github.com/withfig/fig)
-5. 💪 Opened PR [#58427](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/58427) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. ❗️ Opened issue [#220](https://github.com/nextui-org/nextui/issues/220) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+2. ❌ Closed PR [#219](https://github.com/nextui-org/nextui/pull/219) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+3. 💪 Opened PR [#219](https://github.com/nextui-org/nextui/pull/219) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+4. 💪 Opened PR [#19](https://github.com/atordvairn/throw-me/pull/19) in [atordvairn/throw-me](https://github.com/atordvairn/throw-me)
+5. ❗️ Opened issue [#814](https://github.com/withfig/fig/issues/814) in [withfig/fig](https://github.com/withfig/fig)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
