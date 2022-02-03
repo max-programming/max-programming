@@ -77,11 +77,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#235](https://github.com/dsznajder/vscode-react-javascript-snippets/pull/235) in [dsznajder/vscode-react-javascript-snippets](https://github.com/dsznajder/vscode-react-javascript-snippets)
-2. ❗️ Opened issue [#220](https://github.com/nextui-org/nextui/issues/220) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-3. ❌ Closed PR [#219](https://github.com/nextui-org/nextui/pull/219) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-4. 💪 Opened PR [#219](https://github.com/nextui-org/nextui/pull/219) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-5. 💪 Opened PR [#19](https://github.com/atordvairn/throw-me/pull/19) in [atordvairn/throw-me](https://github.com/atordvairn/throw-me)
+1. 🗣 Commented on [#235](https://github.com/dsznajder/vscode-react-javascript-snippets/issues/235) in [dsznajder/vscode-react-javascript-snippets](https://github.com/dsznajder/vscode-react-javascript-snippets)
+2. 💪 Opened PR [#235](https://github.com/dsznajder/vscode-react-javascript-snippets/pull/235) in [dsznajder/vscode-react-javascript-snippets](https://github.com/dsznajder/vscode-react-javascript-snippets)
+3. ❗️ Opened issue [#220](https://github.com/nextui-org/nextui/issues/220) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+4. ❌ Closed PR [#219](https://github.com/nextui-org/nextui/pull/219) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+5. 💪 Opened PR [#219](https://github.com/nextui-org/nextui/pull/219) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
