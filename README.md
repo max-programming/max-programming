@@ -1,7 +1,7 @@
 <h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hii! My name is Usman</h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h4 align="center">
-  I am a 16 years old student learning web development and programming. I am also a Content Creator on <a href="https://youtube.com/MaxProgramming">YouTube</a>. I love dark themes!
+  I am a 17 years old student learning web development and programming. I am also a Content Creator on <a href="https://youtube.com/MaxProgramming">YouTube</a>. I love dark themes!
 </h4>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MaxProgramming1?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/MaxProgramming1)
@@ -21,6 +21,9 @@
 - 📫 How to reach me **maxprogramming05@gmail.com**
 
 - ⚡ Fun fact **I like tea. And some fast food! 😉**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--<p align="center">
 <a href="https://twitter.com/maxprogramming1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maxprogramming1" height="30" width="30" /></a>
@@ -83,9 +86,6 @@
 4. ❗️ Opened issue [#220](https://github.com/nextui-org/nextui/issues/220) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
 5. ❌ Closed PR [#219](https://github.com/nextui-org/nextui/pull/219) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
 <!--END_SECTION:activity-->
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ## ▶ My Latest YouTube Videos
 <table>
