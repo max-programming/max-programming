@@ -81,10 +81,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#26](https://github.com/nextui-org/nextui/issues/26) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-2. 🗣 Commented on [#223](https://github.com/nextui-org/nextui/issues/223) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-3. 🗣 Commented on [#235](https://github.com/dsznajder/vscode-react-javascript-snippets/issues/235) in [dsznajder/vscode-react-javascript-snippets](https://github.com/dsznajder/vscode-react-javascript-snippets)
-4. 💪 Opened PR [#235](https://github.com/dsznajder/vscode-react-javascript-snippets/pull/235) in [dsznajder/vscode-react-javascript-snippets](https://github.com/dsznajder/vscode-react-javascript-snippets)
-5. ❗️ Opened issue [#220](https://github.com/nextui-org/nextui/issues/220) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+2. 🗣 Commented on [#26](https://github.com/nextui-org/nextui/issues/26) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+3. 🗣 Commented on [#223](https://github.com/nextui-org/nextui/issues/223) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+4. 🗣 Commented on [#235](https://github.com/dsznajder/vscode-react-javascript-snippets/issues/235) in [dsznajder/vscode-react-javascript-snippets](https://github.com/dsznajder/vscode-react-javascript-snippets)
+5. 💪 Opened PR [#235](https://github.com/dsznajder/vscode-react-javascript-snippets/pull/235) in [dsznajder/vscode-react-javascript-snippets](https://github.com/dsznajder/vscode-react-javascript-snippets)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
