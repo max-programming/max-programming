@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/nextui-org/nextui/issues/26) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+1. 🗣 Commented on [#726](https://github.com/puppeteer/puppeteer/issues/726) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 2. 🗣 Commented on [#26](https://github.com/nextui-org/nextui/issues/26) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
 3. 🗣 Commented on [#26](https://github.com/nextui-org/nextui/issues/26) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-4. 🗣 Commented on [#223](https://github.com/nextui-org/nextui/issues/223) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
-5. 🗣 Commented on [#235](https://github.com/dsznajder/vscode-react-javascript-snippets/issues/235) in [dsznajder/vscode-react-javascript-snippets](https://github.com/dsznajder/vscode-react-javascript-snippets)
+4. 🗣 Commented on [#26](https://github.com/nextui-org/nextui/issues/26) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
+5. 🗣 Commented on [#223](https://github.com/nextui-org/nextui/issues/223) in [nextui-org/nextui](https://github.com/nextui-org/nextui)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
