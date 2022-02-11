@@ -117,7 +117,7 @@ It is the easiest and fastest w... </p> <br/> <br/>
 <p align="left">
 <a href="blog.usman-s.me/whatsapp-api-node-express" title="🗨️ Build a WhatsApp API using Node & Express"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641644668347/EXSQ8lHur.png" alt="🗨️ Build a WhatsApp API using Node & Express" width="250px" align="right" /></a>
 <a href="blog.usman-s.me/whatsapp-api-node-express" title="🗨️ Build a WhatsApp API using Node & Express"><strong>🗨️ Build a WhatsApp API using Node & Express</strong></a>
-<div><strong>8 Jan 2022</strong> | <strong>Updated: 8 Jan 2022</strong></div>
+<div><strong>8 Jan 2022</strong> | <strong>Updated: 10 Feb 2022</strong></div>
 <br/> Today, you will be able to build a WhatsApp REST API using Node.js and Express using Puppeteer and web scraping.
 Although we won't be doing any web scraping, we will use a library that does everything for you already and makes it very easy to work wi... </p> <br/> <br/>
 <p align="left">
