@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/hainguyents13/mechvibes/issues/152) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
-2. ❗️ Opened issue [#84](https://github.com/leerob/on-demand-isr/issues/84) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-3. 🗣 Commented on [#79](https://github.com/leerob/on-demand-isr/issues/79) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-4. 🗣 Commented on [#56](https://github.com/leerob/on-demand-isr/issues/56) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-5. 💪 Opened PR [#11](https://github.com/IonicaBizau/numberly/pull/11) in [IonicaBizau/numberly](https://github.com/IonicaBizau/numberly)
+1. 🗣 Commented on [#80](https://github.com/daltonmenezes/aura-theme/issues/80) in [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
+2. 🗣 Commented on [#152](https://github.com/hainguyents13/mechvibes/issues/152) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
+3. ❗️ Opened issue [#84](https://github.com/leerob/on-demand-isr/issues/84) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
+4. 🗣 Commented on [#79](https://github.com/leerob/on-demand-isr/issues/79) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
+5. 🗣 Commented on [#56](https://github.com/leerob/on-demand-isr/issues/56) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
