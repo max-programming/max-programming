@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/max-programming/only-formats/pull/1) in [max-programming/only-formats](https://github.com/max-programming/only-formats)
-2. 💪 Opened PR [#1](https://github.com/max-programming/only-formats/pull/1) in [max-programming/only-formats](https://github.com/max-programming/only-formats)
-3. ❗️ Opened issue [#274](https://github.com/uiwjs/react-codemirror/issues/274) in [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror)
-4. 🗣 Commented on [#80](https://github.com/daltonmenezes/aura-theme/issues/80) in [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
-5. 🗣 Commented on [#152](https://github.com/hainguyents13/mechvibes/issues/152) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
+1. ❗️ Opened issue [#2](https://github.com/max-programming/only-formats/issues/2) in [max-programming/only-formats](https://github.com/max-programming/only-formats)
+2. 🎉 Merged PR [#1](https://github.com/max-programming/only-formats/pull/1) in [max-programming/only-formats](https://github.com/max-programming/only-formats)
+3. 💪 Opened PR [#1](https://github.com/max-programming/only-formats/pull/1) in [max-programming/only-formats](https://github.com/max-programming/only-formats)
+4. ❗️ Opened issue [#274](https://github.com/uiwjs/react-codemirror/issues/274) in [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror)
+5. 🗣 Commented on [#80](https://github.com/daltonmenezes/aura-theme/issues/80) in [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
