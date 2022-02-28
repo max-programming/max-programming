@@ -108,12 +108,13 @@
    
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="blog.usman-s.me/introducing-easy-pastes-easiest-way-to-create-and-share-code-pastes" title="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1627290238311/Zje5ihf50.png" alt="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes" width="250px" align="left" /></a>
-<a href="blog.usman-s.me/introducing-easy-pastes-easiest-way-to-create-and-share-code-pastes" title="🎉 Introducing Easy Pastes - Easiest way to create and share code pastes"><strong>🎉 Introducing Easy Pastes - Easiest way to create and share code pastes</strong></a>
-<div><strong>26 July 2021</strong> | <strong>Updated: 4 Aug 2021</strong></div>
-<br/> ✨ Introduction to the app
-Easy Pastes is an app where users can easily paste some code they want to share with someone with syntax highlight and even if they want to make it public, they can do so to show other people.
-It is the easiest and fastest w... </p> <br/> <br/>
+<a href="blog.usman-s.me/onlyformats" title="🎉 Introducing Only Formats | The quickest way to format code!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645965586101/f9tZgtt-T.png" alt="🎉 Introducing Only Formats | The quickest way to format code!" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/onlyformats" title="🎉 Introducing Only Formats | The quickest way to format code!"><strong>🎉 Introducing Only Formats | The quickest way to format code!</strong></a>
+<div><strong>27 Feb 2022</strong> | <strong>Updated: 27 Feb 2022</strong></div>
+<br/> Hey everybody!
+I saw the Netlify x Hashnode Hackathon and I was very very excited to participate this time. It was quite hard to think about an idea but I finally got one!
+Story
+This time building an app was a weird and funny experience at the same t... </p> <br/> <br/>
 <p align="left">
 <a href="blog.usman-s.me/whatsapp-api-node-express" title="🗨️ Build a WhatsApp API using Node & Express"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641644668347/EXSQ8lHur.png" alt="🗨️ Build a WhatsApp API using Node & Express" width="250px" align="right" /></a>
 <a href="blog.usman-s.me/whatsapp-api-node-express" title="🗨️ Build a WhatsApp API using Node & Express"><strong>🗨️ Build a WhatsApp API using Node & Express</strong></a>
