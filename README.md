@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8325](https://github.com/darkreader/darkreader/pull/8325) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-2. ❗️ Opened issue [#2](https://github.com/max-programming/only-formats/issues/2) in [max-programming/only-formats](https://github.com/max-programming/only-formats)
-3. 🎉 Merged PR [#1](https://github.com/max-programming/only-formats/pull/1) in [max-programming/only-formats](https://github.com/max-programming/only-formats)
-4. 💪 Opened PR [#1](https://github.com/max-programming/only-formats/pull/1) in [max-programming/only-formats](https://github.com/max-programming/only-formats)
-5. ❗️ Opened issue [#274](https://github.com/uiwjs/react-codemirror/issues/274) in [uiwjs/react-codemirror](https://github.com/uiwjs/react-codemirror)
+1. 💪 Opened PR [#8405](https://github.com/darkreader/darkreader/pull/8405) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+2. 💪 Opened PR [#8325](https://github.com/darkreader/darkreader/pull/8325) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. ❗️ Opened issue [#2](https://github.com/max-programming/only-formats/issues/2) in [max-programming/only-formats](https://github.com/max-programming/only-formats)
+4. 🎉 Merged PR [#1](https://github.com/max-programming/only-formats/pull/1) in [max-programming/only-formats](https://github.com/max-programming/only-formats)
+5. 💪 Opened PR [#1](https://github.com/max-programming/only-formats/pull/1) in [max-programming/only-formats](https://github.com/max-programming/only-formats)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
