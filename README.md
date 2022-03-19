@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/ixartz/Next-js-Boilerplate/issues/24) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+1. 💪 Opened PR [#9](https://github.com/clerkinc/docs/pull/9) in [clerkinc/docs](https://github.com/clerkinc/docs)
 2. 🗣 Commented on [#24](https://github.com/ixartz/Next-js-Boilerplate/issues/24) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
-3. ❗️ Opened issue [#23](https://github.com/ixartz/Next-js-Boilerplate/issues/23) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
-4. 🗣 Commented on [#25](https://github.com/max-programming/easypastes/issues/25) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
-5. 🗣 Commented on [#38](https://github.com/scripters-dev/use-socket.io/issues/38) in [scripters-dev/use-socket.io](https://github.com/scripters-dev/use-socket.io)
+3. 🗣 Commented on [#24](https://github.com/ixartz/Next-js-Boilerplate/issues/24) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+4. ❗️ Opened issue [#23](https://github.com/ixartz/Next-js-Boilerplate/issues/23) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+5. 🗣 Commented on [#25](https://github.com/max-programming/easypastes/issues/25) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
