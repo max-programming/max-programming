@@ -108,43 +108,42 @@
    
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="blog.usman-s.me/onlyformats" title="🎉 Introducing Only Formats | The quickest way to format code!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645965586101/f9tZgtt-T.png" alt="🎉 Introducing Only Formats | The quickest way to format code!" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/sort-imports-using-prettier-in-a-javascript-project-inside-vs-code" title="🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647939834412/-rOHcxwbV.png" alt="🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/sort-imports-using-prettier-in-a-javascript-project-inside-vs-code" title="🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!"><strong>🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!</strong></a>
+<div><strong>22 Mar 2022</strong> | <strong>Updated: 22 Mar 2022</strong></div>
+<br/> 👋 Hey developers! This post is about how you can sort import statements in your JavaScript/TypeScript/React/Node etc projects easily with Prettier in VS Code when you format the code.
+https://www.youtube.com/watch?v=QQWgN0_gUxI
+What will you achieve... </p> <br/> <br/>
+<p align="left">
+<a href="blog.usman-s.me/onlyformats" title="🎉 Introducing Only Formats | The quickest way to format code!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645965586101/f9tZgtt-T.png" alt="🎉 Introducing Only Formats | The quickest way to format code!" width="250px" align="right" /></a>
 <a href="blog.usman-s.me/onlyformats" title="🎉 Introducing Only Formats | The quickest way to format code!"><strong>🎉 Introducing Only Formats | The quickest way to format code!</strong></a>
-<div><strong>27 Feb 2022</strong> | <strong>Updated: 27 Feb 2022</strong></div>
+<div><strong>27 Feb 2022</strong> | <strong>Updated: 22 Mar 2022</strong></div>
 <br/> Hey everybody!
 I saw the Netlify x Hashnode Hackathon and I was very very excited to participate this time. It was quite hard to think about an idea but I finally got one!
 Story
 This time building an app was a weird and funny experience at the same t... </p> <br/> <br/>
 <p align="left">
-<a href="blog.usman-s.me/whatsapp-api-node-express" title="🗨️ Build a WhatsApp API using Node & Express"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641644668347/EXSQ8lHur.png" alt="🗨️ Build a WhatsApp API using Node & Express" width="250px" align="right" /></a>
+<a href="blog.usman-s.me/whatsapp-api-node-express" title="🗨️ Build a WhatsApp API using Node & Express"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1641644668347/EXSQ8lHur.png" alt="🗨️ Build a WhatsApp API using Node & Express" width="250px" align="left" /></a>
 <a href="blog.usman-s.me/whatsapp-api-node-express" title="🗨️ Build a WhatsApp API using Node & Express"><strong>🗨️ Build a WhatsApp API using Node & Express</strong></a>
-<div><strong>8 Jan 2022</strong> | <strong>Updated: 14 Mar 2022</strong></div>
+<div><strong>8 Jan 2022</strong> | <strong>Updated: 22 Mar 2022</strong></div>
 <br/> Today, you will be able to build a WhatsApp REST API using Node.js and Express using Puppeteer and web scraping.
 Although we won't be doing any web scraping, we will use a library that does everything for you already and makes it very easy to work wi... </p> <br/> <br/>
 <p align="left">
-<a href="blog.usman-s.me/how-to-convert-a-normal-react-form-to-use-react-hook-form" title="😎 How to convert a normal React form to use react-hook-form?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636361670727/LQQwoWgyC.png" alt="😎 How to convert a normal React form to use react-hook-form?" width="250px" align="left" /></a>
+<a href="blog.usman-s.me/how-to-convert-a-normal-react-form-to-use-react-hook-form" title="😎 How to convert a normal React form to use react-hook-form?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1636361670727/LQQwoWgyC.png" alt="😎 How to convert a normal React form to use react-hook-form?" width="250px" align="right" /></a>
 <a href="blog.usman-s.me/how-to-convert-a-normal-react-form-to-use-react-hook-form" title="😎 How to convert a normal React form to use react-hook-form?"><strong>😎 How to convert a normal React form to use react-hook-form?</strong></a>
-<div><strong>8 Nov 2021</strong></div>
+<div><strong>8 Nov 2021</strong> | <strong>Updated: 22 Mar 2022</strong></div>
 <br/> Hey everyone!
 Nice to see you all around again! Today you'll find out how easy it is to use the  react-hook-form  library for forms instead of the normal method of forms in React.
 
 So, the first thing is first, normally, in React we use state, and wh... </p> <br/> <br/>
 <p align="left">
-<a href="blog.usman-s.me/how-to-make-your-qr-code-generator-using-html-css-and-javascript" title="How to make your QR Code Generator using HTML, CSS & JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632647097912/4rTqHn94N.png" alt="How to make your QR Code Generator using HTML, CSS & JavaScript" width="250px" align="right" /></a>
+<a href="blog.usman-s.me/how-to-make-your-qr-code-generator-using-html-css-and-javascript" title="How to make your QR Code Generator using HTML, CSS & JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1632647097912/4rTqHn94N.png" alt="How to make your QR Code Generator using HTML, CSS & JavaScript" width="250px" align="left" /></a>
 <a href="blog.usman-s.me/how-to-make-your-qr-code-generator-using-html-css-and-javascript" title="How to make your QR Code Generator using HTML, CSS & JavaScript"><strong>How to make your QR Code Generator using HTML, CSS & JavaScript</strong></a>
 <div><strong>26 Sept 2021</strong></div>
 <br/> Hey all 🤘!
 So I am back again! This time we have a little different project to build and it's an easy one. 
 I discovered that this was interesting and indeed it is!
 I will teach you how you can make your own QR Code Generator using HTML, CSS, and Ja... </p> <br/> <br/>
-<p align="left">
-<a href="blog.usman-s.me/what-are-netlify-serverless-functions-and-how-to-use-them" title="👽️ What are Netlify Serverless Functions and how to use them?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1629475587236/31szEXipw.png" alt="👽️ What are Netlify Serverless Functions and how to use them?" width="250px" align="left" /></a>
-<a href="blog.usman-s.me/what-are-netlify-serverless-functions-and-how-to-use-them" title="👽️ What are Netlify Serverless Functions and how to use them?"><strong>👽️ What are Netlify Serverless Functions and how to use them?</strong></a>
-<div><strong>20 Aug 2021</strong></div>
-<br/> 👋 Welcome back!
-So I recently looked into Serverless functions or Lambda functions and I learned them.
-They can be extremely useful when building an app that is fully front-end and there are chances to expose API keys and so on.
-So today we'll be le... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
