@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/genicsblog/genicsblog.com/issues/118) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
-2. ❗️ Opened issue [#118](https://github.com/genicsblog/genicsblog.com/issues/118) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
-3. 🗣 Commented on [#25](https://github.com/ixartz/Next-js-Boilerplate/issues/25) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
-4. 💪 Opened PR [#9](https://github.com/clerkinc/docs/pull/9) in [clerkinc/docs](https://github.com/clerkinc/docs)
-5. 🗣 Commented on [#24](https://github.com/ixartz/Next-js-Boilerplate/issues/24) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+1. 💪 Opened PR [#120](https://github.com/genicsblog/genicsblog.com/pull/120) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
+2. 🗣 Commented on [#118](https://github.com/genicsblog/genicsblog.com/issues/118) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
+3. 🗣 Commented on [#118](https://github.com/genicsblog/genicsblog.com/issues/118) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
+4. ❗️ Opened issue [#118](https://github.com/genicsblog/genicsblog.com/issues/118) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
+5. 🗣 Commented on [#25](https://github.com/ixartz/Next-js-Boilerplate/issues/25) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
