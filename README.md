@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2612](https://github.com/open-wa/wa-automate-nodejs/issues/2612) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 💪 Opened PR [#120](https://github.com/genicsblog/genicsblog.com/pull/120) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
-3. 🗣 Commented on [#118](https://github.com/genicsblog/genicsblog.com/issues/118) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
+1. 🗣 Commented on [#2612](https://github.com/open-wa/wa-automate-nodejs/issues/2612) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. ❗️ Opened issue [#2612](https://github.com/open-wa/wa-automate-nodejs/issues/2612) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 💪 Opened PR [#120](https://github.com/genicsblog/genicsblog.com/pull/120) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
 4. 🗣 Commented on [#118](https://github.com/genicsblog/genicsblog.com/issues/118) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
-5. ❗️ Opened issue [#118](https://github.com/genicsblog/genicsblog.com/issues/118) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
+5. 🗣 Commented on [#118](https://github.com/genicsblog/genicsblog.com/issues/118) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
