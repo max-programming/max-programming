@@ -81,10 +81,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#815](https://github.com/leerob/on-demand-isr/issues/815) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-2. 💪 Opened PR [#819](https://github.com/leerob/on-demand-isr/pull/819) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
-3. 🗣 Commented on [#2612](https://github.com/open-wa/wa-automate-nodejs/issues/2612) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. ❗️ Opened issue [#2612](https://github.com/open-wa/wa-automate-nodejs/issues/2612) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 💪 Opened PR [#120](https://github.com/genicsblog/genicsblog.com/pull/120) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
+2. 🗣 Commented on [#815](https://github.com/leerob/on-demand-isr/issues/815) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
+3. 💪 Opened PR [#819](https://github.com/leerob/on-demand-isr/pull/819) in [leerob/on-demand-isr](https://github.com/leerob/on-demand-isr)
+4. 🗣 Commented on [#2612](https://github.com/open-wa/wa-automate-nodejs/issues/2612) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. ❗️ Opened issue [#2612](https://github.com/open-wa/wa-automate-nodejs/issues/2612) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
