@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#130](https://github.com/bradgarropy/bradgarropy.com/issues/130) in [bradgarropy/bradgarropy.com](https://github.com/bradgarropy/bradgarropy.com)
-2. 🗣 Commented on [#1](https://github.com/PATEL96/SangamTechFest/issues/1) in [PATEL96/SangamTechFest](https://github.com/PATEL96/SangamTechFest)
-3. 💪 Opened PR [#1](https://github.com/PATEL96/SangamTechFest/pull/1) in [PATEL96/SangamTechFest](https://github.com/PATEL96/SangamTechFest)
-4. 🗣 Commented on [#1380](https://github.com/tediousjs/node-mssql/issues/1380) in [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql)
-5. 💪 Opened PR [#1380](https://github.com/tediousjs/node-mssql/pull/1380) in [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql)
+1. 🗣 Commented on [#902](https://github.com/open-wa/wa-automate-nodejs/issues/902) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#130](https://github.com/bradgarropy/bradgarropy.com/issues/130) in [bradgarropy/bradgarropy.com](https://github.com/bradgarropy/bradgarropy.com)
+3. 🗣 Commented on [#1](https://github.com/PATEL96/SangamTechFest/issues/1) in [PATEL96/SangamTechFest](https://github.com/PATEL96/SangamTechFest)
+4. 💪 Opened PR [#1](https://github.com/PATEL96/SangamTechFest/pull/1) in [PATEL96/SangamTechFest](https://github.com/PATEL96/SangamTechFest)
+5. 🗣 Commented on [#1380](https://github.com/tediousjs/node-mssql/issues/1380) in [tediousjs/node-mssql](https://github.com/tediousjs/node-mssql)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
