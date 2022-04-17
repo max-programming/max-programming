@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#981](https://github.com/pedroslopez/whatsapp-web.js/issues/981) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-2. ❗️ Opened issue [#12729](https://github.com/prisma/prisma/issues/12729) in [prisma/prisma](https://github.com/prisma/prisma)
-3. 🗣 Commented on [#902](https://github.com/open-wa/wa-automate-nodejs/issues/902) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-4. 🗣 Commented on [#130](https://github.com/bradgarropy/bradgarropy.com/issues/130) in [bradgarropy/bradgarropy.com](https://github.com/bradgarropy/bradgarropy.com)
-5. 🗣 Commented on [#1](https://github.com/PATEL96/SangamTechFest/issues/1) in [PATEL96/SangamTechFest](https://github.com/PATEL96/SangamTechFest)
+1. ❗️ Opened issue [#129](https://github.com/genicsblog/genicsblog.com/issues/129) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
+2. 💪 Opened PR [#128](https://github.com/genicsblog/genicsblog.com/pull/128) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
+3. 🗣 Commented on [#981](https://github.com/pedroslopez/whatsapp-web.js/issues/981) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+4. ❗️ Opened issue [#12729](https://github.com/prisma/prisma/issues/12729) in [prisma/prisma](https://github.com/prisma/prisma)
+5. 🗣 Commented on [#902](https://github.com/open-wa/wa-automate-nodejs/issues/902) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
