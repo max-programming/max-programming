@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
-2. ❗️ Opened issue [#129](https://github.com/genicsblog/genicsblog.com/issues/129) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
-3. 💪 Opened PR [#128](https://github.com/genicsblog/genicsblog.com/pull/128) in [genicsblog/genicsblog.com](https://github.com/genicsblog/genicsblog.com)
-4. 🗣 Commented on [#981](https://github.com/pedroslopez/whatsapp-web.js/issues/981) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-5. ❗️ Opened issue [#12729](https://github.com/prisma/prisma/issues/12729) in [prisma/prisma](https://github.com/prisma/prisma)
+1. ❗️ Closed issue [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+2. 🗣 Commented on [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+3. 🗣 Commented on [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+4. 🗣 Commented on [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+5. ❗️ Opened issue [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
