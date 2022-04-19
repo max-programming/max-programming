@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
-2. 🗣 Commented on [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+1. 🗣 Commented on [#122](https://github.com/genicsblog/comments/issues/122) in [genicsblog/comments](https://github.com/genicsblog/comments)
+2. ❗️ Closed issue [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
 3. 🗣 Commented on [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
 4. 🗣 Commented on [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
-5. ❗️ Opened issue [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+5. 🗣 Commented on [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
