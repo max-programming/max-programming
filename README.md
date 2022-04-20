@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5261](https://github.com/nushell/nushell/issues/5261) in [nushell/nushell](https://github.com/nushell/nushell)
-2. 🎉 Merged PR [#1](https://github.com/max-programming/usman-s.me/pull/1) in [max-programming/usman-s.me](https://github.com/max-programming/usman-s.me)
-3. 💪 Opened PR [#1](https://github.com/max-programming/usman-s.me/pull/1) in [max-programming/usman-s.me](https://github.com/max-programming/usman-s.me)
-4. 🗣 Commented on [#122](https://github.com/genicsblog/comments/issues/122) in [genicsblog/comments](https://github.com/genicsblog/comments)
-5. ❗️ Closed issue [#29](https://github.com/ixartz/Next-js-Boilerplate/issues/29) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+1. ❗️ Opened issue [#5263](https://github.com/nushell/nushell/issues/5263) in [nushell/nushell](https://github.com/nushell/nushell)
+2. ❗️ Opened issue [#5261](https://github.com/nushell/nushell/issues/5261) in [nushell/nushell](https://github.com/nushell/nushell)
+3. 🎉 Merged PR [#1](https://github.com/max-programming/usman-s.me/pull/1) in [max-programming/usman-s.me](https://github.com/max-programming/usman-s.me)
+4. 💪 Opened PR [#1](https://github.com/max-programming/usman-s.me/pull/1) in [max-programming/usman-s.me](https://github.com/max-programming/usman-s.me)
+5. 🗣 Commented on [#122](https://github.com/genicsblog/comments/issues/122) in [genicsblog/comments](https://github.com/genicsblog/comments)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
