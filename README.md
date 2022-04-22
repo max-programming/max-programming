@@ -81,10 +81,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#46](https://github.com/conaticus/boolean/issues/46) in [conaticus/boolean](https://github.com/conaticus/boolean)
-2. ❌ Closed PR [#57](https://github.com/conaticus/boolean/pull/57) in [conaticus/boolean](https://github.com/conaticus/boolean)
-3. 💪 Opened PR [#58](https://github.com/conaticus/boolean/pull/58) in [conaticus/boolean](https://github.com/conaticus/boolean)
-4. 💪 Opened PR [#57](https://github.com/conaticus/boolean/pull/57) in [conaticus/boolean](https://github.com/conaticus/boolean)
-5. 🗣 Commented on [#5261](https://github.com/nushell/nushell/issues/5261) in [nushell/nushell](https://github.com/nushell/nushell)
+2. 🗣 Commented on [#46](https://github.com/conaticus/boolean/issues/46) in [conaticus/boolean](https://github.com/conaticus/boolean)
+3. ❌ Closed PR [#57](https://github.com/conaticus/boolean/pull/57) in [conaticus/boolean](https://github.com/conaticus/boolean)
+4. 💪 Opened PR [#58](https://github.com/conaticus/boolean/pull/58) in [conaticus/boolean](https://github.com/conaticus/boolean)
+5. 💪 Opened PR [#57](https://github.com/conaticus/boolean/pull/57) in [conaticus/boolean](https://github.com/conaticus/boolean)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
