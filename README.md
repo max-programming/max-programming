@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1122](https://github.com/mikecao/umami/issues/1122) in [mikecao/umami](https://github.com/mikecao/umami)
-2. 🗣 Commented on [#46](https://github.com/conaticus/boolean/issues/46) in [conaticus/boolean](https://github.com/conaticus/boolean)
+1. 🗣 Commented on [#89](https://github.com/conaticus/boolean/issues/89) in [conaticus/boolean](https://github.com/conaticus/boolean)
+2. ❗️ Opened issue [#1122](https://github.com/mikecao/umami/issues/1122) in [mikecao/umami](https://github.com/mikecao/umami)
 3. 🗣 Commented on [#46](https://github.com/conaticus/boolean/issues/46) in [conaticus/boolean](https://github.com/conaticus/boolean)
-4. ❌ Closed PR [#57](https://github.com/conaticus/boolean/pull/57) in [conaticus/boolean](https://github.com/conaticus/boolean)
-5. 💪 Opened PR [#58](https://github.com/conaticus/boolean/pull/58) in [conaticus/boolean](https://github.com/conaticus/boolean)
+4. 🗣 Commented on [#46](https://github.com/conaticus/boolean/issues/46) in [conaticus/boolean](https://github.com/conaticus/boolean)
+5. ❌ Closed PR [#57](https://github.com/conaticus/boolean/pull/57) in [conaticus/boolean](https://github.com/conaticus/boolean)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
