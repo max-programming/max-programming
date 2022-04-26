@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4608](https://github.com/nuxt/framework/issues/4608) in [nuxt/framework](https://github.com/nuxt/framework)
-2. 💪 Opened PR [#4612](https://github.com/nuxt/framework/pull/4612) in [nuxt/framework](https://github.com/nuxt/framework)
-3. ❗️ Opened issue [#4611](https://github.com/nuxt/framework/issues/4611) in [nuxt/framework](https://github.com/nuxt/framework)
-4. 🗣 Commented on [#89](https://github.com/conaticus/boolean/issues/89) in [conaticus/boolean](https://github.com/conaticus/boolean)
-5. ❗️ Opened issue [#1122](https://github.com/mikecao/umami/issues/1122) in [mikecao/umami](https://github.com/mikecao/umami)
+1. 🗣 Commented on [#89](https://github.com/conaticus/boolean/issues/89) in [conaticus/boolean](https://github.com/conaticus/boolean)
+2. 🗣 Commented on [#4608](https://github.com/nuxt/framework/issues/4608) in [nuxt/framework](https://github.com/nuxt/framework)
+3. 💪 Opened PR [#4612](https://github.com/nuxt/framework/pull/4612) in [nuxt/framework](https://github.com/nuxt/framework)
+4. ❗️ Opened issue [#4611](https://github.com/nuxt/framework/issues/4611) in [nuxt/framework](https://github.com/nuxt/framework)
+5. 🗣 Commented on [#89](https://github.com/conaticus/boolean/issues/89) in [conaticus/boolean](https://github.com/conaticus/boolean)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
