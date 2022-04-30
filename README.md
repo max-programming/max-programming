@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#404](https://github.com/cwackerfuss/react-wordle/pull/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
-2. 🗣 Commented on [#1125](https://github.com/mikecao/umami/issues/1125) in [mikecao/umami](https://github.com/mikecao/umami)
-3. 💪 Opened PR [#31](https://github.com/ixartz/Next-js-Boilerplate/pull/31) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
-4. 🗣 Commented on [#4608](https://github.com/nuxt/framework/issues/4608) in [nuxt/framework](https://github.com/nuxt/framework)
-5. ❗️ Opened issue [#1125](https://github.com/mikecao/umami/issues/1125) in [mikecao/umami](https://github.com/mikecao/umami)
+1. 🗣 Commented on [#80](https://github.com/daltonmenezes/aura-theme/issues/80) in [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
+2. 💪 Opened PR [#404](https://github.com/cwackerfuss/react-wordle/pull/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
+3. 🗣 Commented on [#1125](https://github.com/mikecao/umami/issues/1125) in [mikecao/umami](https://github.com/mikecao/umami)
+4. 💪 Opened PR [#31](https://github.com/ixartz/Next-js-Boilerplate/pull/31) in [ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate)
+5. 🗣 Commented on [#4608](https://github.com/nuxt/framework/issues/4608) in [nuxt/framework](https://github.com/nuxt/framework)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
