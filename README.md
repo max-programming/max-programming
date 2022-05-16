@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/44) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-2. 🗣 Commented on [#404](https://github.com/cwackerfuss/react-wordle/issues/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
-3. 🗣 Commented on [#46](https://github.com/conaticus/boolean/issues/46) in [conaticus/boolean](https://github.com/conaticus/boolean)
-4. 🗣 Commented on [#80](https://github.com/daltonmenezes/aura-theme/issues/80) in [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
-5. 💪 Opened PR [#404](https://github.com/cwackerfuss/react-wordle/pull/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
+1. 🗣 Commented on [#404](https://github.com/cwackerfuss/react-wordle/issues/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
+2. 🗣 Commented on [#44](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/44) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+3. 🗣 Commented on [#404](https://github.com/cwackerfuss/react-wordle/issues/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
+4. 🗣 Commented on [#46](https://github.com/conaticus/boolean/issues/46) in [conaticus/boolean](https://github.com/conaticus/boolean)
+5. 🗣 Commented on [#80](https://github.com/daltonmenezes/aura-theme/issues/80) in [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
