@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/Evavic44/portfolio-ideas/pull/36) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-2. 🗣 Commented on [#404](https://github.com/cwackerfuss/react-wordle/issues/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
-3. 🗣 Commented on [#44](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/44) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-4. 🗣 Commented on [#404](https://github.com/cwackerfuss/react-wordle/issues/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
-5. 🗣 Commented on [#46](https://github.com/conaticus/boolean/issues/46) in [conaticus/boolean](https://github.com/conaticus/boolean)
+1. 🗣 Commented on [#36](https://github.com/Evavic44/portfolio-ideas/issues/36) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+2. 💪 Opened PR [#36](https://github.com/Evavic44/portfolio-ideas/pull/36) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+3. 🗣 Commented on [#404](https://github.com/cwackerfuss/react-wordle/issues/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
+4. 🗣 Commented on [#44](https://github.com/arturssmirnovs/github-profile-readme-generator/issues/44) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+5. 🗣 Commented on [#404](https://github.com/cwackerfuss/react-wordle/issues/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
