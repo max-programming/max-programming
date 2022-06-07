@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/Evavic44/portfolio-ideas/issues/36) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+1. 🗣 Commented on [#2179](https://github.com/puppeteer/puppeteer/issues/2179) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 2. 🗣 Commented on [#36](https://github.com/Evavic44/portfolio-ideas/issues/36) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 3. 🗣 Commented on [#36](https://github.com/Evavic44/portfolio-ideas/issues/36) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-4. 💪 Opened PR [#36](https://github.com/Evavic44/portfolio-ideas/pull/36) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
-5. 🗣 Commented on [#404](https://github.com/cwackerfuss/react-wordle/issues/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
+4. 🗣 Commented on [#36](https://github.com/Evavic44/portfolio-ideas/issues/36) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
+5. 💪 Opened PR [#36](https://github.com/Evavic44/portfolio-ideas/pull/36) in [Evavic44/portfolio-ideas](https://github.com/Evavic44/portfolio-ideas)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
