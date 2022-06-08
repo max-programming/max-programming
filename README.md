@@ -110,7 +110,7 @@
 <p align="left">
 <a href="https://blog.usman-s.me/how-to-use-mongoose-with-nextjs-for-mongodb" title="🗃️ How to use Mongoose with Next.js for MongoDB?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650185052230/2wzY_Fd6f.png" alt="🗃️ How to use Mongoose with Next.js for MongoDB?" width="250px" align="left" /></a>
 <a href="https://blog.usman-s.me/how-to-use-mongoose-with-nextjs-for-mongodb" title="🗃️ How to use Mongoose with Next.js for MongoDB?"><strong>🗃️ How to use Mongoose with Next.js for MongoDB?</strong></a>
-<div><strong>17 Apr 2022</strong> | <strong>Updated: 17 Apr 2022</strong></div>
+<div><strong>17 Apr 2022</strong> | <strong>Updated: 7 June 2022</strong></div>
 <br/> Hey all 👋!
 Next.js is an amazing full-stack framework and MongoDB is a great NoSQL database. Using them together will make an app super fast and awesome! In this post, we'll go ahead and set up the Mongoose ODM inside our Next.js app to make use of ... </p> <br/> <br/>
 <p align="left">
