@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hii! My name is Usman</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hii! My name is Usman</h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h4 align="center">
   I am a 17 years old student learning web development and programming. I am also a Content Creator on <a href="https://youtube.com/MaxProgramming">YouTube</a>. I love dark themes!
