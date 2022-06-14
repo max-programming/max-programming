@@ -80,11 +80,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/max-programming/max-programming/pull/3) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
-2. 🗣 Commented on [#3](https://github.com/max-programming/max-programming/issues/3) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
-3. ❌ Closed PR [#1](https://github.com/max-programming/react-wordle/pull/1) in [max-programming/react-wordle](https://github.com/max-programming/react-wordle)
-4. 🗣 Commented on [#404](https://github.com/cwackerfuss/react-wordle/issues/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
-5. 💪 Opened PR [#1](https://github.com/max-programming/react-wordle/pull/1) in [max-programming/react-wordle](https://github.com/max-programming/react-wordle)
+1. 🗣 Commented on [#1766](https://github.com/puppeteer/puppeteer/issues/1766) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+2. 🎉 Merged PR [#3](https://github.com/max-programming/max-programming/pull/3) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
+3. 🗣 Commented on [#3](https://github.com/max-programming/max-programming/issues/3) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
+4. ❌ Closed PR [#1](https://github.com/max-programming/react-wordle/pull/1) in [max-programming/react-wordle](https://github.com/max-programming/react-wordle)
+5. 🗣 Commented on [#404](https://github.com/cwackerfuss/react-wordle/issues/404) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
