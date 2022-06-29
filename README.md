@@ -56,7 +56,7 @@
   <a href="https://twitter.com/MaxProgramming1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
   <a href="https://blog.usman-s.me/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
   <a href="https://dev.to/maxprogramming"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://discord.com/users/691360911440609290"><img src="https://dcbadge.vercel.app/api/shield/691360911440609290"></a>
+  <a href="https://discord.com/users/691360911440609290"><img src="https://dcbadge.vercel.app/api/shield/691360911440609290?compact=true&theme=clean"></a>
   
 </p>
 <p align="center">
