@@ -82,11 +82,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174](https://github.com/hainguyents13/mechvibes/issues/174) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
-2. 🗣 Commented on [#39](https://github.com/SkaceKamen/vscode-win-opacity/issues/39) in [SkaceKamen/vscode-win-opacity](https://github.com/SkaceKamen/vscode-win-opacity)
-3. 🗣 Commented on [#39](https://github.com/SkaceKamen/vscode-win-opacity/issues/39) in [SkaceKamen/vscode-win-opacity](https://github.com/SkaceKamen/vscode-win-opacity)
-4. 🗣 Commented on [#1766](https://github.com/puppeteer/puppeteer/issues/1766) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-5. 🎉 Merged PR [#3](https://github.com/max-programming/max-programming/pull/3) in [max-programming/max-programming](https://github.com/max-programming/max-programming)
+1. 🎉 Merged PR [#1](https://github.com/max-programming/memoriez/pull/1) in [max-programming/memoriez](https://github.com/max-programming/memoriez)
+2. 💪 Opened PR [#1](https://github.com/max-programming/memoriez/pull/1) in [max-programming/memoriez](https://github.com/max-programming/memoriez)
+3. 🗣 Commented on [#174](https://github.com/hainguyents13/mechvibes/issues/174) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
+4. 🗣 Commented on [#39](https://github.com/SkaceKamen/vscode-win-opacity/issues/39) in [SkaceKamen/vscode-win-opacity](https://github.com/SkaceKamen/vscode-win-opacity)
+5. 🗣 Commented on [#39](https://github.com/SkaceKamen/vscode-win-opacity/issues/39) in [SkaceKamen/vscode-win-opacity](https://github.com/SkaceKamen/vscode-win-opacity)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
