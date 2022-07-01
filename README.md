@@ -82,10 +82,10 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/max-programming/memoriez/pull/1) in [max-programming/memoriez](https://github.com/max-programming/memoriez)
-2. 💪 Opened PR [#1](https://github.com/max-programming/memoriez/pull/1) in [max-programming/memoriez](https://github.com/max-programming/memoriez)
-3. 🗣 Commented on [#174](https://github.com/hainguyents13/mechvibes/issues/174) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
-4. 🗣 Commented on [#39](https://github.com/SkaceKamen/vscode-win-opacity/issues/39) in [SkaceKamen/vscode-win-opacity](https://github.com/SkaceKamen/vscode-win-opacity)
+1. ❗️ Opened issue [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
+2. 🎉 Merged PR [#1](https://github.com/max-programming/memoriez/pull/1) in [max-programming/memoriez](https://github.com/max-programming/memoriez)
+3. 💪 Opened PR [#1](https://github.com/max-programming/memoriez/pull/1) in [max-programming/memoriez](https://github.com/max-programming/memoriez)
+4. 🗣 Commented on [#174](https://github.com/hainguyents13/mechvibes/issues/174) in [hainguyents13/mechvibes](https://github.com/hainguyents13/mechvibes)
 5. 🗣 Commented on [#39](https://github.com/SkaceKamen/vscode-win-opacity/issues/39) in [SkaceKamen/vscode-win-opacity](https://github.com/SkaceKamen/vscode-win-opacity)
 <!--END_SECTION:activity-->
 
