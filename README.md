@@ -84,9 +84,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
 2. 🗣 Commented on [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
-3. ❗️ Opened issue [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
-4. 🎉 Merged PR [#1](https://github.com/max-programming/memoriez/pull/1) in [max-programming/memoriez](https://github.com/max-programming/memoriez)
-5. 💪 Opened PR [#1](https://github.com/max-programming/memoriez/pull/1) in [max-programming/memoriez](https://github.com/max-programming/memoriez)
+3. 🗣 Commented on [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
+4. ❗️ Opened issue [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
+5. 🎉 Merged PR [#1](https://github.com/max-programming/memoriez/pull/1) in [max-programming/memoriez](https://github.com/max-programming/memoriez)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
