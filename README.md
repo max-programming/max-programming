@@ -112,7 +112,7 @@
 <p align="left">
 <a href="https://blog.usman-s.me/memoriez" title="🎉 Presenting Memoriez - A quick & easy journal"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1656647378837/zTE_GI6xd.png" alt="🎉 Presenting Memoriez - A quick & easy journal" width="250px" align="left" /></a>
 <a href="https://blog.usman-s.me/memoriez" title="🎉 Presenting Memoriez - A quick & easy journal"><strong>🎉 Presenting Memoriez - A quick & easy journal</strong></a>
-<div><strong>1 July 2022</strong> | <strong>Updated: 1 July 2022</strong></div>
+<div><strong>1 July 2022</strong> | <strong>Updated: 3 July 2022</strong></div>
 <br/> ❔ What and Why Memoriez ❔
 This is a very important question because it makes things clear as to why this app is needed.
 I built Memoriez because I honestly found it hard to write and maintain journal/diary entries daily.
