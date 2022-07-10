@@ -82,11 +82,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#282](https://github.com/Jarred-Sumner/bun/issues/282) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
-2. 🗣 Commented on [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
+1. 🗣 Commented on [#213](https://github.com/Jarred-Sumner/bun/issues/213) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
+2. 🗣 Commented on [#282](https://github.com/Jarred-Sumner/bun/issues/282) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
 3. 🗣 Commented on [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
 4. 🗣 Commented on [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
-5. ❗️ Opened issue [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
+5. 🗣 Commented on [#1248](https://github.com/umami-software/umami/issues/1248) in [umami-software/umami](https://github.com/umami-software/umami)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
