@@ -82,11 +82,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
-2. ❗️ Opened issue [#305](https://github.com/skypackjs/skypack-cdn/issues/305) in [skypackjs/skypack-cdn](https://github.com/skypackjs/skypack-cdn)
-3. 💪 Opened PR [#1](https://github.com/adgan11/ProgrammingCourseFinderApp/pull/1) in [adgan11/ProgrammingCourseFinderApp](https://github.com/adgan11/ProgrammingCourseFinderApp)
-4. 🗣 Commented on [#213](https://github.com/Jarred-Sumner/bun/issues/213) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
-5. 🗣 Commented on [#282](https://github.com/Jarred-Sumner/bun/issues/282) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
+1. 🗣 Commented on [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
+2. ❗️ Opened issue [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
+3. ❗️ Opened issue [#305](https://github.com/skypackjs/skypack-cdn/issues/305) in [skypackjs/skypack-cdn](https://github.com/skypackjs/skypack-cdn)
+4. 💪 Opened PR [#1](https://github.com/adgan11/ProgrammingCourseFinderApp/pull/1) in [adgan11/ProgrammingCourseFinderApp](https://github.com/adgan11/ProgrammingCourseFinderApp)
+5. 🗣 Commented on [#213](https://github.com/Jarred-Sumner/bun/issues/213) in [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
