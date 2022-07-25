@@ -82,11 +82,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#170](https://github.com/creativetimofficial/material-tailwind/pull/170) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
-2. 🗣 Commented on [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
+1. 🗣 Commented on [#170](https://github.com/creativetimofficial/material-tailwind/issues/170) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
+2. 💪 Opened PR [#170](https://github.com/creativetimofficial/material-tailwind/pull/170) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
 3. 🗣 Commented on [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
-4. ❗️ Opened issue [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
-5. ❗️ Opened issue [#305](https://github.com/skypackjs/skypack-cdn/issues/305) in [skypackjs/skypack-cdn](https://github.com/skypackjs/skypack-cdn)
+4. 🗣 Commented on [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
+5. ❗️ Opened issue [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
