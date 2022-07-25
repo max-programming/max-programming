@@ -83,10 +83,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#170](https://github.com/creativetimofficial/material-tailwind/issues/170) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
-2. 💪 Opened PR [#170](https://github.com/creativetimofficial/material-tailwind/pull/170) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
-3. 🗣 Commented on [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
+2. 🗣 Commented on [#170](https://github.com/creativetimofficial/material-tailwind/issues/170) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
+3. 💪 Opened PR [#170](https://github.com/creativetimofficial/material-tailwind/pull/170) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
 4. 🗣 Commented on [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
-5. ❗️ Opened issue [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
+5. 🗣 Commented on [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
