@@ -82,10 +82,10 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#170](https://github.com/creativetimofficial/material-tailwind/issues/170) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
+1. 💪 Opened PR [#6](https://github.com/clubgamma/pythakon/pull/6) in [clubgamma/pythakon](https://github.com/clubgamma/pythakon)
 2. 🗣 Commented on [#170](https://github.com/creativetimofficial/material-tailwind/issues/170) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
-3. 💪 Opened PR [#170](https://github.com/creativetimofficial/material-tailwind/pull/170) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
-4. 🗣 Commented on [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
+3. 🗣 Commented on [#170](https://github.com/creativetimofficial/material-tailwind/issues/170) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
+4. 💪 Opened PR [#170](https://github.com/creativetimofficial/material-tailwind/pull/170) in [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind)
 5. 🗣 Commented on [#1](https://github.com/AnishDe12020/orbi/issues/1) in [AnishDe12020/orbi](https://github.com/AnishDe12020/orbi)
 <!--END_SECTION:activity-->
 
