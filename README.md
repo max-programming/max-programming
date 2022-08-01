@@ -82,11 +82,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#453](https://github.com/RobertCraigie/prisma-client-py/issues/453) in [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py)
-2. 🗣 Commented on [#10917](https://github.com/prisma/prisma/issues/10917) in [prisma/prisma](https://github.com/prisma/prisma)
-3. ❗️ Opened issue [#68](https://github.com/vinceliuice/Colloid-gtk-theme/issues/68) in [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme)
+1. 🗣 Commented on [#413](https://github.com/RobertCraigie/prisma-client-py/issues/413) in [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py)
+2. 💪 Opened PR [#9455](https://github.com/darkreader/darkreader/pull/9455) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+3. ❗️ Opened issue [#453](https://github.com/RobertCraigie/prisma-client-py/issues/453) in [RobertCraigie/prisma-client-py](https://github.com/RobertCraigie/prisma-client-py)
 4. 🗣 Commented on [#10917](https://github.com/prisma/prisma/issues/10917) in [prisma/prisma](https://github.com/prisma/prisma)
-5. 💪 Opened PR [#6](https://github.com/clubgamma/pythakon/pull/6) in [clubgamma/pythakon](https://github.com/clubgamma/pythakon)
+5. ❗️ Opened issue [#68](https://github.com/vinceliuice/Colloid-gtk-theme/issues/68) in [vinceliuice/Colloid-gtk-theme](https://github.com/vinceliuice/Colloid-gtk-theme)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
