@@ -82,11 +82,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/jamesqquick/jamesqquick-site/pull/57) in [jamesqquick/jamesqquick-site](https://github.com/jamesqquick/jamesqquick-site)
-2. 💪 Opened PR [#118](https://github.com/mattjegan/awesome-hacktoberfest/pull/118) in [mattjegan/awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest)
-3. 💪 Opened PR [#9678](https://github.com/darkreader/darkreader/pull/9678) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
-4. 💪 Opened PR [#6](https://github.com/astro-community/astro-auth/pull/6) in [astro-community/astro-auth](https://github.com/astro-community/astro-auth)
-5. 🗣 Commented on [#439](https://github.com/TelegramMessenger/Telegram-iOS/issues/439) in [TelegramMessenger/Telegram-iOS](https://github.com/TelegramMessenger/Telegram-iOS)
+1. 💪 Opened PR [#1](https://github.com/AlexAdvent/PlayWithCode/pull/1) in [AlexAdvent/PlayWithCode](https://github.com/AlexAdvent/PlayWithCode)
+2. 💪 Opened PR [#57](https://github.com/jamesqquick/jamesqquick-site/pull/57) in [jamesqquick/jamesqquick-site](https://github.com/jamesqquick/jamesqquick-site)
+3. 💪 Opened PR [#118](https://github.com/mattjegan/awesome-hacktoberfest/pull/118) in [mattjegan/awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest)
+4. 💪 Opened PR [#9678](https://github.com/darkreader/darkreader/pull/9678) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+5. 💪 Opened PR [#6](https://github.com/astro-community/astro-auth/pull/6) in [astro-community/astro-auth](https://github.com/astro-community/astro-auth)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
