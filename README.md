@@ -82,11 +82,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12073](https://github.com/prisma/prisma/issues/12073) in [prisma/prisma](https://github.com/prisma/prisma)
-2. 💪 Opened PR [#1](https://github.com/AlexAdvent/PlayWithCode/pull/1) in [AlexAdvent/PlayWithCode](https://github.com/AlexAdvent/PlayWithCode)
-3. 💪 Opened PR [#57](https://github.com/jamesqquick/jamesqquick-site/pull/57) in [jamesqquick/jamesqquick-site](https://github.com/jamesqquick/jamesqquick-site)
-4. 💪 Opened PR [#118](https://github.com/mattjegan/awesome-hacktoberfest/pull/118) in [mattjegan/awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest)
-5. 💪 Opened PR [#9678](https://github.com/darkreader/darkreader/pull/9678) in [darkreader/darkreader](https://github.com/darkreader/darkreader)
+1. 💪 Opened PR [#18](https://github.com/codyseibert/online-classroom/pull/18) in [codyseibert/online-classroom](https://github.com/codyseibert/online-classroom)
+2. 🗣 Commented on [#12073](https://github.com/prisma/prisma/issues/12073) in [prisma/prisma](https://github.com/prisma/prisma)
+3. 💪 Opened PR [#1](https://github.com/AlexAdvent/PlayWithCode/pull/1) in [AlexAdvent/PlayWithCode](https://github.com/AlexAdvent/PlayWithCode)
+4. 💪 Opened PR [#57](https://github.com/jamesqquick/jamesqquick-site/pull/57) in [jamesqquick/jamesqquick-site](https://github.com/jamesqquick/jamesqquick-site)
+5. 💪 Opened PR [#118](https://github.com/mattjegan/awesome-hacktoberfest/pull/118) in [mattjegan/awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
