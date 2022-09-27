@@ -79,6 +79,10 @@
 <br />
 <br />
 
+
+## MY HOLOPIN BOARD
+[![@maxprogramming's Holopin board](https://holopin.io/api/user/board?user=maxprogramming)](https://holopin.io/@maxprogramming)
+
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
