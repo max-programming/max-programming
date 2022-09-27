@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Tejash429/Calculator/pull/1) in [Tejash429/Calculator](https://github.com/Tejash429/Calculator)
-2. 💪 Opened PR [#18](https://github.com/codyseibert/online-classroom/pull/18) in [codyseibert/online-classroom](https://github.com/codyseibert/online-classroom)
-3. 🗣 Commented on [#12073](https://github.com/prisma/prisma/issues/12073) in [prisma/prisma](https://github.com/prisma/prisma)
-4. 💪 Opened PR [#1](https://github.com/AlexAdvent/PlayWithCode/pull/1) in [AlexAdvent/PlayWithCode](https://github.com/AlexAdvent/PlayWithCode)
-5. 💪 Opened PR [#57](https://github.com/jamesqquick/jamesqquick-site/pull/57) in [jamesqquick/jamesqquick-site](https://github.com/jamesqquick/jamesqquick-site)
+1. 💪 Opened PR [#2](https://github.com/Tejash429/Calculator/pull/2) in [Tejash429/Calculator](https://github.com/Tejash429/Calculator)
+2. ❌ Closed PR [#1](https://github.com/Tejash429/Calculator/pull/1) in [Tejash429/Calculator](https://github.com/Tejash429/Calculator)
+3. 💪 Opened PR [#1](https://github.com/Tejash429/Calculator/pull/1) in [Tejash429/Calculator](https://github.com/Tejash429/Calculator)
+4. 💪 Opened PR [#18](https://github.com/codyseibert/online-classroom/pull/18) in [codyseibert/online-classroom](https://github.com/codyseibert/online-classroom)
+5. 🗣 Commented on [#12073](https://github.com/prisma/prisma/issues/12073) in [prisma/prisma](https://github.com/prisma/prisma)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
