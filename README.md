@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Tejash429/Calculator/pull/2) in [Tejash429/Calculator](https://github.com/Tejash429/Calculator)
-2. ❌ Closed PR [#1](https://github.com/Tejash429/Calculator/pull/1) in [Tejash429/Calculator](https://github.com/Tejash429/Calculator)
-3. 💪 Opened PR [#1](https://github.com/Tejash429/Calculator/pull/1) in [Tejash429/Calculator](https://github.com/Tejash429/Calculator)
-4. 💪 Opened PR [#18](https://github.com/codyseibert/online-classroom/pull/18) in [codyseibert/online-classroom](https://github.com/codyseibert/online-classroom)
-5. 🗣 Commented on [#12073](https://github.com/prisma/prisma/issues/12073) in [prisma/prisma](https://github.com/prisma/prisma)
+1. 🎉 Merged PR [#59](https://github.com/max-programming/hacktoberfest-projects/pull/59) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#57](https://github.com/max-programming/hacktoberfest-projects/issues/57) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🎉 Merged PR [#57](https://github.com/max-programming/hacktoberfest-projects/pull/57) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#57](https://github.com/max-programming/hacktoberfest-projects/issues/57) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 💪 Opened PR [#2](https://github.com/Tejash429/Calculator/pull/2) in [Tejash429/Calculator](https://github.com/Tejash429/Calculator)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
