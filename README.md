@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28](https://github.com/andreassjoberg/really-simple-randomizer/issues/28) in [andreassjoberg/really-simple-randomizer](https://github.com/andreassjoberg/really-simple-randomizer)
-2. 💪 Opened PR [#28](https://github.com/andreassjoberg/really-simple-randomizer/pull/28) in [andreassjoberg/really-simple-randomizer](https://github.com/andreassjoberg/really-simple-randomizer)
-3. ❗️ Opened issue [#27](https://github.com/andreassjoberg/really-simple-randomizer/issues/27) in [andreassjoberg/really-simple-randomizer](https://github.com/andreassjoberg/really-simple-randomizer)
-4. 🎉 Merged PR [#59](https://github.com/max-programming/hacktoberfest-projects/pull/59) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#57](https://github.com/max-programming/hacktoberfest-projects/issues/57) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. ❗️ Opened issue [#578](https://github.com/reactplay/react-play/issues/578) in [reactplay/react-play](https://github.com/reactplay/react-play)
+2. 🗣 Commented on [#28](https://github.com/andreassjoberg/really-simple-randomizer/issues/28) in [andreassjoberg/really-simple-randomizer](https://github.com/andreassjoberg/really-simple-randomizer)
+3. 💪 Opened PR [#28](https://github.com/andreassjoberg/really-simple-randomizer/pull/28) in [andreassjoberg/really-simple-randomizer](https://github.com/andreassjoberg/really-simple-randomizer)
+4. ❗️ Opened issue [#27](https://github.com/andreassjoberg/really-simple-randomizer/issues/27) in [andreassjoberg/really-simple-randomizer](https://github.com/andreassjoberg/really-simple-randomizer)
+5. 🎉 Merged PR [#59](https://github.com/max-programming/hacktoberfest-projects/pull/59) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
