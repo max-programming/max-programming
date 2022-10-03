@@ -96,7 +96,9 @@
 ## ▶ My Latest YouTube Videos
 <table>
   <tbody>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=_cettsM08XE"><img width="140px" src="https://i.ytimg.com/vi/_cettsM08XE/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=0mgiYgmbxMU"><img width="140px" src="https://i.ytimg.com/vi/0mgiYgmbxMU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0mgiYgmbxMU">How to detect if Caps Lock is on with JavaScript? #shorts</a><br/>Oct 3, 2022</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=_cettsM08XE"><img width="140px" src="https://i.ytimg.com/vi/_cettsM08XE/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_cettsM08XE">How to set up your own website analytics with Umami? | Open Source | Self Hosted</a><br/>Apr 25, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=dl40SEySJ1s"><img width="140px" src="https://i.ytimg.com/vi/dl40SEySJ1s/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dl40SEySJ1s">How to make a cool button hover and click effect in CSS in less than a minute! #Shorts</a><br/>Apr 20, 2022</td></tr>
@@ -104,8 +106,6 @@
 <td><a href="https://www.youtube.com/watch?v=cM0pA50R20M">How to use Mongoose with Next.js for MongoDB | Explained with simple project</a><br/>Apr 17, 2022</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=QQWgN0_gUxI"><img width="140px" src="https://i.ytimg.com/vi/QQWgN0_gUxI/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QQWgN0_gUxI">Sort imports using Prettier in a JavaScript Project inside VS Code!</a><br/>Mar 21, 2022</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=JjhnwFBdgNc"><img width="140px" src="https://i.ytimg.com/vi/JjhnwFBdgNc/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=JjhnwFBdgNc">How to convert a normal React form to use React Hook Form</a><br/>Nov 13, 2021</td></tr>
 <!-- YOUTUBE:END -->
   </tbody>
  <table>
