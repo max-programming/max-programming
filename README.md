@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#118](https://github.com/mattjegan/awesome-hacktoberfest/issues/118) in [mattjegan/awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest)
-2. 🗣 Commented on [#56](https://github.com/steven-tey/dub/issues/56) in [steven-tey/dub](https://github.com/steven-tey/dub)
-3. 🗣 Commented on [#15](https://github.com/andreassjoberg/really-simple-randomizer/issues/15) in [andreassjoberg/really-simple-randomizer](https://github.com/andreassjoberg/really-simple-randomizer)
-4. ❗️ Opened issue [#56](https://github.com/steven-tey/dub/issues/56) in [steven-tey/dub](https://github.com/steven-tey/dub)
-5. 💪 Opened PR [#55](https://github.com/steven-tey/dub/pull/55) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. 🗣 Commented on [#61](https://github.com/max-programming/hacktoberfest-projects/issues/61) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#118](https://github.com/mattjegan/awesome-hacktoberfest/issues/118) in [mattjegan/awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest)
+3. 🗣 Commented on [#56](https://github.com/steven-tey/dub/issues/56) in [steven-tey/dub](https://github.com/steven-tey/dub)
+4. 🗣 Commented on [#15](https://github.com/andreassjoberg/really-simple-randomizer/issues/15) in [andreassjoberg/really-simple-randomizer](https://github.com/andreassjoberg/really-simple-randomizer)
+5. ❗️ Opened issue [#56](https://github.com/steven-tey/dub/issues/56) in [steven-tey/dub](https://github.com/steven-tey/dub)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
