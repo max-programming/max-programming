@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#61](https://github.com/max-programming/hacktoberfest-projects/issues/61) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#118](https://github.com/mattjegan/awesome-hacktoberfest/issues/118) in [mattjegan/awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest)
-3. 🗣 Commented on [#56](https://github.com/steven-tey/dub/issues/56) in [steven-tey/dub](https://github.com/steven-tey/dub)
-4. 🗣 Commented on [#15](https://github.com/andreassjoberg/really-simple-randomizer/issues/15) in [andreassjoberg/really-simple-randomizer](https://github.com/andreassjoberg/really-simple-randomizer)
-5. ❗️ Opened issue [#56](https://github.com/steven-tey/dub/issues/56) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. 🎉 Merged PR [#62](https://github.com/max-programming/hacktoberfest-projects/pull/62) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#61](https://github.com/max-programming/hacktoberfest-projects/issues/61) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🎉 Merged PR [#61](https://github.com/max-programming/hacktoberfest-projects/pull/61) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#61](https://github.com/max-programming/hacktoberfest-projects/issues/61) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#118](https://github.com/mattjegan/awesome-hacktoberfest/issues/118) in [mattjegan/awesome-hacktoberfest](https://github.com/mattjegan/awesome-hacktoberfest)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
