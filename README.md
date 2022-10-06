@@ -86,10 +86,10 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/max-programming/hacktoberfest-projects/issues/60) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#64](https://github.com/max-programming/hacktoberfest-projects/issues/64) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#57](https://github.com/jamesqquick/jamesqquick-site/issues/57) in [jamesqquick/jamesqquick-site](https://github.com/jamesqquick/jamesqquick-site)
-4. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. ❗️ Opened issue [#67](https://github.com/max-programming/hacktoberfest-projects/issues/67) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#60](https://github.com/max-programming/hacktoberfest-projects/issues/60) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#64](https://github.com/max-programming/hacktoberfest-projects/issues/64) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#57](https://github.com/jamesqquick/jamesqquick-site/issues/57) in [jamesqquick/jamesqquick-site](https://github.com/jamesqquick/jamesqquick-site)
 5. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
 <!--END_SECTION:activity-->
 
