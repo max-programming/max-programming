@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5515](https://github.com/nextauthjs/next-auth/pull/5515) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. ❗️ Opened issue [#67](https://github.com/max-programming/hacktoberfest-projects/issues/67) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#60](https://github.com/max-programming/hacktoberfest-projects/issues/60) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#64](https://github.com/max-programming/hacktoberfest-projects/issues/64) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#57](https://github.com/jamesqquick/jamesqquick-site/issues/57) in [jamesqquick/jamesqquick-site](https://github.com/jamesqquick/jamesqquick-site)
+1. 🗣 Commented on [#5515](https://github.com/nextauthjs/next-auth/issues/5515) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+2. 💪 Opened PR [#5515](https://github.com/nextauthjs/next-auth/pull/5515) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. ❗️ Opened issue [#67](https://github.com/max-programming/hacktoberfest-projects/issues/67) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#60](https://github.com/max-programming/hacktoberfest-projects/issues/60) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#64](https://github.com/max-programming/hacktoberfest-projects/issues/64) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
