@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5515](https://github.com/nextauthjs/next-auth/issues/5515) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-2. 🗣 Commented on [#68](https://github.com/max-programming/hacktoberfest-projects/issues/68) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. 🗣 Commented on [#98](https://github.com/codicocodes/speedtyper.dev/issues/98) in [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)
+2. 🗣 Commented on [#5515](https://github.com/nextauthjs/next-auth/issues/5515) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+3. 🗣 Commented on [#68](https://github.com/max-programming/hacktoberfest-projects/issues/68) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 4. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
-5. 🗣 Commented on [#68](https://github.com/max-programming/hacktoberfest-projects/issues/68) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
