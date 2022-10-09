@@ -87,9 +87,9 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
-2. 🗣 Commented on [#68](https://github.com/max-programming/hacktoberfest-projects/issues/68) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
 3. 🗣 Commented on [#68](https://github.com/max-programming/hacktoberfest-projects/issues/68) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#98](https://github.com/codicocodes/speedtyper.dev/issues/98) in [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)
+4. 🗣 Commented on [#68](https://github.com/max-programming/hacktoberfest-projects/issues/68) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 5. 🗣 Commented on [#98](https://github.com/codicocodes/speedtyper.dev/issues/98) in [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)
 <!--END_SECTION:activity-->
 
