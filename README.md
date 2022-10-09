@@ -87,10 +87,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
-2. 🗣 Commented on [#5515](https://github.com/nextauthjs/next-auth/issues/5515) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 💪 Opened PR [#5515](https://github.com/nextauthjs/next-auth/pull/5515) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-4. ❗️ Opened issue [#67](https://github.com/max-programming/hacktoberfest-projects/issues/67) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#60](https://github.com/max-programming/hacktoberfest-projects/issues/60) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
+3. 🗣 Commented on [#5515](https://github.com/nextauthjs/next-auth/issues/5515) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 💪 Opened PR [#5515](https://github.com/nextauthjs/next-auth/pull/5515) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+5. ❗️ Opened issue [#67](https://github.com/max-programming/hacktoberfest-projects/issues/67) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
