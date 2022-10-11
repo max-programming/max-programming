@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#70](https://github.com/max-programming/hacktoberfest-projects/issues/70) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
-3. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
-4. 🗣 Commented on [#98](https://github.com/codicocodes/speedtyper.dev/issues/98) in [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)
-5. 🗣 Commented on [#5515](https://github.com/nextauthjs/next-auth/issues/5515) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+1. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
+2. ❌ Closed PR [#62](https://github.com/steven-tey/dub/pull/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
+3. 💪 Opened PR [#76](https://github.com/steven-tey/dub/pull/76) in [steven-tey/dub](https://github.com/steven-tey/dub)
+4. ❗️ Opened issue [#71](https://github.com/max-programming/hacktoberfest-projects/issues/71) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. ❗️ Opened issue [#70](https://github.com/max-programming/hacktoberfest-projects/issues/70) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
