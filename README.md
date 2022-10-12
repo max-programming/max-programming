@@ -86,10 +86,10 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/max-programming/hacktoberfest-projects/pull/73) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#72](https://github.com/max-programming/hacktoberfest-projects/issues/72) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. ❗️ Closed issue [#71](https://github.com/max-programming/hacktoberfest-projects/issues/71) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🎉 Merged PR [#72](https://github.com/max-programming/hacktoberfest-projects/pull/72) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#74](https://github.com/max-programming/hacktoberfest-projects/issues/74) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#74](https://github.com/max-programming/hacktoberfest-projects/issues/74) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. ❗️ Opened issue [#74](https://github.com/max-programming/hacktoberfest-projects/issues/74) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🎉 Merged PR [#73](https://github.com/max-programming/hacktoberfest-projects/pull/73) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 5. 🗣 Commented on [#72](https://github.com/max-programming/hacktoberfest-projects/issues/72) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
