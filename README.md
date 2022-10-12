@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#105](https://github.com/codicocodes/speedtyper.dev/pull/105) in [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)
-2. 🗣 Commented on [#98](https://github.com/codicocodes/speedtyper.dev/issues/98) in [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)
-3. 🗣 Commented on [#70](https://github.com/max-programming/hacktoberfest-projects/issues/70) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. ❗️ Closed issue [#70](https://github.com/max-programming/hacktoberfest-projects/issues/70) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#62](https://github.com/steven-tey/dub/issues/62) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. 🗣 Commented on [#76](https://github.com/steven-tey/dub/issues/76) in [steven-tey/dub](https://github.com/steven-tey/dub)
+2. 🗣 Commented on [#72](https://github.com/max-programming/hacktoberfest-projects/issues/72) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 💪 Opened PR [#105](https://github.com/codicocodes/speedtyper.dev/pull/105) in [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)
+4. 🗣 Commented on [#98](https://github.com/codicocodes/speedtyper.dev/issues/98) in [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)
+5. 🗣 Commented on [#70](https://github.com/max-programming/hacktoberfest-projects/issues/70) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
