@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/max-programming/hacktoberfest-projects/issues/68) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#76](https://github.com/steven-tey/dub/issues/76) in [steven-tey/dub](https://github.com/steven-tey/dub)
-3. 🎉 Merged PR [#76](https://github.com/max-programming/hacktoberfest-projects/pull/76) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#75](https://github.com/max-programming/hacktoberfest-projects/issues/75) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🎉 Merged PR [#75](https://github.com/max-programming/hacktoberfest-projects/pull/75) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#105](https://github.com/codicocodes/speedtyper.dev/issues/105) in [codicocodes/speedtyper.dev](https://github.com/codicocodes/speedtyper.dev)
+2. 🗣 Commented on [#68](https://github.com/max-programming/hacktoberfest-projects/issues/68) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#76](https://github.com/steven-tey/dub/issues/76) in [steven-tey/dub](https://github.com/steven-tey/dub)
+4. 🎉 Merged PR [#76](https://github.com/max-programming/hacktoberfest-projects/pull/76) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#75](https://github.com/max-programming/hacktoberfest-projects/issues/75) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
