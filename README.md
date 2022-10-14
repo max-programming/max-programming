@@ -82,11 +82,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/max-programming/hacktoberfest-projects/issues/79) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. ❗️ Opened issue [#79](https://github.com/max-programming/hacktoberfest-projects/issues/79) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 💪 Opened PR [#86](https://github.com/umami-software/website/pull/86) in [umami-software/website](https://github.com/umami-software/website)
-4. 💪 Opened PR [#5573](https://github.com/nextauthjs/next-auth/pull/5573) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. 🎉 Merged PR [#78](https://github.com/max-programming/hacktoberfest-projects/pull/78) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. ❗️ Opened issue [#61](https://github.com/anuraghazra/anuraghazra.github.io/issues/61) in [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io)
+2. 🗣 Commented on [#79](https://github.com/max-programming/hacktoberfest-projects/issues/79) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. ❗️ Opened issue [#79](https://github.com/max-programming/hacktoberfest-projects/issues/79) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 💪 Opened PR [#86](https://github.com/umami-software/website/pull/86) in [umami-software/website](https://github.com/umami-software/website)
+5. 💪 Opened PR [#5573](https://github.com/nextauthjs/next-auth/pull/5573) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
