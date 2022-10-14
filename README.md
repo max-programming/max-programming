@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#86](https://github.com/umami-software/website/pull/86) in [umami-software/website](https://github.com/umami-software/website)
-2. 💪 Opened PR [#5573](https://github.com/nextauthjs/next-auth/pull/5573) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-3. 🎉 Merged PR [#78](https://github.com/max-programming/hacktoberfest-projects/pull/78) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#77](https://github.com/max-programming/hacktoberfest-projects/issues/77) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. ❗️ Closed issue [#77](https://github.com/max-programming/hacktoberfest-projects/issues/77) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. ❗️ Opened issue [#79](https://github.com/max-programming/hacktoberfest-projects/issues/79) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 💪 Opened PR [#86](https://github.com/umami-software/website/pull/86) in [umami-software/website](https://github.com/umami-software/website)
+3. 💪 Opened PR [#5573](https://github.com/nextauthjs/next-auth/pull/5573) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
+4. 🎉 Merged PR [#78](https://github.com/max-programming/hacktoberfest-projects/pull/78) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#77](https://github.com/max-programming/hacktoberfest-projects/issues/77) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
