@@ -84,9 +84,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#68](https://github.com/max-programming/hacktoberfest-projects/issues/68) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 2. 🗣 Commented on [#68](https://github.com/max-programming/hacktoberfest-projects/issues/68) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. ❗️ Opened issue [#61](https://github.com/anuraghazra/anuraghazra.github.io/issues/61) in [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io)
-4. 🗣 Commented on [#79](https://github.com/max-programming/hacktoberfest-projects/issues/79) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. ❗️ Opened issue [#79](https://github.com/max-programming/hacktoberfest-projects/issues/79) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#68](https://github.com/max-programming/hacktoberfest-projects/issues/68) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. ❗️ Opened issue [#61](https://github.com/anuraghazra/anuraghazra.github.io/issues/61) in [anuraghazra/anuraghazra.github.io](https://github.com/anuraghazra/anuraghazra.github.io)
+5. 🗣 Commented on [#79](https://github.com/max-programming/hacktoberfest-projects/issues/79) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
