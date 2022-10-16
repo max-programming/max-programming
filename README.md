@@ -82,11 +82,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81](https://github.com/max-programming/hacktoberfest-projects/issues/81) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🎉 Merged PR [#81](https://github.com/max-programming/hacktoberfest-projects/pull/81) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. ❗️ Closed issue [#64](https://github.com/max-programming/hacktoberfest-projects/issues/64) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🎉 Merged PR [#80](https://github.com/max-programming/hacktoberfest-projects/pull/80) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#68](https://github.com/max-programming/hacktoberfest-projects/issues/68) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#74](https://github.com/max-programming/hacktoberfest-projects/issues/74) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#83](https://github.com/max-programming/hacktoberfest-projects/issues/83) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#81](https://github.com/max-programming/hacktoberfest-projects/issues/81) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🎉 Merged PR [#81](https://github.com/max-programming/hacktoberfest-projects/pull/81) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. ❗️ Closed issue [#64](https://github.com/max-programming/hacktoberfest-projects/issues/64) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
