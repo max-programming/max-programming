@@ -82,10 +82,10 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#99](https://github.com/dailydotdev/memetoberfest/pull/99) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-2. 🗣 Commented on [#85](https://github.com/max-programming/hacktoberfest-projects/issues/85) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#86](https://github.com/umami-software/website/issues/86) in [umami-software/website](https://github.com/umami-software/website)
-4. 🗣 Commented on [#84](https://github.com/max-programming/hacktoberfest-projects/issues/84) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#85](https://github.com/max-programming/hacktoberfest-projects/issues/85) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 💪 Opened PR [#99](https://github.com/dailydotdev/memetoberfest/pull/99) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+3. 🗣 Commented on [#85](https://github.com/max-programming/hacktoberfest-projects/issues/85) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#86](https://github.com/umami-software/website/issues/86) in [umami-software/website](https://github.com/umami-software/website)
 5. 🗣 Commented on [#84](https://github.com/max-programming/hacktoberfest-projects/issues/84) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
