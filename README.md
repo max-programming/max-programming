@@ -82,11 +82,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/max-programming/hacktoberfest-projects/pull/85) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#72](https://github.com/dailydotdev/memetoberfest/issues/72) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-3. 🗣 Commented on [#85](https://github.com/max-programming/hacktoberfest-projects/issues/85) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 💪 Opened PR [#99](https://github.com/dailydotdev/memetoberfest/pull/99) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-5. 🗣 Commented on [#85](https://github.com/max-programming/hacktoberfest-projects/issues/85) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. ❗️ Opened issue [#2](https://github.com/max-programming/usman-s.me/issues/2) in [max-programming/usman-s.me](https://github.com/max-programming/usman-s.me)
+2. 🎉 Merged PR [#85](https://github.com/max-programming/hacktoberfest-projects/pull/85) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#72](https://github.com/dailydotdev/memetoberfest/issues/72) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+4. 🗣 Commented on [#85](https://github.com/max-programming/hacktoberfest-projects/issues/85) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 💪 Opened PR [#99](https://github.com/dailydotdev/memetoberfest/pull/99) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
