@@ -22,6 +22,10 @@
 
 - ⚡ Fun fact **I like tea. And some fast food! 😉**
 
+## My Badge Board
+
+[![@maxprogramming's Holopin board](https://holopin.me/maxprogramming)](https://holopin.io/@maxprogramming)
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
