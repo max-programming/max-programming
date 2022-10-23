@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/nachoaldamav/ultra/issues/126) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+1. 💪 Opened PR [#83](https://github.com/steven-tey/dub/pull/83) in [steven-tey/dub](https://github.com/steven-tey/dub)
 2. 🗣 Commented on [#126](https://github.com/nachoaldamav/ultra/issues/126) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
 3. 🗣 Commented on [#126](https://github.com/nachoaldamav/ultra/issues/126) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
-4. ❗️ Opened issue [#126](https://github.com/nachoaldamav/ultra/issues/126) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
-5. ❌ Closed PR [#84](https://github.com/max-programming/hacktoberfest-projects/pull/84) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#126](https://github.com/nachoaldamav/ultra/issues/126) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+5. ❗️ Opened issue [#126](https://github.com/nachoaldamav/ultra/issues/126) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
