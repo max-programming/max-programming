@@ -86,10 +86,10 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#83](https://github.com/steven-tey/dub/issues/83) in [steven-tey/dub](https://github.com/steven-tey/dub)
-2. 💪 Opened PR [#83](https://github.com/steven-tey/dub/pull/83) in [steven-tey/dub](https://github.com/steven-tey/dub)
-3. 🗣 Commented on [#126](https://github.com/nachoaldamav/ultra/issues/126) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
-4. 🗣 Commented on [#126](https://github.com/nachoaldamav/ultra/issues/126) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+1. 🗣 Commented on [#84](https://github.com/steven-tey/dub/issues/84) in [steven-tey/dub](https://github.com/steven-tey/dub)
+2. ❗️ Opened issue [#84](https://github.com/steven-tey/dub/issues/84) in [steven-tey/dub](https://github.com/steven-tey/dub)
+3. 🗣 Commented on [#83](https://github.com/steven-tey/dub/issues/83) in [steven-tey/dub](https://github.com/steven-tey/dub)
+4. 💪 Opened PR [#83](https://github.com/steven-tey/dub/pull/83) in [steven-tey/dub](https://github.com/steven-tey/dub)
 5. 🗣 Commented on [#126](https://github.com/nachoaldamav/ultra/issues/126) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
 <!--END_SECTION:activity-->
 
