@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#3](https://github.com/max-programming/usman-s.me/issues/3) in [max-programming/usman-s.me](https://github.com/max-programming/usman-s.me)
-2. 🎉 Merged PR [#4](https://github.com/max-programming/usman-s.me/pull/4) in [max-programming/usman-s.me](https://github.com/max-programming/usman-s.me)
-3. 🗣 Commented on [#3](https://github.com/max-programming/usman-s.me/issues/3) in [max-programming/usman-s.me](https://github.com/max-programming/usman-s.me)
-4. 🎉 Merged PR [#95](https://github.com/max-programming/hacktoberfest-projects/pull/95) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#93](https://github.com/max-programming/hacktoberfest-projects/issues/93) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. ❌ Closed PR [#84](https://github.com/max-programming/hacktoberfest-projects/pull/84) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. ❗️ Closed issue [#3](https://github.com/max-programming/usman-s.me/issues/3) in [max-programming/usman-s.me](https://github.com/max-programming/usman-s.me)
+3. 🎉 Merged PR [#4](https://github.com/max-programming/usman-s.me/pull/4) in [max-programming/usman-s.me](https://github.com/max-programming/usman-s.me)
+4. 🗣 Commented on [#3](https://github.com/max-programming/usman-s.me/issues/3) in [max-programming/usman-s.me](https://github.com/max-programming/usman-s.me)
+5. 🎉 Merged PR [#95](https://github.com/max-programming/hacktoberfest-projects/pull/95) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
