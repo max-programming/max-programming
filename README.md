@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#88](https://github.com/steven-tey/dub/pull/88) in [steven-tey/dub](https://github.com/steven-tey/dub)
-2. ❌ Closed PR [#99](https://github.com/dailydotdev/memetoberfest/pull/99) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
-3. 🗣 Commented on [#136](https://github.com/nachoaldamav/ultra/issues/136) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
-4. 💪 Opened PR [#139](https://github.com/nachoaldamav/ultra/pull/139) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
-5. 🗣 Commented on [#136](https://github.com/nachoaldamav/ultra/issues/136) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+1. 🗣 Commented on [#2786](https://github.com/mantinedev/mantine/issues/2786) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
+2. 💪 Opened PR [#88](https://github.com/steven-tey/dub/pull/88) in [steven-tey/dub](https://github.com/steven-tey/dub)
+3. ❌ Closed PR [#99](https://github.com/dailydotdev/memetoberfest/pull/99) in [dailydotdev/memetoberfest](https://github.com/dailydotdev/memetoberfest)
+4. 🗣 Commented on [#136](https://github.com/nachoaldamav/ultra/issues/136) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+5. 💪 Opened PR [#139](https://github.com/nachoaldamav/ultra/pull/139) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
