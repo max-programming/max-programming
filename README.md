@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#141](https://github.com/nachoaldamav/ultra/issues/141) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
-2. ❗️ Opened issue [#141](https://github.com/nachoaldamav/ultra/issues/141) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
-3. 🗣 Commented on [#94](https://github.com/max-programming/hacktoberfest-projects/issues/94) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#2786](https://github.com/mantinedev/mantine/issues/2786) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
-5. 💪 Opened PR [#88](https://github.com/steven-tey/dub/pull/88) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. 🗣 Commented on [#11921](https://github.com/prisma/prisma/issues/11921) in [prisma/prisma](https://github.com/prisma/prisma)
+2. 🗣 Commented on [#141](https://github.com/nachoaldamav/ultra/issues/141) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+3. ❗️ Opened issue [#141](https://github.com/nachoaldamav/ultra/issues/141) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+4. 🗣 Commented on [#94](https://github.com/max-programming/hacktoberfest-projects/issues/94) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#2786](https://github.com/mantinedev/mantine/issues/2786) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
