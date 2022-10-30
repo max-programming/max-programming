@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/pull/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
-2. ❗️ Opened issue [#644](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/644) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
-3. 💪 Opened PR [#305](https://github.com/leonardomso/33-js-concepts/pull/305) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
-4. 🗣 Commented on [#141](https://github.com/nachoaldamav/ultra/issues/141) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
-5. 🎉 Merged PR [#94](https://github.com/max-programming/hacktoberfest-projects/pull/94) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. ❗️ Closed issue [#141](https://github.com/nachoaldamav/ultra/issues/141) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+2. 🗣 Commented on [#141](https://github.com/nachoaldamav/ultra/issues/141) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+3. 💪 Opened PR [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/pull/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+4. ❗️ Opened issue [#644](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/644) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+5. 💪 Opened PR [#305](https://github.com/leonardomso/33-js-concepts/pull/305) in [leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
