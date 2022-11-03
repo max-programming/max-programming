@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Mohammad-Faisal/nextjs-tailwindcss-beautiful-blog-template/pull/1) in [Mohammad-Faisal/nextjs-tailwindcss-beautiful-blog-template](https://github.com/Mohammad-Faisal/nextjs-tailwindcss-beautiful-blog-template)
-2. 🗣 Commented on [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
-3. 💪 Opened PR [#96](https://github.com/steven-tey/dub/pull/96) in [steven-tey/dub](https://github.com/steven-tey/dub)
-4. ❗️ Closed issue [#141](https://github.com/nachoaldamav/ultra/issues/141) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
-5. 🗣 Commented on [#141](https://github.com/nachoaldamav/ultra/issues/141) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+1. 💪 Opened PR [#3956](https://github.com/bitwarden/clients/pull/3956) in [bitwarden/clients](https://github.com/bitwarden/clients)
+2. 💪 Opened PR [#1](https://github.com/Mohammad-Faisal/nextjs-tailwindcss-beautiful-blog-template/pull/1) in [Mohammad-Faisal/nextjs-tailwindcss-beautiful-blog-template](https://github.com/Mohammad-Faisal/nextjs-tailwindcss-beautiful-blog-template)
+3. 🗣 Commented on [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+4. 💪 Opened PR [#96](https://github.com/steven-tey/dub/pull/96) in [steven-tey/dub](https://github.com/steven-tey/dub)
+5. ❗️ Closed issue [#141](https://github.com/nachoaldamav/ultra/issues/141) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
