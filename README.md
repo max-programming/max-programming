@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3956](https://github.com/bitwarden/clients/issues/3956) in [bitwarden/clients](https://github.com/bitwarden/clients)
-2. 💪 Opened PR [#3956](https://github.com/bitwarden/clients/pull/3956) in [bitwarden/clients](https://github.com/bitwarden/clients)
-3. 💪 Opened PR [#1](https://github.com/Mohammad-Faisal/nextjs-tailwindcss-beautiful-blog-template/pull/1) in [Mohammad-Faisal/nextjs-tailwindcss-beautiful-blog-template](https://github.com/Mohammad-Faisal/nextjs-tailwindcss-beautiful-blog-template)
-4. 🗣 Commented on [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
-5. 💪 Opened PR [#96](https://github.com/steven-tey/dub/pull/96) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. 🗣 Commented on [#7955](https://github.com/microsoft/terminal/issues/7955) in [microsoft/terminal](https://github.com/microsoft/terminal)
+2. 🗣 Commented on [#3956](https://github.com/bitwarden/clients/issues/3956) in [bitwarden/clients](https://github.com/bitwarden/clients)
+3. 💪 Opened PR [#3956](https://github.com/bitwarden/clients/pull/3956) in [bitwarden/clients](https://github.com/bitwarden/clients)
+4. 💪 Opened PR [#1](https://github.com/Mohammad-Faisal/nextjs-tailwindcss-beautiful-blog-template/pull/1) in [Mohammad-Faisal/nextjs-tailwindcss-beautiful-blog-template](https://github.com/Mohammad-Faisal/nextjs-tailwindcss-beautiful-blog-template)
+5. 🗣 Commented on [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
