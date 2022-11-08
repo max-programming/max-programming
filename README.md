@@ -87,10 +87,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#96](https://github.com/steven-tey/dub/issues/96) in [steven-tey/dub](https://github.com/steven-tey/dub)
-2. 🗣 Commented on [#103](https://github.com/steven-tey/dub/issues/103) in [steven-tey/dub](https://github.com/steven-tey/dub)
-3. ❗️ Closed issue [#103](https://github.com/steven-tey/dub/issues/103) in [steven-tey/dub](https://github.com/steven-tey/dub)
-4. ❗️ Opened issue [#103](https://github.com/steven-tey/dub/issues/103) in [steven-tey/dub](https://github.com/steven-tey/dub)
-5. 🗣 Commented on [#7955](https://github.com/microsoft/terminal/issues/7955) in [microsoft/terminal](https://github.com/microsoft/terminal)
+2. 🗣 Commented on [#96](https://github.com/steven-tey/dub/issues/96) in [steven-tey/dub](https://github.com/steven-tey/dub)
+3. 🗣 Commented on [#103](https://github.com/steven-tey/dub/issues/103) in [steven-tey/dub](https://github.com/steven-tey/dub)
+4. ❗️ Closed issue [#103](https://github.com/steven-tey/dub/issues/103) in [steven-tey/dub](https://github.com/steven-tey/dub)
+5. ❗️ Opened issue [#103](https://github.com/steven-tey/dub/issues/103) in [steven-tey/dub](https://github.com/steven-tey/dub)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
