@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#114](https://github.com/steven-tey/dub/issues/114) in [steven-tey/dub](https://github.com/steven-tey/dub)
-2. ❗️ Opened issue [#114](https://github.com/steven-tey/dub/issues/114) in [steven-tey/dub](https://github.com/steven-tey/dub)
-3. 🗣 Commented on [#108](https://github.com/steven-tey/dub/issues/108) in [steven-tey/dub](https://github.com/steven-tey/dub)
-4. 🗣 Commented on [#535](https://github.com/PowerShell/vscode-powershell/issues/535) in [PowerShell/vscode-powershell](https://github.com/PowerShell/vscode-powershell)
-5. 🗣 Commented on [#83](https://github.com/steven-tey/dub/issues/83) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. 🗣 Commented on [#9280](https://github.com/puppeteer/puppeteer/issues/9280) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+2. ❗️ Opened issue [#9280](https://github.com/puppeteer/puppeteer/issues/9280) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+3. 🗣 Commented on [#114](https://github.com/steven-tey/dub/issues/114) in [steven-tey/dub](https://github.com/steven-tey/dub)
+4. ❗️ Opened issue [#114](https://github.com/steven-tey/dub/issues/114) in [steven-tey/dub](https://github.com/steven-tey/dub)
+5. 🗣 Commented on [#108](https://github.com/steven-tey/dub/issues/108) in [steven-tey/dub](https://github.com/steven-tey/dub)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
