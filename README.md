@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9280](https://github.com/puppeteer/puppeteer/issues/9280) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-2. 🗣 Commented on [#9280](https://github.com/puppeteer/puppeteer/issues/9280) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-3. ❗️ Opened issue [#9280](https://github.com/puppeteer/puppeteer/issues/9280) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
-4. 🗣 Commented on [#114](https://github.com/steven-tey/dub/issues/114) in [steven-tey/dub](https://github.com/steven-tey/dub)
-5. ❗️ Opened issue [#114](https://github.com/steven-tey/dub/issues/114) in [steven-tey/dub](https://github.com/steven-tey/dub)
+1. 🎉 Merged PR [#46](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/46) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+2. 🎉 Merged PR [#47](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/47) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+3. 🗣 Commented on [#9280](https://github.com/puppeteer/puppeteer/issues/9280) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+4. 🗣 Commented on [#9280](https://github.com/puppeteer/puppeteer/issues/9280) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+5. ❗️ Opened issue [#9280](https://github.com/puppeteer/puppeteer/issues/9280) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
