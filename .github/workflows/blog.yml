@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@main"
         with:
-          BLOG_URL: 'https://blog.usman-s.me'
+          BLOG_URL: 'https://blog.usmans.me'
           USERNAME: 'usmanwrites'
           STYLE: "blog-alternate"
           COUNT: 5
