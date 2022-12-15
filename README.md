@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#149](https://github.com/nachoaldamav/ultra/issues/149) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
-2. ❗️ Opened issue [#116054](https://github.com/flutter/flutter/issues/116054) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 🎉 Merged PR [#46](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/46) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-4. 🎉 Merged PR [#47](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/47) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
-5. 🗣 Commented on [#9280](https://github.com/puppeteer/puppeteer/issues/9280) in [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)
+1. 🗣 Commented on [#4250](https://github.com/supabase/supabase/issues/4250) in [supabase/supabase](https://github.com/supabase/supabase)
+2. ❗️ Opened issue [#149](https://github.com/nachoaldamav/ultra/issues/149) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+3. ❗️ Opened issue [#116054](https://github.com/flutter/flutter/issues/116054) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 🎉 Merged PR [#46](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/46) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
+5. 🎉 Merged PR [#47](https://github.com/arturssmirnovs/github-profile-readme-generator/pull/47) in [arturssmirnovs/github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
