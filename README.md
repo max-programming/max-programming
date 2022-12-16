@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4250](https://github.com/supabase/supabase/issues/4250) in [supabase/supabase](https://github.com/supabase/supabase)
-2. 🗣 Commented on [#421](https://github.com/riccardoperra/codeimage/issues/421) in [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage)
-3. 💪 Opened PR [#421](https://github.com/riccardoperra/codeimage/pull/421) in [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage)
-4. 🗣 Commented on [#4250](https://github.com/supabase/supabase/issues/4250) in [supabase/supabase](https://github.com/supabase/supabase)
-5. ❗️ Opened issue [#149](https://github.com/nachoaldamav/ultra/issues/149) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+1. 🗣 Commented on [#421](https://github.com/riccardoperra/codeimage/issues/421) in [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage)
+2. 🗣 Commented on [#4250](https://github.com/supabase/supabase/issues/4250) in [supabase/supabase](https://github.com/supabase/supabase)
+3. 🗣 Commented on [#421](https://github.com/riccardoperra/codeimage/issues/421) in [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage)
+4. 💪 Opened PR [#421](https://github.com/riccardoperra/codeimage/pull/421) in [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage)
+5. 🗣 Commented on [#4250](https://github.com/supabase/supabase/issues/4250) in [supabase/supabase](https://github.com/supabase/supabase)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
