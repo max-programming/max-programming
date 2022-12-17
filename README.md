@@ -107,7 +107,15 @@
    
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.usmans.me/why-you-should-avoid-the-onclick-attribute-in-your-code" title="🛑 Why You Should Avoid the onclick Attribute in Your Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670764121043/qWsc4ln31.gif" alt="🛑 Why You Should Avoid the onclick Attribute in Your Code" width="250px" align="left" /></a>
+<a href="https://blog.usmans.me/webhooks-101" title="🎣 Webhooks 101 - How I use Discord Webhooks for personal notifications"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671194963625/CNEO1c9HL.png" alt="🎣 Webhooks 101 - How I use Discord Webhooks for personal notifications" width="250px" align="left" /></a>
+<a href="https://blog.usmans.me/webhooks-101" title="🎣 Webhooks 101 - How I use Discord Webhooks for personal notifications"><strong>🎣 Webhooks 101 - How I use Discord Webhooks for personal notifications</strong></a>
+<div><strong>17 Dec 2022</strong></div>
+<br/> Hey all 👋👋
+Webhooks are a powerful tool that allow applications to communicate with each other in real-time. They are often used to send notifications or updates from one system to another without requiring manual intervention.
+
+If you know the bas... </p> <br/> <br/>
+<p align="left">
+<a href="https://blog.usmans.me/why-you-should-avoid-the-onclick-attribute-in-your-code" title="🛑 Why You Should Avoid the onclick Attribute in Your Code"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1670764121043/qWsc4ln31.gif" alt="🛑 Why You Should Avoid the onclick Attribute in Your Code" width="250px" align="right" /></a>
 <a href="https://blog.usmans.me/why-you-should-avoid-the-onclick-attribute-in-your-code" title="🛑 Why You Should Avoid the onclick Attribute in Your Code"><strong>🛑 Why You Should Avoid the onclick Attribute in Your Code</strong></a>
 <div><strong>11 Dec 2022</strong> | <strong>Updated: 11 Dec 2022</strong></div>
 <br/> Hey everyone! It's been a while since I wrote my last article. But here I am with another topic that might be informational to you 🙂.
@@ -116,7 +124,7 @@ This time I am writing about why you should avoid the onclick attribute in your 
 
 This ar... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.usmans.me/memoriez" title="🎉 Presenting Memoriez - A quick & easy journal"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1656647378837/zTE_GI6xd.png" alt="🎉 Presenting Memoriez - A quick & easy journal" width="250px" align="right" /></a>
+<a href="https://blog.usmans.me/memoriez" title="🎉 Presenting Memoriez - A quick & easy journal"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1656647378837/zTE_GI6xd.png" alt="🎉 Presenting Memoriez - A quick & easy journal" width="250px" align="left" /></a>
 <a href="https://blog.usmans.me/memoriez" title="🎉 Presenting Memoriez - A quick & easy journal"><strong>🎉 Presenting Memoriez - A quick & easy journal</strong></a>
 <div><strong>1 July 2022</strong> | <strong>Updated: 3 July 2022</strong></div>
 <br/> ❔ What and Why Memoriez ❔
@@ -124,26 +132,18 @@ This is a very important question because it makes things clear as to why this a
 I built Memoriez because I honestly found it hard to write and maintain journal/diary entries daily.
 It's not easy to maintain a j... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.usmans.me/how-to-use-mongoose-with-nextjs-for-mongodb" title="🗃️ How to use Mongoose with Next.js for MongoDB?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650185052230/2wzY_Fd6f.png" alt="🗃️ How to use Mongoose with Next.js for MongoDB?" width="250px" align="left" /></a>
+<a href="https://blog.usmans.me/how-to-use-mongoose-with-nextjs-for-mongodb" title="🗃️ How to use Mongoose with Next.js for MongoDB?"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1650185052230/2wzY_Fd6f.png" alt="🗃️ How to use Mongoose with Next.js for MongoDB?" width="250px" align="right" /></a>
 <a href="https://blog.usmans.me/how-to-use-mongoose-with-nextjs-for-mongodb" title="🗃️ How to use Mongoose with Next.js for MongoDB?"><strong>🗃️ How to use Mongoose with Next.js for MongoDB?</strong></a>
 <div><strong>17 Apr 2022</strong> | <strong>Updated: 7 June 2022</strong></div>
 <br/> Hey all 👋!
 Next.js is an amazing full-stack framework and MongoDB is a great NoSQL database. Using them together will make an app super fast and awesome! In this post, we'll go ahead and set up the Mongoose ODM inside our Next.js app to make use of ... </p> <br/> <br/>
 <p align="left">
-<a href="https://blog.usmans.me/sort-imports-using-prettier-in-a-javascript-project-inside-vs-code" title="🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647939834412/-rOHcxwbV.png" alt="🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!" width="250px" align="right" /></a>
+<a href="https://blog.usmans.me/sort-imports-using-prettier-in-a-javascript-project-inside-vs-code" title="🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1647939834412/-rOHcxwbV.png" alt="🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!" width="250px" align="left" /></a>
 <a href="https://blog.usmans.me/sort-imports-using-prettier-in-a-javascript-project-inside-vs-code" title="🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!"><strong>🎨 Sort imports using Prettier in a JavaScript Project inside VS Code!</strong></a>
 <div><strong>22 Mar 2022</strong> | <strong>Updated: 22 Mar 2022</strong></div>
 <br/> 👋 Hey developers! This post is about how you can sort import statements in your JavaScript/TypeScript/React/Node etc projects easily with Prettier in VS Code when you format the code.
 https://www.youtube.com/watch?v=QQWgN0_gUxI
 What will you achieve... </p> <br/> <br/>
-<p align="left">
-<a href="https://blog.usmans.me/onlyformats" title="🎉 Introducing Only Formats | The quickest way to format code!"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1645965586101/f9tZgtt-T.png" alt="🎉 Introducing Only Formats | The quickest way to format code!" width="250px" align="left" /></a>
-<a href="https://blog.usmans.me/onlyformats" title="🎉 Introducing Only Formats | The quickest way to format code!"><strong>🎉 Introducing Only Formats | The quickest way to format code!</strong></a>
-<div><strong>27 Feb 2022</strong> | <strong>Updated: 22 Mar 2022</strong></div>
-<br/> Hey everybody!
-I saw the Netlify x Hashnode Hackathon and I was very very excited to participate this time. It was quite hard to think about an idea but I finally got one!
-Story
-This time building an app was a weird and funny experience at the same t... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 
