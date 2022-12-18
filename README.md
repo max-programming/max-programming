@@ -86,10 +86,10 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#139](https://github.com/steven-tey/dub/issues/139) in [steven-tey/dub](https://github.com/steven-tey/dub)
-2. ❗️ Closed issue [#149](https://github.com/nachoaldamav/ultra/issues/149) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
-3. 🗣 Commented on [#421](https://github.com/riccardoperra/codeimage/issues/421) in [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage)
-4. 🗣 Commented on [#4250](https://github.com/supabase/supabase/issues/4250) in [supabase/supabase](https://github.com/supabase/supabase)
+1. 🎉 Merged PR [#5](https://github.com/max-programming/usmans.me/pull/5) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
+2. 💪 Opened PR [#5](https://github.com/max-programming/usmans.me/pull/5) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
+3. ❗️ Opened issue [#139](https://github.com/steven-tey/dub/issues/139) in [steven-tey/dub](https://github.com/steven-tey/dub)
+4. ❗️ Closed issue [#149](https://github.com/nachoaldamav/ultra/issues/149) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
 5. 🗣 Commented on [#421](https://github.com/riccardoperra/codeimage/issues/421) in [riccardoperra/codeimage](https://github.com/riccardoperra/codeimage)
 <!--END_SECTION:activity-->
 
