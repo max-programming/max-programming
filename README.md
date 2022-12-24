@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#671](https://github.com/oven-sh/bun/issues/671) in [oven-sh/bun](https://github.com/oven-sh/bun)
-2. 🎉 Merged PR [#5](https://github.com/max-programming/usmans.me/pull/5) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
-3. 💪 Opened PR [#5](https://github.com/max-programming/usmans.me/pull/5) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
-4. ❗️ Opened issue [#139](https://github.com/steven-tey/dub/issues/139) in [steven-tey/dub](https://github.com/steven-tey/dub)
-5. ❗️ Closed issue [#149](https://github.com/nachoaldamav/ultra/issues/149) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+1. 💪 Opened PR [#70](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/pull/70) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+2. 🗣 Commented on [#671](https://github.com/oven-sh/bun/issues/671) in [oven-sh/bun](https://github.com/oven-sh/bun)
+3. 🎉 Merged PR [#5](https://github.com/max-programming/usmans.me/pull/5) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
+4. 💪 Opened PR [#5](https://github.com/max-programming/usmans.me/pull/5) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
+5. ❗️ Opened issue [#139](https://github.com/steven-tey/dub/issues/139) in [steven-tey/dub](https://github.com/steven-tey/dub)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
