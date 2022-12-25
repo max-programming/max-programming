@@ -107,9 +107,9 @@
    
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://blog.usmans.me/webhooks-101" title="🎣 Webhooks 101 - How I use Discord Webhooks for personal notifications"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671194963625/CNEO1c9HL.png" alt="🎣 Webhooks 101 - How I use Discord Webhooks for personal notifications" width="250px" align="left" /></a>
-<a href="https://blog.usmans.me/webhooks-101" title="🎣 Webhooks 101 - How I use Discord Webhooks for personal notifications"><strong>🎣 Webhooks 101 - How I use Discord Webhooks for personal notifications</strong></a>
-<div><strong>17 Dec 2022</strong></div>
+<a href="https://blog.usmans.me/webhooks-101" title="🎣 Webhooks Demystified - Get Real-Time Personal Notifications with Discord Webhooks"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1671194963625/CNEO1c9HL.png" alt="🎣 Webhooks Demystified - Get Real-Time Personal Notifications with Discord Webhooks" width="250px" align="left" /></a>
+<a href="https://blog.usmans.me/webhooks-101" title="🎣 Webhooks Demystified - Get Real-Time Personal Notifications with Discord Webhooks"><strong>🎣 Webhooks Demystified - Get Real-Time Personal Notifications with Discord Webhooks</strong></a>
+<div><strong>17 Dec 2022</strong> | <strong>Updated: 24 Dec 2022</strong></div>
 <br/> Hey all 👋👋
 Webhooks are a powerful tool that allow applications to communicate with each other in real-time. They are often used to send notifications or updates from one system to another without requiring manual intervention.
 
