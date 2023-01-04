@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124](https://github.com/sallar/github-contributions-chart/issues/124) in [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart)
-2. 🗣 Commented on [#124](https://github.com/sallar/github-contributions-chart/issues/124) in [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart)
-3. 💪 Opened PR [#124](https://github.com/sallar/github-contributions-chart/pull/124) in [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart)
-4. 💪 Opened PR [#1](https://github.com/Uraniumking007/Stopwatch/pull/1) in [Uraniumking007/Stopwatch](https://github.com/Uraniumking007/Stopwatch)
-5. 💪 Opened PR [#2](https://github.com/codeSTACKr/gentree-generator/pull/2) in [codeSTACKr/gentree-generator](https://github.com/codeSTACKr/gentree-generator)
+1. 🗣 Commented on [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+2. 🗣 Commented on [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+3. 🗣 Commented on [#124](https://github.com/sallar/github-contributions-chart/issues/124) in [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart)
+4. 🗣 Commented on [#124](https://github.com/sallar/github-contributions-chart/issues/124) in [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart)
+5. 💪 Opened PR [#124](https://github.com/sallar/github-contributions-chart/pull/124) in [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
