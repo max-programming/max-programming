@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
-2. 🗣 Commented on [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
-3. 🗣 Commented on [#124](https://github.com/sallar/github-contributions-chart/issues/124) in [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart)
-4. 🗣 Commented on [#124](https://github.com/sallar/github-contributions-chart/issues/124) in [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart)
-5. 💪 Opened PR [#124](https://github.com/sallar/github-contributions-chart/pull/124) in [sallar/github-contributions-chart](https://github.com/sallar/github-contributions-chart)
+1. 🎉 Merged PR [#1](https://github.com/max-programming/action-hashnode-blog/pull/1) in [max-programming/action-hashnode-blog](https://github.com/max-programming/action-hashnode-blog)
+2. 💪 Opened PR [#1](https://github.com/max-programming/action-hashnode-blog/pull/1) in [max-programming/action-hashnode-blog](https://github.com/max-programming/action-hashnode-blog)
+3. 💪 Opened PR [#8](https://github.com/varunsridharan/action-hashnode-blog/pull/8) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
+4. 🗣 Commented on [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+5. 🗣 Commented on [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
