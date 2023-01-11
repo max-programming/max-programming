@@ -14,7 +14,7 @@ jobs:
         uses: actions/checkout@main
 
       - name: "📚  Hashnode Updater"
-        uses: "varunsridharan/action-hashnode-blog@main"
+        uses: "max-programming/action-hashnode-blog@main"
         with:
           BLOG_URL: 'https://blog.usmans.me'
           USERNAME: 'usmanwrites'
