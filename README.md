@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/varunsridharan/action-hashnode-blog/pull/8) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
-2. 🎉 Merged PR [#1](https://github.com/max-programming/action-hashnode-blog/pull/1) in [max-programming/action-hashnode-blog](https://github.com/max-programming/action-hashnode-blog)
-3. 💪 Opened PR [#1](https://github.com/max-programming/action-hashnode-blog/pull/1) in [max-programming/action-hashnode-blog](https://github.com/max-programming/action-hashnode-blog)
-4. 💪 Opened PR [#8](https://github.com/varunsridharan/action-hashnode-blog/pull/8) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
-5. 🗣 Commented on [#645](https://github.com/tailwindlabs/tailwindcss-intellisense/issues/645) in [tailwindlabs/tailwindcss-intellisense](https://github.com/tailwindlabs/tailwindcss-intellisense)
+1. ❗️ Opened issue [#13825](https://github.com/nuxt/nuxt.js/issues/13825) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
+2. ❌ Closed PR [#8](https://github.com/varunsridharan/action-hashnode-blog/pull/8) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
+3. 🎉 Merged PR [#1](https://github.com/max-programming/action-hashnode-blog/pull/1) in [max-programming/action-hashnode-blog](https://github.com/max-programming/action-hashnode-blog)
+4. 💪 Opened PR [#1](https://github.com/max-programming/action-hashnode-blog/pull/1) in [max-programming/action-hashnode-blog](https://github.com/max-programming/action-hashnode-blog)
+5. 💪 Opened PR [#8](https://github.com/varunsridharan/action-hashnode-blog/pull/8) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
