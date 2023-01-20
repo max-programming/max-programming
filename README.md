@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13825](https://github.com/nuxt/nuxt.js/issues/13825) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-2. ❌ Closed PR [#8](https://github.com/varunsridharan/action-hashnode-blog/pull/8) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
-3. 🎉 Merged PR [#1](https://github.com/max-programming/action-hashnode-blog/pull/1) in [max-programming/action-hashnode-blog](https://github.com/max-programming/action-hashnode-blog)
-4. 💪 Opened PR [#1](https://github.com/max-programming/action-hashnode-blog/pull/1) in [max-programming/action-hashnode-blog](https://github.com/max-programming/action-hashnode-blog)
-5. 💪 Opened PR [#8](https://github.com/varunsridharan/action-hashnode-blog/pull/8) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
+1. ❗️ Closed issue [#2](https://github.com/max-programming/usmans.me/issues/2) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
+2. ❗️ Opened issue [#13825](https://github.com/nuxt/nuxt.js/issues/13825) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
+3. ❌ Closed PR [#8](https://github.com/varunsridharan/action-hashnode-blog/pull/8) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
+4. 🎉 Merged PR [#1](https://github.com/max-programming/action-hashnode-blog/pull/1) in [max-programming/action-hashnode-blog](https://github.com/max-programming/action-hashnode-blog)
+5. 💪 Opened PR [#1](https://github.com/max-programming/action-hashnode-blog/pull/1) in [max-programming/action-hashnode-blog](https://github.com/max-programming/action-hashnode-blog)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
