@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1033](https://github.com/svg-net/SVG/issues/1033) in [svg-net/SVG](https://github.com/svg-net/SVG)
-2. 🗣 Commented on [#7466](https://github.com/obsproject/obs-studio/issues/7466) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
-3. ❗️ Closed issue [#2](https://github.com/max-programming/usmans.me/issues/2) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
-4. ❗️ Opened issue [#13825](https://github.com/nuxt/nuxt.js/issues/13825) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
-5. ❌ Closed PR [#8](https://github.com/varunsridharan/action-hashnode-blog/pull/8) in [varunsridharan/action-hashnode-blog](https://github.com/varunsridharan/action-hashnode-blog)
+1. 💪 Opened PR [#1](https://github.com/Tejash429/Math-Quiz/pull/1) in [Tejash429/Math-Quiz](https://github.com/Tejash429/Math-Quiz)
+2. ❗️ Opened issue [#1033](https://github.com/svg-net/SVG/issues/1033) in [svg-net/SVG](https://github.com/svg-net/SVG)
+3. 🗣 Commented on [#7466](https://github.com/obsproject/obs-studio/issues/7466) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+4. ❗️ Closed issue [#2](https://github.com/max-programming/usmans.me/issues/2) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
+5. ❗️ Opened issue [#13825](https://github.com/nuxt/nuxt.js/issues/13825) in [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
