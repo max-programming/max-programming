@@ -86,11 +86,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/flashohq/open-source-react-courses/issues/1) in [flashohq/open-source-react-courses](https://github.com/flashohq/open-source-react-courses)
-2. ❗️ Opened issue [#695](https://github.com/solidjs/solid-start/issues/695) in [solidjs/solid-start](https://github.com/solidjs/solid-start)
-3. 💪 Opened PR [#1](https://github.com/Tejash429/Math-Quiz/pull/1) in [Tejash429/Math-Quiz](https://github.com/Tejash429/Math-Quiz)
-4. ❗️ Opened issue [#1033](https://github.com/svg-net/SVG/issues/1033) in [svg-net/SVG](https://github.com/svg-net/SVG)
-5. 🗣 Commented on [#7466](https://github.com/obsproject/obs-studio/issues/7466) in [obsproject/obs-studio](https://github.com/obsproject/obs-studio)
+1. ❗️ Opened issue [#77](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/77) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+2. 🗣 Commented on [#1](https://github.com/flashohq/open-source-react-courses/issues/1) in [flashohq/open-source-react-courses](https://github.com/flashohq/open-source-react-courses)
+3. ❗️ Opened issue [#695](https://github.com/solidjs/solid-start/issues/695) in [solidjs/solid-start](https://github.com/solidjs/solid-start)
+4. 💪 Opened PR [#1](https://github.com/Tejash429/Math-Quiz/pull/1) in [Tejash429/Math-Quiz](https://github.com/Tejash429/Math-Quiz)
+5. ❗️ Opened issue [#1033](https://github.com/svg-net/SVG/issues/1033) in [svg-net/SVG](https://github.com/svg-net/SVG)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
