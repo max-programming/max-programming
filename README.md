@@ -92,11 +92,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#120562](https://github.com/flutter/flutter/pull/120562) in [flutter/flutter](https://github.com/flutter/flutter)
-2. ❗️ Opened issue [#77](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/77) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
-3. 🗣 Commented on [#1](https://github.com/flashohq/open-source-react-courses/issues/1) in [flashohq/open-source-react-courses](https://github.com/flashohq/open-source-react-courses)
-4. ❗️ Opened issue [#695](https://github.com/solidjs/solid-start/issues/695) in [solidjs/solid-start](https://github.com/solidjs/solid-start)
-5. 💪 Opened PR [#1](https://github.com/Tejash429/Math-Quiz/pull/1) in [Tejash429/Math-Quiz](https://github.com/Tejash429/Math-Quiz)
+1. ❗️ Opened issue [#8](https://github.com/BogDAAAMN/deta-deploy-action/issues/8) in [BogDAAAMN/deta-deploy-action](https://github.com/BogDAAAMN/deta-deploy-action)
+2. 💪 Opened PR [#120562](https://github.com/flutter/flutter/pull/120562) in [flutter/flutter](https://github.com/flutter/flutter)
+3. ❗️ Opened issue [#77](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot/issues/77) in [Learn-Build-Teach/learn-build-teach-discord-bot](https://github.com/Learn-Build-Teach/learn-build-teach-discord-bot)
+4. 🗣 Commented on [#1](https://github.com/flashohq/open-source-react-courses/issues/1) in [flashohq/open-source-react-courses](https://github.com/flashohq/open-source-react-courses)
+5. ❗️ Opened issue [#695](https://github.com/solidjs/solid-start/issues/695) in [solidjs/solid-start](https://github.com/solidjs/solid-start)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
