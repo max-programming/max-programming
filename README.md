@@ -24,6 +24,8 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,nodejs,prisma,vscode,py,git,github,githubactions,astro,css,tailwind,express,fastapi,firebase,mongodb,supabase,dart,flutter,netlify,vercel" />
   </a>
 
+<br>
+<br>
 
 ## My Badge Board
 
