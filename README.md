@@ -1,8 +1,8 @@
 <h1 align="center">Hii! My name is Usman</h1>
 <h2 align="center">A passionate Full Stack Developer from India</h2>
-<h4 align="center">
- Hey there! I'm Usman, a 18-year-old enthusiast of web development and programming with a solid skill set in JavaScript, TypeScript and React. <br> I'm also open to remote work, so feel free to contact me. <br> I also run a YouTube channel and a Blog where I share my expertise with others.
-</h4>
+<p align="center" >
+ Hey there! I'm Usman, an 18-year-old enthusiast of web development and programming with a solid skill set in JavaScript, TypeScript and React. I'm also open to remote work, so feel free to contact me. I also run a YouTube channel and a Blog where I share my expertise with others.
+</p>
 
 
 <!--START_SECTION:waka-->
