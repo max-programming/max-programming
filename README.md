@@ -1,30 +1,9 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hii! My name is Usman</h2>
-<h3 align="center">A passionate full-stack developer from India</h3>
-<h4 align="center">
-  I am a 17 years old student learning web development and programming. I am also a Content Creator on <a href="https://youtube.com/MaxProgramming">YouTube</a>. I love dark themes!
-</h4>
+<h1 align="center">Hii! My name is Usman</h1>
+<h2 align="center">A passionate Full Stack Developer from India</h2>
+<h3 align="center">
+ Hey there! I'm Usman, a 18-year-old enthusiast of web development and programming with a solid skill set in JavaScript, TypeScript and React. <br> I'm also open to remote work, so feel free to contact me. <br> I also run a YouTube channel and a Blog where I share my expertise with others.
+</h3>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/MaxProgramming1?color=1DA1F2&logo=Twitter&style=for-the-badge)](https://twitter.com/MaxProgramming1)
-
-- 🔭 I’m currently working on **creating content**
-
-- 🌱 I’m currently learning **Flutter, Go, Kotlin**
-
-- 🌐 My website: [usmans.me](https://usmans.me)
-
-- 👨‍💻 All of my projects are available at [github.com/max-programming](https://github.com/max-programming)
-
-- 📝 I write articles on [blog.usmans.me](https://blog.usmans.me/)
-
-- 💬 Ask me about **Next.js, React, Node, Puppeteer, TypeScript**
-
-- 📫 How to reach me **maxprogramming05@gmail.com**
-
-- ⚡ Fun fact **I like tea. And some fast food! 😉**
-
-## My Badge Board
-
-[![@maxprogramming's Holopin board](https://holopin.me/maxprogramming)](https://holopin.io/@maxprogramming)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -39,53 +18,18 @@
 </p>-->
 <!-- <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></p> -->
 
-### Languages and Tools:
+## Skills:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Tailwind" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="padding-right:10px;" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,nodejs,prisma,vscode,py,git,github,githubactions,astro,css,tailwind,express,fastapi,firebase,mongodb,supabase,dart,flutter,netlify,vercel" />
+  </a>
 
-<p align="center">
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-</p>
 
-<br>
-<br>
+## My Badge Board
 
-<p align="center">
-  I am at: <br>
-  <a href="https://youtube.com/MaxProgramming"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://www.facebook.com/usman.sabuwala.7"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-  <a href="https://www.instagram.com/usmansabuwala7/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://twitter.com/MaxProgramming1"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://blog.usman-s.me/"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white"></a>
-  <a href="https://dev.to/maxprogramming"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
-  <a href="https://discord.com/users/691360911440609290"><img src="https://dcbadge.vercel.app/api/shield/691360911440609290?compact=true&theme=clean"></a>
-  
-</p>
-<p align="center">
- 💻 My setup <br>
-  <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/intel-core%20i3%203rd-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-</p>
-<p align="center">
- 💻 My apps <br>
-  🌐 Web browser: <a htef="https://microsoftedge.com"><img src="https://img.shields.io/badge/microsoft edge-0078D6?logo=microsoft-edge&logoColor=white&style=for-the-badge&color=31BAE4"></a>
-  <br>
-  👨‍💻 Code editor: <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS Code-0078D6?logo=visual-studio-code&logoColor=white&style=for-the-badge&color=0086D1"></a>
-  <br>
-  📹 Video editor: <a href="http://shotcut.org/"><img src="https://img.shields.io/badge/shotcut-0078D6?logoColor=white&style=for-the-badge&color=115C77"></a>
-</p>
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/max-programming/count.svg" />
-</p>
+[![@maxprogramming's Holopin board](https://holopin.me/maxprogramming)](https://holopin.io/@maxprogramming)
+
+
 <br />
 <br />
 
