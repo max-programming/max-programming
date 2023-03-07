@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/nachoaldamav/ultra/issues/106) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
-2. 🎉 Merged PR [#7](https://github.com/max-programming/usmans.me/pull/7) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
-3. 💪 Opened PR [#7](https://github.com/max-programming/usmans.me/pull/7) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
-4. 🗣 Commented on [#6](https://github.com/max-programming/usmans.me/issues/6) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
-5. 🎉 Merged PR [#6](https://github.com/max-programming/usmans.me/pull/6) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
+1. 🗣 Commented on [#1122](https://github.com/umami-software/umami/issues/1122) in [umami-software/umami](https://github.com/umami-software/umami)
+2. 🗣 Commented on [#106](https://github.com/nachoaldamav/ultra/issues/106) in [nachoaldamav/ultra](https://github.com/nachoaldamav/ultra)
+3. 🎉 Merged PR [#7](https://github.com/max-programming/usmans.me/pull/7) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
+4. 💪 Opened PR [#7](https://github.com/max-programming/usmans.me/pull/7) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
+5. 🗣 Commented on [#6](https://github.com/max-programming/usmans.me/issues/6) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
