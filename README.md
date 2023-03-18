@@ -98,6 +98,8 @@ https://www.youtube.com/watch?v=QQWgN0_gUxI
 What will you achieve... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Contribution Graph
 <p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=max-programming&theme=github" alt="max-programming" /></p> 
