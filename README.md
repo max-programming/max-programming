@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#120562](https://github.com/flutter/flutter/issues/120562) in [flutter/flutter](https://github.com/flutter/flutter)
-2. 🗣 Commented on [#185](https://github.com/leonardssh/vscord/issues/185) in [leonardssh/vscord](https://github.com/leonardssh/vscord)
+1. 💪 Opened PR [#39](https://github.com/rebelchris/daily-dev-tips/pull/39) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
+2. 🗣 Commented on [#120562](https://github.com/flutter/flutter/issues/120562) in [flutter/flutter](https://github.com/flutter/flutter)
 3. 🗣 Commented on [#185](https://github.com/leonardssh/vscord/issues/185) in [leonardssh/vscord](https://github.com/leonardssh/vscord)
-4. 💪 Opened PR [#185](https://github.com/leonardssh/vscord/pull/185) in [leonardssh/vscord](https://github.com/leonardssh/vscord)
-5. 💪 Opened PR [#1867](https://github.com/iCrawl/discord-vscode/pull/1867) in [iCrawl/discord-vscode](https://github.com/iCrawl/discord-vscode)
+4. 🗣 Commented on [#185](https://github.com/leonardssh/vscord/issues/185) in [leonardssh/vscord](https://github.com/leonardssh/vscord)
+5. 💪 Opened PR [#185](https://github.com/leonardssh/vscord/pull/185) in [leonardssh/vscord](https://github.com/leonardssh/vscord)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
