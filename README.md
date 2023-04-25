@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16450](https://github.com/nrwl/nx/pull/16450) in [nrwl/nx](https://github.com/nrwl/nx)
-2. 🗣 Commented on [#1985](https://github.com/nvim-treesitter/nvim-treesitter/issues/1985) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-3. 💪 Opened PR [#39](https://github.com/rebelchris/daily-dev-tips/pull/39) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
-4. 🗣 Commented on [#120562](https://github.com/flutter/flutter/issues/120562) in [flutter/flutter](https://github.com/flutter/flutter)
-5. 🗣 Commented on [#185](https://github.com/leonardssh/vscord/issues/185) in [leonardssh/vscord](https://github.com/leonardssh/vscord)
+1. ❗️ Opened issue [#4134](https://github.com/mantinedev/mantine/issues/4134) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
+2. 💪 Opened PR [#16450](https://github.com/nrwl/nx/pull/16450) in [nrwl/nx](https://github.com/nrwl/nx)
+3. 🗣 Commented on [#1985](https://github.com/nvim-treesitter/nvim-treesitter/issues/1985) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+4. 💪 Opened PR [#39](https://github.com/rebelchris/daily-dev-tips/pull/39) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
+5. 🗣 Commented on [#120562](https://github.com/flutter/flutter/issues/120562) in [flutter/flutter](https://github.com/flutter/flutter)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
