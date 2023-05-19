@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/react-appwrite/react-appwrite/issues/42) in [react-appwrite/react-appwrite](https://github.com/react-appwrite/react-appwrite)
-2. ❗️ Opened issue [#4134](https://github.com/mantinedev/mantine/issues/4134) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
-3. 💪 Opened PR [#16450](https://github.com/nrwl/nx/pull/16450) in [nrwl/nx](https://github.com/nrwl/nx)
-4. 🗣 Commented on [#1985](https://github.com/nvim-treesitter/nvim-treesitter/issues/1985) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-5. 💪 Opened PR [#39](https://github.com/rebelchris/daily-dev-tips/pull/39) in [rebelchris/daily-dev-tips](https://github.com/rebelchris/daily-dev-tips)
+1. 💪 Opened PR [#375](https://github.com/shadcn/ui/pull/375) in [shadcn/ui](https://github.com/shadcn/ui)
+2. ❗️ Opened issue [#42](https://github.com/react-appwrite/react-appwrite/issues/42) in [react-appwrite/react-appwrite](https://github.com/react-appwrite/react-appwrite)
+3. ❗️ Opened issue [#4134](https://github.com/mantinedev/mantine/issues/4134) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
+4. 💪 Opened PR [#16450](https://github.com/nrwl/nx/pull/16450) in [nrwl/nx](https://github.com/nrwl/nx)
+5. 🗣 Commented on [#1985](https://github.com/nvim-treesitter/nvim-treesitter/issues/1985) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
