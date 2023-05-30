@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#248](https://github.com/unicodeveloper/awesome-nextjs/pull/248) in [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
-2. 💪 Opened PR [#375](https://github.com/shadcn/ui/pull/375) in [shadcn/ui](https://github.com/shadcn/ui)
-3. ❗️ Opened issue [#42](https://github.com/react-appwrite/react-appwrite/issues/42) in [react-appwrite/react-appwrite](https://github.com/react-appwrite/react-appwrite)
-4. ❗️ Opened issue [#4134](https://github.com/mantinedev/mantine/issues/4134) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
-5. 💪 Opened PR [#16450](https://github.com/nrwl/nx/pull/16450) in [nrwl/nx](https://github.com/nrwl/nx)
+1. 🗣 Commented on [#42](https://github.com/react-appwrite/react-appwrite/issues/42) in [react-appwrite/react-appwrite](https://github.com/react-appwrite/react-appwrite)
+2. 💪 Opened PR [#248](https://github.com/unicodeveloper/awesome-nextjs/pull/248) in [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
+3. 💪 Opened PR [#375](https://github.com/shadcn/ui/pull/375) in [shadcn/ui](https://github.com/shadcn/ui)
+4. ❗️ Opened issue [#42](https://github.com/react-appwrite/react-appwrite/issues/42) in [react-appwrite/react-appwrite](https://github.com/react-appwrite/react-appwrite)
+5. ❗️ Opened issue [#4134](https://github.com/mantinedev/mantine/issues/4134) in [mantinedev/mantine](https://github.com/mantinedev/mantine)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
