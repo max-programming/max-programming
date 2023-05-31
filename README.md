@@ -42,7 +42,7 @@
 2. 🗣 Commented on [#42](https://github.com/react-appwrite/react-appwrite/issues/42) in [react-appwrite/react-appwrite](https://github.com/react-appwrite/react-appwrite)
 3. 💪 Opened PR [#248](https://github.com/unicodeveloper/awesome-nextjs/pull/248) in [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
 4. 💪 Opened PR [#375](https://github.com/shadcn/ui/pull/375) in [shadcn/ui](https://github.com/shadcn/ui)
-5. ❗️ Opened issue [#42](https://github.com/react-appwrite/react-appwrite/issues/42) in [react-appwrite/react-appwrite](https://github.com/react-appwrite/react-appwrite)
+5. ❗ Opened issue [#42](https://github.com/react-appwrite/react-appwrite/issues/42) in [react-appwrite/react-appwrite](https://github.com/react-appwrite/react-appwrite)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
