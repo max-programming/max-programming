@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#507](https://github.com/shadcn/ui/pull/507) in [shadcn/ui](https://github.com/shadcn/ui)
-2. 🗣 Commented on [#42](https://github.com/react-appwrite/react-appwrite/issues/42) in [react-appwrite/react-appwrite](https://github.com/react-appwrite/react-appwrite)
-3. 💪 Opened PR [#248](https://github.com/unicodeveloper/awesome-nextjs/pull/248) in [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
-4. 💪 Opened PR [#375](https://github.com/shadcn/ui/pull/375) in [shadcn/ui](https://github.com/shadcn/ui)
-5. ❗ Opened issue [#42](https://github.com/react-appwrite/react-appwrite/issues/42) in [react-appwrite/react-appwrite](https://github.com/react-appwrite/react-appwrite)
+1. 💪 Opened PR [#1](https://github.com/max-programming/atila.io/pull/1) in [max-programming/atila.io](https://github.com/max-programming/atila.io)
+2. 💪 Opened PR [#507](https://github.com/shadcn/ui/pull/507) in [shadcn/ui](https://github.com/shadcn/ui)
+3. 🗣 Commented on [#42](https://github.com/react-appwrite/react-appwrite/issues/42) in [react-appwrite/react-appwrite](https://github.com/react-appwrite/react-appwrite)
+4. 💪 Opened PR [#248](https://github.com/unicodeveloper/awesome-nextjs/pull/248) in [unicodeveloper/awesome-nextjs](https://github.com/unicodeveloper/awesome-nextjs)
+5. 💪 Opened PR [#375](https://github.com/shadcn/ui/pull/375) in [shadcn/ui](https://github.com/shadcn/ui)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
