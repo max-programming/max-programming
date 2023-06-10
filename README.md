@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/max-programming/atila.io/pull/1) in [max-programming/atila.io](https://github.com/max-programming/atila.io)
-2. 💪 Opened PR [#3](https://github.com/atilafassina/atila.io/pull/3) in [atilafassina/atila.io](https://github.com/atilafassina/atila.io)
-3. 💪 Opened PR [#1](https://github.com/max-programming/atila.io/pull/1) in [max-programming/atila.io](https://github.com/max-programming/atila.io)
-4. 💪 Opened PR [#507](https://github.com/shadcn/ui/pull/507) in [shadcn/ui](https://github.com/shadcn/ui)
-5. 🗣 Commented on [#42](https://github.com/react-appwrite/react-appwrite/issues/42) in [react-appwrite/react-appwrite](https://github.com/react-appwrite/react-appwrite)
+1. ❗ Opened issue [#51102](https://github.com/vercel/next.js/issues/51102) in [vercel/next.js](https://github.com/vercel/next.js)
+2. ❌ Closed PR [#1](https://github.com/max-programming/atila.io/pull/1) in [max-programming/atila.io](https://github.com/max-programming/atila.io)
+3. 💪 Opened PR [#3](https://github.com/atilafassina/atila.io/pull/3) in [atilafassina/atila.io](https://github.com/atilafassina/atila.io)
+4. 💪 Opened PR [#1](https://github.com/max-programming/atila.io/pull/1) in [max-programming/atila.io](https://github.com/max-programming/atila.io)
+5. 💪 Opened PR [#507](https://github.com/shadcn/ui/pull/507) in [shadcn/ui](https://github.com/shadcn/ui)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
