@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#495](https://github.com/cwackerfuss/react-wordle/issues/495) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
-2. ❗ Opened issue [#51102](https://github.com/vercel/next.js/issues/51102) in [vercel/next.js](https://github.com/vercel/next.js)
-3. ❌ Closed PR [#1](https://github.com/max-programming/atila.io/pull/1) in [max-programming/atila.io](https://github.com/max-programming/atila.io)
-4. 💪 Opened PR [#3](https://github.com/atilafassina/atila.io/pull/3) in [atilafassina/atila.io](https://github.com/atilafassina/atila.io)
-5. 💪 Opened PR [#1](https://github.com/max-programming/atila.io/pull/1) in [max-programming/atila.io](https://github.com/max-programming/atila.io)
+1. ❗ Opened issue [#317](https://github.com/denoland/dnt/issues/317) in [denoland/dnt](https://github.com/denoland/dnt)
+2. 🗣 Commented on [#495](https://github.com/cwackerfuss/react-wordle/issues/495) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
+3. ❗ Opened issue [#51102](https://github.com/vercel/next.js/issues/51102) in [vercel/next.js](https://github.com/vercel/next.js)
+4. ❌ Closed PR [#1](https://github.com/max-programming/atila.io/pull/1) in [max-programming/atila.io](https://github.com/max-programming/atila.io)
+5. 💪 Opened PR [#3](https://github.com/atilafassina/atila.io/pull/3) in [atilafassina/atila.io](https://github.com/atilafassina/atila.io)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
