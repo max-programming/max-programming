@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#597](https://github.com/clauderic/dnd-kit/issues/597) in [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)
-2. ❗ Opened issue [#317](https://github.com/denoland/dnt/issues/317) in [denoland/dnt](https://github.com/denoland/dnt)
-3. 🗣 Commented on [#495](https://github.com/cwackerfuss/react-wordle/issues/495) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
-4. ❗ Opened issue [#51102](https://github.com/vercel/next.js/issues/51102) in [vercel/next.js](https://github.com/vercel/next.js)
-5. ❌ Closed PR [#1](https://github.com/max-programming/atila.io/pull/1) in [max-programming/atila.io](https://github.com/max-programming/atila.io)
+1. ❗ Opened issue [#1](https://github.com/victorlut/notes-library/issues/1) in [victorlut/notes-library](https://github.com/victorlut/notes-library)
+2. 🗣 Commented on [#597](https://github.com/clauderic/dnd-kit/issues/597) in [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)
+3. ❗ Opened issue [#317](https://github.com/denoland/dnt/issues/317) in [denoland/dnt](https://github.com/denoland/dnt)
+4. 🗣 Commented on [#495](https://github.com/cwackerfuss/react-wordle/issues/495) in [cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)
+5. ❗ Opened issue [#51102](https://github.com/vercel/next.js/issues/51102) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
