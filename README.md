@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1859](https://github.com/radix-ui/primitives/issues/1859#issuecomment-1637551370) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
-2. 🗣 Commented on [#296](https://github.com/shadcn/ui/issues/296#issuecomment-1632672390) in [shadcn/ui](https://github.com/shadcn/ui)
-3. ❗ Opened issue [#1](https://github.com/victorlut/notes-library/issues/1) in [victorlut/notes-library](https://github.com/victorlut/notes-library)
-4. 🗣 Commented on [#597](https://github.com/clauderic/dnd-kit/issues/597#issuecomment-1624483732) in [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)
-5. ❗ Opened issue [#317](https://github.com/denoland/dnt/issues/317) in [denoland/dnt](https://github.com/denoland/dnt)
+1. 🗣 Commented on [#1859](https://github.com/radix-ui/primitives/issues/1859#issuecomment-1639999504) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+2. 🗣 Commented on [#1859](https://github.com/radix-ui/primitives/issues/1859#issuecomment-1637551370) in [radix-ui/primitives](https://github.com/radix-ui/primitives)
+3. 🗣 Commented on [#296](https://github.com/shadcn/ui/issues/296#issuecomment-1632672390) in [shadcn/ui](https://github.com/shadcn/ui)
+4. ❗ Opened issue [#1](https://github.com/victorlut/notes-library/issues/1) in [victorlut/notes-library](https://github.com/victorlut/notes-library)
+5. 🗣 Commented on [#597](https://github.com/clauderic/dnd-kit/issues/597#issuecomment-1624483732) in [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
