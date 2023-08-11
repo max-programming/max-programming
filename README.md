@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#569](https://github.com/googlemaps/react-wrapper/issues/569#issuecomment-1665346758) in [googlemaps/react-wrapper](https://github.com/googlemaps/react-wrapper)
-2. 🗣 Commented on [#444](https://github.com/shadcn-ui/ui/issues/444#issuecomment-1662027805) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. 🗣 Commented on [#184](https://github.com/ErrorPro/react-google-autocomplete/issues/184#issuecomment-1659649859) in [ErrorPro/react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete)
-4. 🗣 Commented on [#201](https://github.com/ErrorPro/react-google-autocomplete/issues/201#issuecomment-1659648831) in [ErrorPro/react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete)
-5. 🗣 Commented on [#207](https://github.com/supabase/storage-api/issues/207#issuecomment-1655439290) in [supabase/storage-api](https://github.com/supabase/storage-api)
+1. ❗ Opened issue [#622](https://github.com/nushell/reedline/issues/622) in [nushell/reedline](https://github.com/nushell/reedline)
+2. 🗣 Commented on [#569](https://github.com/googlemaps/react-wrapper/issues/569#issuecomment-1665346758) in [googlemaps/react-wrapper](https://github.com/googlemaps/react-wrapper)
+3. 🗣 Commented on [#444](https://github.com/shadcn-ui/ui/issues/444#issuecomment-1662027805) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. 🗣 Commented on [#184](https://github.com/ErrorPro/react-google-autocomplete/issues/184#issuecomment-1659649859) in [ErrorPro/react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete)
+5. 🗣 Commented on [#201](https://github.com/ErrorPro/react-google-autocomplete/issues/201#issuecomment-1659648831) in [ErrorPro/react-google-autocomplete](https://github.com/ErrorPro/react-google-autocomplete)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
