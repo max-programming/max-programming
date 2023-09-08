@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2182](https://github.com/pedroslopez/whatsapp-web.js/issues/2182#issuecomment-1701738869) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-2. 🗣 Commented on [#2458](https://github.com/pedroslopez/whatsapp-web.js/issues/2458#issuecomment-1701732539) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-3. 🗣 Commented on [#2458](https://github.com/pedroslopez/whatsapp-web.js/issues/2458#issuecomment-1701731757) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-4. 🗣 Commented on [#6509](https://github.com/EddieHubCommunity/LinkFree/pull/6509#issuecomment-1691758145) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-5. ❗ Opened issue [#622](https://github.com/nushell/reedline/issues/622) in [nushell/reedline](https://github.com/nushell/reedline)
+1. 🗣 Commented on [#53668](https://github.com/vercel/next.js/issues/53668#issuecomment-1711508118) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#53605](https://github.com/vercel/next.js/issues/53605#issuecomment-1711504733) in [vercel/next.js](https://github.com/vercel/next.js)
+3. 🗣 Commented on [#2182](https://github.com/pedroslopez/whatsapp-web.js/issues/2182#issuecomment-1701738869) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+4. 🗣 Commented on [#2458](https://github.com/pedroslopez/whatsapp-web.js/issues/2458#issuecomment-1701732539) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+5. 🗣 Commented on [#2458](https://github.com/pedroslopez/whatsapp-web.js/issues/2458#issuecomment-1701731757) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
