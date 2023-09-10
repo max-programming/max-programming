@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53668](https://github.com/vercel/next.js/issues/53668#issuecomment-1711508118) in [vercel/next.js](https://github.com/vercel/next.js)
-2. 🗣 Commented on [#53605](https://github.com/vercel/next.js/issues/53605#issuecomment-1711504733) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🗣 Commented on [#2182](https://github.com/pedroslopez/whatsapp-web.js/issues/2182#issuecomment-1701738869) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-4. 🗣 Commented on [#2458](https://github.com/pedroslopez/whatsapp-web.js/issues/2458#issuecomment-1701732539) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
-5. 🗣 Commented on [#2458](https://github.com/pedroslopez/whatsapp-web.js/issues/2458#issuecomment-1701731757) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
+1. 🗣 Commented on [#1641](https://github.com/oven-sh/bun/issues/1641#issuecomment-1712738706) in [oven-sh/bun](https://github.com/oven-sh/bun)
+2. 🗣 Commented on [#802](https://github.com/pmndrs/jotai/issues/802#issuecomment-1712737131) in [pmndrs/jotai](https://github.com/pmndrs/jotai)
+3. 🗣 Commented on [#53668](https://github.com/vercel/next.js/issues/53668#issuecomment-1711508118) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#53605](https://github.com/vercel/next.js/issues/53605#issuecomment-1711504733) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#2182](https://github.com/pedroslopez/whatsapp-web.js/issues/2182#issuecomment-1701738869) in [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
