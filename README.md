@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2223](https://github.com/nestjs/nest-cli/pull/2223#issuecomment-1713935229) in [nestjs/nest-cli](https://github.com/nestjs/nest-cli)
-2. 🔒 Closed issue [#51102](https://github.com/vercel/next.js/issues/51102) in [vercel/next.js](https://github.com/vercel/next.js)
-3. 🗣 Commented on [#51102](https://github.com/vercel/next.js/issues/51102#issuecomment-1713924393) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#1641](https://github.com/oven-sh/bun/issues/1641#issuecomment-1712738706) in [oven-sh/bun](https://github.com/oven-sh/bun)
-5. 🗣 Commented on [#802](https://github.com/pmndrs/jotai/issues/802#issuecomment-1712737131) in [pmndrs/jotai](https://github.com/pmndrs/jotai)
+1. ❗ Opened issue [#734](https://github.com/uuidjs/uuid/issues/734) in [uuidjs/uuid](https://github.com/uuidjs/uuid)
+2. 🗣 Commented on [#2223](https://github.com/nestjs/nest-cli/pull/2223#issuecomment-1713935229) in [nestjs/nest-cli](https://github.com/nestjs/nest-cli)
+3. 🔒 Closed issue [#51102](https://github.com/vercel/next.js/issues/51102) in [vercel/next.js](https://github.com/vercel/next.js)
+4. 🗣 Commented on [#51102](https://github.com/vercel/next.js/issues/51102#issuecomment-1713924393) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#1641](https://github.com/oven-sh/bun/issues/1641#issuecomment-1712738706) in [oven-sh/bun](https://github.com/oven-sh/bun)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
