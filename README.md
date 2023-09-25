@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#79](https://github.com/max-programming/hacktoberfest-projects/issues/79#issuecomment-1733236314) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. ❗ Opened issue [#734](https://github.com/uuidjs/uuid/issues/734) in [uuidjs/uuid](https://github.com/uuidjs/uuid)
-3. 🗣 Commented on [#2223](https://github.com/nestjs/nest-cli/pull/2223#issuecomment-1713935229) in [nestjs/nest-cli](https://github.com/nestjs/nest-cli)
-4. 🔒 Closed issue [#51102](https://github.com/vercel/next.js/issues/51102) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🗣 Commented on [#51102](https://github.com/vercel/next.js/issues/51102#issuecomment-1713924393) in [vercel/next.js](https://github.com/vercel/next.js)
+1. 🗣 Commented on [#98](https://github.com/max-programming/hacktoberfest-projects/issues/98#issuecomment-1734450235) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🔒 Closed issue [#60](https://github.com/max-programming/hacktoberfest-projects/issues/60) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#99](https://github.com/max-programming/hacktoberfest-projects/pull/99#issuecomment-1734447526) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#79](https://github.com/max-programming/hacktoberfest-projects/issues/79#issuecomment-1733236314) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. ❗ Opened issue [#734](https://github.com/uuidjs/uuid/issues/734) in [uuidjs/uuid](https://github.com/uuidjs/uuid)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
