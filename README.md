@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#139](https://github.com/max-programming/hacktoberfest-projects/pull/139#issuecomment-1745464042) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🔒 Closed issue [#115](https://github.com/max-programming/hacktoberfest-projects/issues/115) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🎉 Merged PR [#139](https://github.com/max-programming/hacktoberfest-projects/pull/139) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#139](https://github.com/max-programming/hacktoberfest-projects/pull/139#issuecomment-1745431644) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#99](https://github.com/max-programming/hacktoberfest-projects/pull/99#issuecomment-1745424873) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#147](https://github.com/max-programming/hacktoberfest-projects/pull/147#issuecomment-1745500270) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#151](https://github.com/max-programming/hacktoberfest-projects/pull/151#issuecomment-1745498632) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#142](https://github.com/max-programming/hacktoberfest-projects/pull/142#issuecomment-1745496729) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#139](https://github.com/max-programming/hacktoberfest-projects/pull/139#issuecomment-1745464042) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🔒 Closed issue [#115](https://github.com/max-programming/hacktoberfest-projects/issues/115) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
