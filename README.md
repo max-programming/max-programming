@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/max-programming/hacktoberfest-projects/issues/152#issuecomment-1750662992) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#142](https://github.com/max-programming/hacktoberfest-projects/pull/142#issuecomment-1750661562) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#142](https://github.com/max-programming/hacktoberfest-projects/pull/142#issuecomment-1750660201) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#167](https://github.com/max-programming/hacktoberfest-projects/pull/167#issuecomment-1750652603) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#163](https://github.com/max-programming/hacktoberfest-projects/pull/163#issuecomment-1750330906) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#167](https://github.com/max-programming/hacktoberfest-projects/pull/167#issuecomment-1751173116) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🔒 Closed issue [#100](https://github.com/max-programming/hacktoberfest-projects/issues/100) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🎉 Merged PR [#175](https://github.com/max-programming/hacktoberfest-projects/pull/175) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#146](https://github.com/max-programming/hacktoberfest-projects/pull/146#issuecomment-1751165582) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🎉 Merged PR [#146](https://github.com/max-programming/hacktoberfest-projects/pull/146) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
