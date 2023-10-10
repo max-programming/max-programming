@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#140](https://github.com/max-programming/hacktoberfest-projects/issues/140) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🔒 Closed issue [#177](https://github.com/max-programming/hacktoberfest-projects/issues/177) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🎉 Merged PR [#191](https://github.com/max-programming/hacktoberfest-projects/pull/191) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#189](https://github.com/max-programming/hacktoberfest-projects/pull/189#issuecomment-1754981638) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🎉 Merged PR [#189](https://github.com/max-programming/hacktoberfest-projects/pull/189) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🔒 Closed issue [#100](https://github.com/max-programming/hacktoberfest-projects/issues/100) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🎉 Merged PR [#190](https://github.com/max-programming/hacktoberfest-projects/pull/190) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🔒 Closed issue [#140](https://github.com/max-programming/hacktoberfest-projects/issues/140) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🔒 Closed issue [#177](https://github.com/max-programming/hacktoberfest-projects/issues/177) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🎉 Merged PR [#191](https://github.com/max-programming/hacktoberfest-projects/pull/191) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
