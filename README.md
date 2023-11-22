@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#96](https://github.com/max-programming/hacktoberfest-projects/pull/96#issuecomment-1783727499) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🎉 Merged PR [#208](https://github.com/max-programming/hacktoberfest-projects/pull/208) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🎉 Merged PR [#207](https://github.com/max-programming/hacktoberfest-projects/pull/207) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🎉 Merged PR [#205](https://github.com/max-programming/hacktoberfest-projects/pull/205) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#201](https://github.com/max-programming/hacktoberfest-projects/pull/201#issuecomment-1771913036) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 💪 Opened PR [#1](https://github.com/jamesqquick/developer-black-friday-deals/pull/1) in [jamesqquick/developer-black-friday-deals](https://github.com/jamesqquick/developer-black-friday-deals)
+2. 🗣 Commented on [#96](https://github.com/max-programming/hacktoberfest-projects/pull/96#issuecomment-1783727499) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🎉 Merged PR [#208](https://github.com/max-programming/hacktoberfest-projects/pull/208) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🎉 Merged PR [#207](https://github.com/max-programming/hacktoberfest-projects/pull/207) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🎉 Merged PR [#205](https://github.com/max-programming/hacktoberfest-projects/pull/205) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
