@@ -47,12 +47,7 @@
 
 ## ▶ My Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![All you need to know about Hacktoberfest 2023 | No T-Shirt 😱 ?](https://ytcards.demolab.com/?id=Bk5AAO8AdkA&title=All+you+need+to+know+about+Hacktoberfest+2023+%7C+No+T-Shirt+%F0%9F%98%B1+%3F&lang=en&timestamp=1695577122&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "All you need to know about Hacktoberfest 2023 | No T-Shirt 😱 ?")](https://www.youtube.com/watch?v=Bk5AAO8AdkA)
-[![Converting a Figma design to Next.js with Tailwind CSS [LIVE Stream]](https://ytcards.demolab.com/?id=fgrlH9pbVU0&title=Converting+a+Figma+design+to+Next.js+with+Tailwind+CSS+%5BLIVE+Stream%5D&lang=en&timestamp=1686090902&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Converting a Figma design to Next.js with Tailwind CSS [LIVE Stream]")](https://www.youtube.com/watch?v=fgrlH9pbVU0)
-[![Exploring SvelteKit [LIVE Stream]](https://ytcards.demolab.com/?id=TZGjXXHis5o&title=Exploring+SvelteKit+%5BLIVE+Stream%5D&lang=en&timestamp=1683884681&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Exploring SvelteKit [LIVE Stream]")](https://www.youtube.com/watch?v=TZGjXXHis5o)
-[![How to use Credentials Authentication in Next.js with NextAuth?](https://ytcards.demolab.com/?id=fqXC2V-MSV4&title=How+to+use+Credentials+Authentication+in+Next.js+with+NextAuth%3F&lang=en&timestamp=1683455019&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to use Credentials Authentication in Next.js with NextAuth?")](https://www.youtube.com/watch?v=fqXC2V-MSV4)
-[![Minecraft font for coding 😮 #shorts](https://ytcards.demolab.com/?id=-USe7B99Xtw&title=Minecraft+font+for+coding+%F0%9F%98%AE+%23shorts&lang=en&timestamp=1683204230&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Minecraft font for coding 😮 #shorts")](https://www.youtube.com/watch?v=-USe7B99Xtw)
-[![React's PropsWithChildren is a life saver! #shorts #reacts #typescript](https://ytcards.demolab.com/?id=7-bXsX5Jyl4&title=React%27s+PropsWithChildren+is+a+life+saver%21+%23shorts+%23reacts+%23typescript&lang=en&timestamp=1683121697&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "React's PropsWithChildren is a life saver! #shorts #reacts #typescript")](https://www.youtube.com/watch?v=7-bXsX5Jyl4)
+
 <!-- END YOUTUBE-CARDS -->
    
 ## 👀 My Latest Blog Posts 
