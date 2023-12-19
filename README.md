@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7133](https://github.com/pnpm/pnpm/issues/7133#issuecomment-1826724172) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
-2. 💪 Opened PR [#1](https://github.com/jamesqquick/developer-black-friday-deals/pull/1) in [jamesqquick/developer-black-friday-deals](https://github.com/jamesqquick/developer-black-friday-deals)
-3. 🗣 Commented on [#96](https://github.com/max-programming/hacktoberfest-projects/pull/96#issuecomment-1783727499) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🎉 Merged PR [#208](https://github.com/max-programming/hacktoberfest-projects/pull/208) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🎉 Merged PR [#207](https://github.com/max-programming/hacktoberfest-projects/pull/207) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 💪 Opened PR [#59763](https://github.com/vercel/next.js/pull/59763) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#7133](https://github.com/pnpm/pnpm/issues/7133#issuecomment-1826724172) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+3. 💪 Opened PR [#1](https://github.com/jamesqquick/developer-black-friday-deals/pull/1) in [jamesqquick/developer-black-friday-deals](https://github.com/jamesqquick/developer-black-friday-deals)
+4. 🗣 Commented on [#96](https://github.com/max-programming/hacktoberfest-projects/pull/96#issuecomment-1783727499) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🎉 Merged PR [#208](https://github.com/max-programming/hacktoberfest-projects/pull/208) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
