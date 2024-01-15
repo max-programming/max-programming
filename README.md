@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#536](https://github.com/drizzle-team/drizzle-orm/issues/536#issuecomment-1867572794) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
-2. 🗣 Commented on [#1](https://github.com/max-programming/auth-creds-tutorial/issues/1#issuecomment-1867339179) in [max-programming/auth-creds-tutorial](https://github.com/max-programming/auth-creds-tutorial)
-3. 🗣 Commented on [#16](https://github.com/BuilderIO/hydration-overlay/issues/16#issuecomment-1864310263) in [BuilderIO/hydration-overlay](https://github.com/BuilderIO/hydration-overlay)
-4. 💪 Opened PR [#59763](https://github.com/vercel/next.js/pull/59763) in [vercel/next.js](https://github.com/vercel/next.js)
-5. 🗣 Commented on [#7133](https://github.com/pnpm/pnpm/issues/7133#issuecomment-1826724172) in [pnpm/pnpm](https://github.com/pnpm/pnpm)
+1. 🗣 Commented on [#768](https://github.com/visgl/react-map-gl/issues/768#issuecomment-1891794512) in [visgl/react-map-gl](https://github.com/visgl/react-map-gl)
+2. 🗣 Commented on [#536](https://github.com/drizzle-team/drizzle-orm/issues/536#issuecomment-1867572794) in [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm)
+3. 🗣 Commented on [#1](https://github.com/max-programming/auth-creds-tutorial/issues/1#issuecomment-1867339179) in [max-programming/auth-creds-tutorial](https://github.com/max-programming/auth-creds-tutorial)
+4. 🗣 Commented on [#16](https://github.com/BuilderIO/hydration-overlay/issues/16#issuecomment-1864310263) in [BuilderIO/hydration-overlay](https://github.com/BuilderIO/hydration-overlay)
+5. 💪 Opened PR [#59763](https://github.com/vercel/next.js/pull/59763) in [vercel/next.js](https://github.com/vercel/next.js)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
