@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1444](https://github.com/liveblocks/liveblocks/issues/1444#issuecomment-1923817527) in [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks)
-2. ❗ Opened issue [#1444](https://github.com/liveblocks/liveblocks/issues/1444) in [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks)
-3. 🗣 Commented on [#209](https://github.com/max-programming/hacktoberfest-projects/issues/209#issuecomment-1902868320) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#922](https://github.com/shadcn-ui/ui/issues/922#issuecomment-1899000913) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-5. 🗣 Commented on [#768](https://github.com/visgl/react-map-gl/issues/768#issuecomment-1891794512) in [visgl/react-map-gl](https://github.com/visgl/react-map-gl)
+1. ❌ Closed PR [#25](https://github.com/max-programming/easypastes/pull/25) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
+2. 🗣 Commented on [#1444](https://github.com/liveblocks/liveblocks/issues/1444#issuecomment-1923817527) in [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks)
+3. ❗ Opened issue [#1444](https://github.com/liveblocks/liveblocks/issues/1444) in [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks)
+4. 🗣 Commented on [#209](https://github.com/max-programming/hacktoberfest-projects/issues/209#issuecomment-1902868320) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#922](https://github.com/shadcn-ui/ui/issues/922#issuecomment-1899000913) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
