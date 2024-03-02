@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8](https://github.com/max-programming/usmans.me/pull/8) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
-2. 🗣 Commented on [#127](https://github.com/FormidableLabs/prism-react-renderer/pull/127#issuecomment-1935464510) in [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
-3. ❌ Closed PR [#25](https://github.com/max-programming/easypastes/pull/25) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
-4. 🗣 Commented on [#1444](https://github.com/liveblocks/liveblocks/issues/1444#issuecomment-1923817527) in [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks)
-5. ❗ Opened issue [#1444](https://github.com/liveblocks/liveblocks/issues/1444) in [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks)
+1. 💪 Opened PR [#143](https://github.com/cloudinary-community/cloudinary-examples/pull/143) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+2. ❌ Closed PR [#8](https://github.com/max-programming/usmans.me/pull/8) in [max-programming/usmans.me](https://github.com/max-programming/usmans.me)
+3. 🗣 Commented on [#127](https://github.com/FormidableLabs/prism-react-renderer/pull/127#issuecomment-1935464510) in [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
+4. ❌ Closed PR [#25](https://github.com/max-programming/easypastes/pull/25) in [max-programming/easypastes](https://github.com/max-programming/easypastes)
+5. 🗣 Commented on [#1444](https://github.com/liveblocks/liveblocks/issues/1444#issuecomment-1923817527) in [liveblocks/liveblocks](https://github.com/liveblocks/liveblocks)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
