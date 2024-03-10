@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#42](https://github.com/aborazmeh/awesome-palestine/pull/42) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
-2. 🔒 Closed issue [#209](https://github.com/max-programming/hacktoberfest-projects/issues/209) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🔒 Closed issue [#210](https://github.com/max-programming/hacktoberfest-projects/issues/210) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#210](https://github.com/max-programming/hacktoberfest-projects/issues/210#issuecomment-1979232889) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#210](https://github.com/max-programming/hacktoberfest-projects/issues/210#issuecomment-1979204502) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#1](https://github.com/Learn-Build-Teach/deals-for-devs/pull/1#issuecomment-1987309599) in [Learn-Build-Teach/deals-for-devs](https://github.com/Learn-Build-Teach/deals-for-devs)
+2. 💪 Opened PR [#42](https://github.com/aborazmeh/awesome-palestine/pull/42) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
+3. 🔒 Closed issue [#209](https://github.com/max-programming/hacktoberfest-projects/issues/209) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🔒 Closed issue [#210](https://github.com/max-programming/hacktoberfest-projects/issues/210) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#210](https://github.com/max-programming/hacktoberfest-projects/issues/210#issuecomment-1979232889) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
