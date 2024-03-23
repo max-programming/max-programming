@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#143](https://github.com/cloudinary-community/cloudinary-examples/pull/143#issuecomment-2015222962) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-2. 🗣 Commented on [#1](https://github.com/Learn-Build-Teach/deals-for-devs/pull/1#issuecomment-1987309599) in [Learn-Build-Teach/deals-for-devs](https://github.com/Learn-Build-Teach/deals-for-devs)
-3. 💪 Opened PR [#42](https://github.com/aborazmeh/awesome-palestine/pull/42) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
-4. 🔒 Closed issue [#209](https://github.com/max-programming/hacktoberfest-projects/issues/209) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🔒 Closed issue [#210](https://github.com/max-programming/hacktoberfest-projects/issues/210) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#1690](https://github.com/shadcn-ui/ui/issues/1690#issuecomment-2016635419) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 🗣 Commented on [#143](https://github.com/cloudinary-community/cloudinary-examples/pull/143#issuecomment-2015222962) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+3. 🗣 Commented on [#1](https://github.com/Learn-Build-Teach/deals-for-devs/pull/1#issuecomment-1987309599) in [Learn-Build-Teach/deals-for-devs](https://github.com/Learn-Build-Teach/deals-for-devs)
+4. 💪 Opened PR [#42](https://github.com/aborazmeh/awesome-palestine/pull/42) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
+5. 🔒 Closed issue [#209](https://github.com/max-programming/hacktoberfest-projects/issues/209) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
