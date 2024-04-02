@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#145](https://github.com/cloudinary-community/cloudinary-examples/pull/145) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-2. 🗣 Commented on [#1690](https://github.com/shadcn-ui/ui/issues/1690#issuecomment-2016635419) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. 🗣 Commented on [#143](https://github.com/cloudinary-community/cloudinary-examples/pull/143#issuecomment-2015222962) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-4. 🗣 Commented on [#1](https://github.com/Learn-Build-Teach/deals-for-devs/pull/1#issuecomment-1987309599) in [Learn-Build-Teach/deals-for-devs](https://github.com/Learn-Build-Teach/deals-for-devs)
-5. 💪 Opened PR [#42](https://github.com/aborazmeh/awesome-palestine/pull/42) in [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine)
+1. 🗣 Commented on [#145](https://github.com/cloudinary-community/cloudinary-examples/pull/145#issuecomment-2032023193) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+2. 💪 Opened PR [#145](https://github.com/cloudinary-community/cloudinary-examples/pull/145) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+3. 🗣 Commented on [#1690](https://github.com/shadcn-ui/ui/issues/1690#issuecomment-2016635419) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. 🗣 Commented on [#143](https://github.com/cloudinary-community/cloudinary-examples/pull/143#issuecomment-2015222962) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+5. 🗣 Commented on [#1](https://github.com/Learn-Build-Teach/deals-for-devs/pull/1#issuecomment-1987309599) in [Learn-Build-Teach/deals-for-devs](https://github.com/Learn-Build-Teach/deals-for-devs)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
