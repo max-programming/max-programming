@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/cloudinary-community/cloudinary-examples/pull/152#issuecomment-2118760357) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-2. 🗣 Commented on [#151](https://github.com/cloudinary-community/cloudinary-examples/pull/151#issuecomment-2118757475) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-3. 🗣 Commented on [#3](https://github.com/Jcparkyn/phetch/issues/3#issuecomment-2117684950) in [Jcparkyn/phetch](https://github.com/Jcparkyn/phetch)
-4. 🗣 Commented on [#7684](https://github.com/dotnet/razor/issues/7684#issuecomment-2106349831) in [dotnet/razor](https://github.com/dotnet/razor)
-5. ❌ Reopened PR [#152](https://github.com/cloudinary-community/cloudinary-examples/pull/152) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+1. ❌ Closed PR [#151](https://github.com/cloudinary-community/cloudinary-examples/pull/151) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+2. 🗣 Commented on [#152](https://github.com/cloudinary-community/cloudinary-examples/pull/152#issuecomment-2118760357) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+3. 🗣 Commented on [#151](https://github.com/cloudinary-community/cloudinary-examples/pull/151#issuecomment-2118757475) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+4. 🗣 Commented on [#3](https://github.com/Jcparkyn/phetch/issues/3#issuecomment-2117684950) in [Jcparkyn/phetch](https://github.com/Jcparkyn/phetch)
+5. 🗣 Commented on [#7684](https://github.com/dotnet/razor/issues/7684#issuecomment-2106349831) in [dotnet/razor](https://github.com/dotnet/razor)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
