@@ -38,11 +38,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20884](https://github.com/prisma/prisma/issues/20884#issuecomment-2125728464) in [prisma/prisma](https://github.com/prisma/prisma)
-2. 🗣 Commented on [#151](https://github.com/cloudinary-community/cloudinary-examples/pull/151#issuecomment-2124051725) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-3. 💪 Opened PR [#160](https://github.com/cloudinary-community/cloudinary-examples/pull/160) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-4. ❌ Closed PR [#151](https://github.com/cloudinary-community/cloudinary-examples/pull/151) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-5. 🗣 Commented on [#152](https://github.com/cloudinary-community/cloudinary-examples/pull/152#issuecomment-2118760357) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+1. ❗ Opened issue [#374](https://github.com/htmlstreamofficial/preline/issues/374) in [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline)
+2. 🗣 Commented on [#20884](https://github.com/prisma/prisma/issues/20884#issuecomment-2125728464) in [prisma/prisma](https://github.com/prisma/prisma)
+3. 🗣 Commented on [#151](https://github.com/cloudinary-community/cloudinary-examples/pull/151#issuecomment-2124051725) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+4. 💪 Opened PR [#160](https://github.com/cloudinary-community/cloudinary-examples/pull/160) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+5. ❌ Closed PR [#151](https://github.com/cloudinary-community/cloudinary-examples/pull/151) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
