@@ -1,3 +1,5 @@
+[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
+
 <h1 align="center">Hii! My name is Usman</h1>
 <h2 align="center">A passionate Full Stack Developer from India</h2>
 <p align="center" >
