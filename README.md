@@ -40,11 +40,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#179](https://github.com/cloudinary-community/cloudinary-examples/pull/179) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-2. 🗣 Commented on [#177](https://github.com/cloudinary-community/cloudinary-examples/pull/177#issuecomment-2303688308) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-3. 💪 Opened PR [#177](https://github.com/cloudinary-community/cloudinary-examples/pull/177) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-4. 🗣 Commented on [#170](https://github.com/IdoPesok/zsa/issues/170#issuecomment-2279809818) in [IdoPesok/zsa](https://github.com/IdoPesok/zsa)
-5. 🗣 Commented on [#7](https://github.com/codenoid/github-roast/issues/7#issuecomment-2267622182) in [codenoid/github-roast](https://github.com/codenoid/github-roast)
+1. 🗣 Commented on [#211](https://github.com/max-programming/hacktoberfest-projects/issues/211#issuecomment-2336706881) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 💪 Opened PR [#179](https://github.com/cloudinary-community/cloudinary-examples/pull/179) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+3. 🗣 Commented on [#177](https://github.com/cloudinary-community/cloudinary-examples/pull/177#issuecomment-2303688308) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+4. 💪 Opened PR [#177](https://github.com/cloudinary-community/cloudinary-examples/pull/177) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+5. 🗣 Commented on [#170](https://github.com/IdoPesok/zsa/issues/170#issuecomment-2279809818) in [IdoPesok/zsa](https://github.com/IdoPesok/zsa)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
