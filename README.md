@@ -103,11 +103,9 @@ What will you achieve... </p> <br/> <br/>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## Contribution Graph
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=max-programming&theme=github" alt="max-programming" /></p> 
-
 ## GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=max-programming&show_icons=true&theme=react&count_private=true" alt="max-programming" /></p>
+[![usmansme's GitHub | Stats](https://stats.quira.sh/usmansme/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=usmansme)
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=max-programming&show_icons=true&theme=react&count_private=true" alt="max-programming" /></p> -->
 
 ## Top Languages
 <p><img align="left" src="https://github-readme-stats.max-programming.vercel.app/api/top-langs/?username=max-programming&layout=compact&hide=html&theme=react" alt="max-programming" /></p> 
