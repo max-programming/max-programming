@@ -40,11 +40,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#217](https://github.com/max-programming/hacktoberfest-projects/pull/217#issuecomment-2386951199) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#217](https://github.com/max-programming/hacktoberfest-projects/pull/217#issuecomment-2386837948) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#216](https://github.com/max-programming/hacktoberfest-projects/pull/216#issuecomment-2386696506) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#216](https://github.com/max-programming/hacktoberfest-projects/pull/216#issuecomment-2386659267) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#214](https://github.com/max-programming/hacktoberfest-projects/issues/214#issuecomment-2386656974) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#214](https://github.com/max-programming/hacktoberfest-projects/issues/214#issuecomment-2387640210) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🎉 Merged PR [#219](https://github.com/max-programming/hacktoberfest-projects/pull/219) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#217](https://github.com/max-programming/hacktoberfest-projects/pull/217#issuecomment-2387635767) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🎉 Merged PR [#217](https://github.com/max-programming/hacktoberfest-projects/pull/217) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🔒 Closed issue [#218](https://github.com/max-programming/hacktoberfest-projects/issues/218) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
