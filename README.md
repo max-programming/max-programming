@@ -40,11 +40,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#223](https://github.com/max-programming/hacktoberfest-projects/issues/223#issuecomment-2401135462) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#222](https://github.com/max-programming/hacktoberfest-projects/issues/222#issuecomment-2393002581) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#216](https://github.com/max-programming/hacktoberfest-projects/pull/216#issuecomment-2391500564) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#216](https://github.com/max-programming/hacktoberfest-projects/pull/216#issuecomment-2391449880) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#216](https://github.com/max-programming/hacktoberfest-projects/pull/216#issuecomment-2391436077) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. ❌ Closed PR [#224](https://github.com/max-programming/hacktoberfest-projects/pull/224) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#224](https://github.com/max-programming/hacktoberfest-projects/pull/224#issuecomment-2403937653) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#223](https://github.com/max-programming/hacktoberfest-projects/issues/223#issuecomment-2401135462) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#222](https://github.com/max-programming/hacktoberfest-projects/issues/222#issuecomment-2393002581) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#216](https://github.com/max-programming/hacktoberfest-projects/pull/216#issuecomment-2391500564) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
