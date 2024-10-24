@@ -40,11 +40,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#229](https://github.com/max-programming/hacktoberfest-projects/issues/229#issuecomment-2422394926) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#228](https://github.com/max-programming/hacktoberfest-projects/issues/228#issuecomment-2422382073) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#216](https://github.com/max-programming/hacktoberfest-projects/pull/216#issuecomment-2417142647) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🎉 Merged PR [#227](https://github.com/max-programming/hacktoberfest-projects/pull/227) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#226](https://github.com/max-programming/hacktoberfest-projects/pull/226#issuecomment-2417132776) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 💪 Opened PR [#187](https://github.com/cloudinary-community/cloudinary-examples/pull/187) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+2. 🗣 Commented on [#229](https://github.com/max-programming/hacktoberfest-projects/issues/229#issuecomment-2422394926) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#228](https://github.com/max-programming/hacktoberfest-projects/issues/228#issuecomment-2422382073) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#216](https://github.com/max-programming/hacktoberfest-projects/pull/216#issuecomment-2417142647) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🎉 Merged PR [#227](https://github.com/max-programming/hacktoberfest-projects/pull/227) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
