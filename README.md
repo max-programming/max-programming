@@ -40,11 +40,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#216](https://github.com/max-programming/hacktoberfest-projects/pull/216) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#229](https://github.com/max-programming/hacktoberfest-projects/issues/229#issuecomment-2439406571) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 💪 Opened PR [#187](https://github.com/cloudinary-community/cloudinary-examples/pull/187) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
-4. 🗣 Commented on [#229](https://github.com/max-programming/hacktoberfest-projects/issues/229#issuecomment-2422394926) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#228](https://github.com/max-programming/hacktoberfest-projects/issues/228#issuecomment-2422382073) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#187](https://github.com/cloudinary-community/cloudinary-examples/pull/187#issuecomment-2439420068) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+2. ❌ Closed PR [#216](https://github.com/max-programming/hacktoberfest-projects/pull/216) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#229](https://github.com/max-programming/hacktoberfest-projects/issues/229#issuecomment-2439406571) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 💪 Opened PR [#187](https://github.com/cloudinary-community/cloudinary-examples/pull/187) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+5. 🗣 Commented on [#229](https://github.com/max-programming/hacktoberfest-projects/issues/229#issuecomment-2422394926) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
