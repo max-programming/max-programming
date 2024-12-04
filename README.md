@@ -40,10 +40,10 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/VladimirMikulic/route-list/pull/16#issuecomment-2511065610) in [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list)
-2. 🗣 Commented on [#16](https://github.com/VladimirMikulic/route-list/pull/16#issuecomment-2503072203) in [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list)
-3. 💪 Opened PR [#16](https://github.com/VladimirMikulic/route-list/pull/16) in [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list)
-4. 🔒 Closed issue [#228](https://github.com/max-programming/hacktoberfest-projects/issues/228) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#187](https://github.com/cloudinary-community/cloudinary-examples/pull/187#issuecomment-2516407850) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+2. 🗣 Commented on [#16](https://github.com/VladimirMikulic/route-list/pull/16#issuecomment-2511065610) in [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list)
+3. 🗣 Commented on [#16](https://github.com/VladimirMikulic/route-list/pull/16#issuecomment-2503072203) in [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list)
+4. 💪 Opened PR [#16](https://github.com/VladimirMikulic/route-list/pull/16) in [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list)
 5. 🎉 Merged PR [#230](https://github.com/max-programming/hacktoberfest-projects/pull/230) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
