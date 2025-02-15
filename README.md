@@ -40,8 +40,8 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3334](https://github.com/saadeghi/daisyui/pull/3334) in [saadeghi/daisyui](https://github.com/saadeghi/daisyui)
-2. 🗣 Commented on [#187](https://github.com/cloudinary-community/cloudinary-examples/pull/187#issuecomment-2517628530) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
+1. 🎉 Merged PR [#1](https://github.com/max-programming/expense-manager/pull/1) in [max-programming/expense-manager](https://github.com/max-programming/expense-manager)
+2. 💪 Opened PR [#1](https://github.com/max-programming/expense-manager/pull/1) in [max-programming/expense-manager](https://github.com/max-programming/expense-manager)
 3. 💪 Opened PR [#193](https://github.com/cloudinary-community/cloudinary-examples/pull/193) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
 4. 🗣 Commented on [#187](https://github.com/cloudinary-community/cloudinary-examples/pull/187#issuecomment-2516407850) in [cloudinary-community/cloudinary-examples](https://github.com/cloudinary-community/cloudinary-examples)
 5. 🗣 Commented on [#16](https://github.com/VladimirMikulic/route-list/pull/16#issuecomment-2511065610) in [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list)
