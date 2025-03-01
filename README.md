@@ -40,11 +40,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72059](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/72059#issuecomment-2692017320) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 💪 Opened PR [#72059](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/72059) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 🎉 Merged PR [#1](https://github.com/max-programming/expense-manager/pull/1) in [max-programming/expense-manager](https://github.com/max-programming/expense-manager)
-4. 💪 Opened PR [#1](https://github.com/max-programming/expense-manager/pull/1) in [max-programming/expense-manager](https://github.com/max-programming/expense-manager)
-5. 🗣 Commented on [#16](https://github.com/VladimirMikulic/route-list/pull/16#issuecomment-2511065610) in [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list)
+1. 🗣 Commented on [#5155](https://github.com/oven-sh/bun/issues/5155#issuecomment-2692025308) in [oven-sh/bun](https://github.com/oven-sh/bun)
+2. 🗣 Commented on [#72059](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/72059#issuecomment-2692017320) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. 💪 Opened PR [#72059](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/72059) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. 🎉 Merged PR [#1](https://github.com/max-programming/expense-manager/pull/1) in [max-programming/expense-manager](https://github.com/max-programming/expense-manager)
+5. 💪 Opened PR [#1](https://github.com/max-programming/expense-manager/pull/1) in [max-programming/expense-manager](https://github.com/max-programming/expense-manager)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
