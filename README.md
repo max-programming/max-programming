@@ -40,10 +40,10 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/mgks/GitHubTree/pull/1#issuecomment-2787296445) in [mgks/GitHubTree](https://github.com/mgks/GitHubTree)
-2. 💪 Opened PR [#1](https://github.com/mgks/GitHubTree/pull/1) in [mgks/GitHubTree](https://github.com/mgks/GitHubTree)
-3. ❗ Opened issue [#27](https://github.com/Marcisbee/exome/issues/27) in [Marcisbee/exome](https://github.com/Marcisbee/exome)
-4. 🗣 Commented on [#2899](https://github.com/TanStack/router/issues/2899#issuecomment-2710236328) in [TanStack/router](https://github.com/TanStack/router)
+1. 🗣 Commented on [#72459](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/72459#issuecomment-2798518531) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 🗣 Commented on [#1](https://github.com/mgks/GitHubTree/pull/1#issuecomment-2787296445) in [mgks/GitHubTree](https://github.com/mgks/GitHubTree)
+3. 💪 Opened PR [#1](https://github.com/mgks/GitHubTree/pull/1) in [mgks/GitHubTree](https://github.com/mgks/GitHubTree)
+4. ❗ Opened issue [#27](https://github.com/Marcisbee/exome/issues/27) in [Marcisbee/exome](https://github.com/Marcisbee/exome)
 5. 💪 Opened PR [#72059](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/72059) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
