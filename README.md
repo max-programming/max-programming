@@ -40,8 +40,8 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#102](https://github.com/honojs/create-hono/pull/102) in [honojs/create-hono](https://github.com/honojs/create-hono)
-2. 🗣 Commented on [#1](https://github.com/mgks/GitHubTree/pull/1#issuecomment-2787296445) in [mgks/GitHubTree](https://github.com/mgks/GitHubTree)
+1. 💪 Opened PR [#2790](https://github.com/better-auth/better-auth/pull/2790) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 💪 Opened PR [#102](https://github.com/honojs/create-hono/pull/102) in [honojs/create-hono](https://github.com/honojs/create-hono)
 3. 💪 Opened PR [#1](https://github.com/mgks/GitHubTree/pull/1) in [mgks/GitHubTree](https://github.com/mgks/GitHubTree)
 4. ❗ Opened issue [#27](https://github.com/Marcisbee/exome/issues/27) in [Marcisbee/exome](https://github.com/Marcisbee/exome)
 5. 💪 Opened PR [#72059](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/72059) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
