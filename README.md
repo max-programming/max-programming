@@ -40,11 +40,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2288](https://github.com/tailwindlabs/tailwindcss.com/pull/2288) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-2. 💪 Opened PR [#4498](https://github.com/TanStack/router/pull/4498) in [TanStack/router](https://github.com/TanStack/router)
-3. 💪 Opened PR [#7664](https://github.com/shadcn-ui/ui/pull/7664) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-4. 💪 Opened PR [#4674](https://github.com/codesandbox/sandbox-templates/pull/4674) in [codesandbox/sandbox-templates](https://github.com/codesandbox/sandbox-templates)
-5. 💪 Opened PR [#2790](https://github.com/better-auth/better-auth/pull/2790) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 💪 Opened PR [#1](https://github.com/cassidoo/pocketcal/pull/1) in [cassidoo/pocketcal](https://github.com/cassidoo/pocketcal)
+2. 💪 Opened PR [#2288](https://github.com/tailwindlabs/tailwindcss.com/pull/2288) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+3. 💪 Opened PR [#4498](https://github.com/TanStack/router/pull/4498) in [TanStack/router](https://github.com/TanStack/router)
+4. 💪 Opened PR [#7664](https://github.com/shadcn-ui/ui/pull/7664) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+5. 💪 Opened PR [#4674](https://github.com/codesandbox/sandbox-templates/pull/4674) in [codesandbox/sandbox-templates](https://github.com/codesandbox/sandbox-templates)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
