@@ -40,10 +40,10 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4674](https://github.com/codesandbox/sandbox-templates/pull/4674) in [codesandbox/sandbox-templates](https://github.com/codesandbox/sandbox-templates)
-2. 💪 Opened PR [#2790](https://github.com/better-auth/better-auth/pull/2790) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. 💪 Opened PR [#1](https://github.com/mgks/GitHubTree/pull/1) in [mgks/GitHubTree](https://github.com/mgks/GitHubTree)
-4. ❗ Opened issue [#27](https://github.com/Marcisbee/exome/issues/27) in [Marcisbee/exome](https://github.com/Marcisbee/exome)
+1. 💪 Opened PR [#4498](https://github.com/TanStack/router/pull/4498) in [TanStack/router](https://github.com/TanStack/router)
+2. 💪 Opened PR [#7664](https://github.com/shadcn-ui/ui/pull/7664) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+3. 💪 Opened PR [#4674](https://github.com/codesandbox/sandbox-templates/pull/4674) in [codesandbox/sandbox-templates](https://github.com/codesandbox/sandbox-templates)
+4. 💪 Opened PR [#2790](https://github.com/better-auth/better-auth/pull/2790) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 5. 💪 Opened PR [#72059](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/72059) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
