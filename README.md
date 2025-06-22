@@ -40,11 +40,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12970](https://github.com/simple-icons/simple-icons/issues/12970#issuecomment-2993761700) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-2. 💪 Opened PR [#1](https://github.com/cassidoo/pocketcal/pull/1) in [cassidoo/pocketcal](https://github.com/cassidoo/pocketcal)
-3. 💪 Opened PR [#2288](https://github.com/tailwindlabs/tailwindcss.com/pull/2288) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
-4. 💪 Opened PR [#4498](https://github.com/TanStack/router/pull/4498) in [TanStack/router](https://github.com/TanStack/router)
-5. 💪 Opened PR [#7664](https://github.com/shadcn-ui/ui/pull/7664) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+1. 💪 Opened PR [#1](https://github.com/useautumn/docs/pull/1) in [useautumn/docs](https://github.com/useautumn/docs)
+2. 🗣 Commented on [#12970](https://github.com/simple-icons/simple-icons/issues/12970#issuecomment-2993761700) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+3. 💪 Opened PR [#1](https://github.com/cassidoo/pocketcal/pull/1) in [cassidoo/pocketcal](https://github.com/cassidoo/pocketcal)
+4. 💪 Opened PR [#2288](https://github.com/tailwindlabs/tailwindcss.com/pull/2288) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+5. 💪 Opened PR [#4498](https://github.com/TanStack/router/pull/4498) in [TanStack/router](https://github.com/TanStack/router)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
