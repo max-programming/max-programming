@@ -40,11 +40,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3142](https://github.com/better-auth/better-auth/pull/3142) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. 💪 Opened PR [#1](https://github.com/useautumn/docs/pull/1) in [useautumn/docs](https://github.com/useautumn/docs)
-3. 🗣 Commented on [#12970](https://github.com/simple-icons/simple-icons/issues/12970#issuecomment-2993761700) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-4. 💪 Opened PR [#1](https://github.com/cassidoo/pocketcal/pull/1) in [cassidoo/pocketcal](https://github.com/cassidoo/pocketcal)
-5. 💪 Opened PR [#2288](https://github.com/tailwindlabs/tailwindcss.com/pull/2288) in [tailwindlabs/tailwindcss.com](https://github.com/tailwindlabs/tailwindcss.com)
+1. 🗣 Commented on [#1](https://github.com/useautumn/docs/pull/1#issuecomment-2997672573) in [useautumn/docs](https://github.com/useautumn/docs)
+2. 💪 Opened PR [#3142](https://github.com/better-auth/better-auth/pull/3142) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 💪 Opened PR [#1](https://github.com/useautumn/docs/pull/1) in [useautumn/docs](https://github.com/useautumn/docs)
+4. 🗣 Commented on [#12970](https://github.com/simple-icons/simple-icons/issues/12970#issuecomment-2993761700) in [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+5. 💪 Opened PR [#1](https://github.com/cassidoo/pocketcal/pull/1) in [cassidoo/pocketcal](https://github.com/cassidoo/pocketcal)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
