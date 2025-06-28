@@ -40,11 +40,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17407](https://github.com/babel/babel/issues/17407) in [babel/babel](https://github.com/babel/babel)
-2. 💪 Opened PR [#2](https://github.com/useautumn/docs/pull/2) in [useautumn/docs](https://github.com/useautumn/docs)
-3. 🗣 Commented on [#4535](https://github.com/TanStack/router/issues/4535#issuecomment-3015305472) in [TanStack/router](https://github.com/TanStack/router)
-4. 🗣 Commented on [#4542](https://github.com/TanStack/router/issues/4542#issuecomment-3015279751) in [TanStack/router](https://github.com/TanStack/router)
-5. 🗣 Commented on [#1](https://github.com/useautumn/docs/pull/1#issuecomment-2997672573) in [useautumn/docs](https://github.com/useautumn/docs)
+1. 🗣 Commented on [#4535](https://github.com/TanStack/router/issues/4535#issuecomment-3016076846) in [TanStack/router](https://github.com/TanStack/router)
+2. ❗ Opened issue [#17407](https://github.com/babel/babel/issues/17407) in [babel/babel](https://github.com/babel/babel)
+3. 💪 Opened PR [#2](https://github.com/useautumn/docs/pull/2) in [useautumn/docs](https://github.com/useautumn/docs)
+4. 🗣 Commented on [#4535](https://github.com/TanStack/router/issues/4535#issuecomment-3015305472) in [TanStack/router](https://github.com/TanStack/router)
+5. 🗣 Commented on [#4542](https://github.com/TanStack/router/issues/4542#issuecomment-3015279751) in [TanStack/router](https://github.com/TanStack/router)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
