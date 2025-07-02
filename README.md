@@ -40,11 +40,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4549](https://github.com/TanStack/router/pull/4549#issuecomment-3022236700) in [TanStack/router](https://github.com/TanStack/router)
-2. 💪 Opened PR [#4549](https://github.com/TanStack/router/pull/4549) in [TanStack/router](https://github.com/TanStack/router)
-3. 💪 Opened PR [#5](https://github.com/webdevcody/tanstack-course-platform/pull/5) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
-4. 🗣 Commented on [#2](https://github.com/useautumn/docs/pull/2#issuecomment-3016825203) in [useautumn/docs](https://github.com/useautumn/docs)
-5. 🗣 Commented on [#4535](https://github.com/TanStack/router/issues/4535#issuecomment-3016076846) in [TanStack/router](https://github.com/TanStack/router)
+1. 💪 Opened PR [#6](https://github.com/webdevcody/tanstack-course-platform/pull/6) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
+2. 🗣 Commented on [#4549](https://github.com/TanStack/router/pull/4549#issuecomment-3022236700) in [TanStack/router](https://github.com/TanStack/router)
+3. 💪 Opened PR [#4549](https://github.com/TanStack/router/pull/4549) in [TanStack/router](https://github.com/TanStack/router)
+4. 💪 Opened PR [#5](https://github.com/webdevcody/tanstack-course-platform/pull/5) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
+5. 🗣 Commented on [#2](https://github.com/useautumn/docs/pull/2#issuecomment-3016825203) in [useautumn/docs](https://github.com/useautumn/docs)
 <!--END_SECTION:activity-->
 
 ## ▶ My Latest YouTube Videos
