@@ -3,12 +3,8 @@
 <h1 align="center">Hii! My name is Usman</h1>
 <h2 align="center">A passionate Full Stack Developer</h2>
 <p align="center" >
- Hey there! I'm Usman, an enthusiast of web development and programming with a solid skill set in JavaScript, TypeScript and React. I'm also open to remote work, so feel free to contact me. I also run a YouTube channel and a Blog where I share my expertise with others.
+ Hey there! I'm Usman, a full-stack web developer and content creator with a solid skill set in JavaScript, TypeScript and React. I'm open to remote work, so feel free to contact me (contact@usmans.me).
 </p>
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 <!--<p align="center">
 <a href="https://twitter.com/maxprogramming1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maxprogramming1" height="30" width="30" /></a>
@@ -26,14 +22,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,nodejs,prisma,vscode,py,git,github,githubactions,astro,css,tailwind,express,fastapi,firebase,mongodb,supabase,dart,flutter,netlify,vercel" />
   </a>
 
-<br>
-<br>
-
-## My Badge Board
-
-[![@maxprogramming's Holopin board](https://holopin.me/maxprogramming)](https://holopin.io/@maxprogramming)
-
-
 <br />
 <br />
 
@@ -46,6 +34,13 @@
 4. 💪 Opened PR [#5](https://github.com/webdevcody/tanstack-course-platform/pull/5) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
 5. 🗣 Commented on [#2](https://github.com/useautumn/docs/pull/2#issuecomment-3016825203) in [useautumn/docs](https://github.com/useautumn/docs)
 <!--END_SECTION:activity-->
+
+<br>
+<br>
+
+## My Badge Board
+
+[![@maxprogramming's Holopin board](https://holopin.me/maxprogramming)](https://holopin.io/@maxprogramming)
 
 ## ▶ My Latest YouTube Videos
 <!-- BEGIN YOUTUBE-CARDS -->
