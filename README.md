@@ -28,11 +28,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/hainguyents13/mechvibes-dx/pull/24#issuecomment-3040395475) in [hainguyents13/mechvibes-dx](https://github.com/hainguyents13/mechvibes-dx)
-2. 💪 Opened PR [#6](https://github.com/webdevcody/tanstack-course-platform/pull/6) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
-3. 🗣 Commented on [#4549](https://github.com/TanStack/router/pull/4549#issuecomment-3022236700) in [TanStack/router](https://github.com/TanStack/router)
-4. 💪 Opened PR [#4549](https://github.com/TanStack/router/pull/4549) in [TanStack/router](https://github.com/TanStack/router)
-5. 💪 Opened PR [#5](https://github.com/webdevcody/tanstack-course-platform/pull/5) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
+1. ❗ Opened issue [#4585](https://github.com/TanStack/router/issues/4585) in [TanStack/router](https://github.com/TanStack/router)
+2. 🗣 Commented on [#24](https://github.com/hainguyents13/mechvibes-dx/pull/24#issuecomment-3040395475) in [hainguyents13/mechvibes-dx](https://github.com/hainguyents13/mechvibes-dx)
+3. 💪 Opened PR [#6](https://github.com/webdevcody/tanstack-course-platform/pull/6) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
+4. 🗣 Commented on [#4549](https://github.com/TanStack/router/pull/4549#issuecomment-3022236700) in [TanStack/router](https://github.com/TanStack/router)
+5. 💪 Opened PR [#4549](https://github.com/TanStack/router/pull/4549) in [TanStack/router](https://github.com/TanStack/router)
 <!--END_SECTION:activity-->
 
 <br>
