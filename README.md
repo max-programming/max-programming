@@ -28,11 +28,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4585](https://github.com/TanStack/router/issues/4585#issuecomment-3044861657) in [TanStack/router](https://github.com/TanStack/router)
-2. 🗣 Commented on [#4587](https://github.com/TanStack/router/pull/4587#issuecomment-3044861057) in [TanStack/router](https://github.com/TanStack/router)
-3. 💪 Opened PR [#4587](https://github.com/TanStack/router/pull/4587) in [TanStack/router](https://github.com/TanStack/router)
-4. 🎉 Merged PR [#1](https://github.com/max-programming/whim/pull/1) in [max-programming/whim](https://github.com/max-programming/whim)
-5. 🗣 Commented on [#1](https://github.com/max-programming/whim/pull/1#issuecomment-3043967585) in [max-programming/whim](https://github.com/max-programming/whim)
+1. 🎉 Merged PR [#1](https://github.com/max-programming/stackit/pull/1) in [max-programming/stackit](https://github.com/max-programming/stackit)
+2. 💪 Opened PR [#1](https://github.com/max-programming/stackit/pull/1) in [max-programming/stackit](https://github.com/max-programming/stackit)
+3. 🗣 Commented on [#4585](https://github.com/TanStack/router/issues/4585#issuecomment-3044861657) in [TanStack/router](https://github.com/TanStack/router)
+4. 🗣 Commented on [#4587](https://github.com/TanStack/router/pull/4587#issuecomment-3044861057) in [TanStack/router](https://github.com/TanStack/router)
+5. 💪 Opened PR [#4587](https://github.com/TanStack/router/pull/4587) in [TanStack/router](https://github.com/TanStack/router)
 <!--END_SECTION:activity-->
 
 <br>
