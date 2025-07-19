@@ -20,8 +20,6 @@
     <img src="https://skillicons.dev/icons?i=js,ts,nextjs,react,vite,nodejs,prisma,vscode,py,git,github,githubactions,astro,css,tailwind,express,fastapi,firebase,mongodb,supabase,dart,flutter,netlify,vercel" />
   </a>
 
-<br />
-<br />
 
   <summary>⚡ Recent Github Activity</summary>
 
@@ -33,8 +31,6 @@
 5. 💪 Opened PR [#1](https://github.com/max-programming/stackit/pull/1) in [max-programming/stackit](https://github.com/max-programming/stackit)
 <!--END_SECTION:activity-->
 
-<br>
-<br>
 
 ## My Badge Board
 
