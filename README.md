@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#619](https://github.com/sdorra/content-collections/pull/619) in [sdorra/content-collections](https://github.com/sdorra/content-collections)
-2. 💪 Opened PR [#3](https://github.com/max-programming/whim/pull/3) in [max-programming/whim](https://github.com/max-programming/whim)
-3. 🗣 Commented on [#4729](https://github.com/TanStack/router/issues/4729#issuecomment-3098000630) in [TanStack/router](https://github.com/TanStack/router)
-4. 🗣 Commented on [#4729](https://github.com/TanStack/router/issues/4729#issuecomment-3097993892) in [TanStack/router](https://github.com/TanStack/router)
-5. 🎉 Merged PR [#2](https://github.com/max-programming/whim/pull/2) in [max-programming/whim](https://github.com/max-programming/whim)
+1. 🗣 Commented on [#4587](https://github.com/TanStack/router/pull/4587#issuecomment-3124118512) in [TanStack/router](https://github.com/TanStack/router)
+2. 💪 Opened PR [#619](https://github.com/sdorra/content-collections/pull/619) in [sdorra/content-collections](https://github.com/sdorra/content-collections)
+3. 💪 Opened PR [#3](https://github.com/max-programming/whim/pull/3) in [max-programming/whim](https://github.com/max-programming/whim)
+4. 🗣 Commented on [#4729](https://github.com/TanStack/router/issues/4729#issuecomment-3098000630) in [TanStack/router](https://github.com/TanStack/router)
+5. 🗣 Commented on [#4729](https://github.com/TanStack/router/issues/4729#issuecomment-3097993892) in [TanStack/router](https://github.com/TanStack/router)
 <!--END_SECTION:activity-->
 
 
