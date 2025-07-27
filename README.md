@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4587](https://github.com/TanStack/router/pull/4587#issuecomment-3124151495) in [TanStack/router](https://github.com/TanStack/router)
-2. 🗣 Commented on [#4587](https://github.com/TanStack/router/pull/4587#issuecomment-3124118512) in [TanStack/router](https://github.com/TanStack/router)
-3. 💪 Opened PR [#619](https://github.com/sdorra/content-collections/pull/619) in [sdorra/content-collections](https://github.com/sdorra/content-collections)
-4. 💪 Opened PR [#3](https://github.com/max-programming/whim/pull/3) in [max-programming/whim](https://github.com/max-programming/whim)
-5. 🗣 Commented on [#4729](https://github.com/TanStack/router/issues/4729#issuecomment-3098000630) in [TanStack/router](https://github.com/TanStack/router)
+1. ❗ Opened issue [#1](https://github.com/max-programming/drizzle-query-logger/issues/1) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+2. 🗣 Commented on [#4587](https://github.com/TanStack/router/pull/4587#issuecomment-3124151495) in [TanStack/router](https://github.com/TanStack/router)
+3. 🗣 Commented on [#4587](https://github.com/TanStack/router/pull/4587#issuecomment-3124118512) in [TanStack/router](https://github.com/TanStack/router)
+4. 💪 Opened PR [#619](https://github.com/sdorra/content-collections/pull/619) in [sdorra/content-collections](https://github.com/sdorra/content-collections)
+5. 💪 Opened PR [#3](https://github.com/max-programming/whim/pull/3) in [max-programming/whim](https://github.com/max-programming/whim)
 <!--END_SECTION:activity-->
 
 
