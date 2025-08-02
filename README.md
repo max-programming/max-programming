@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/webdevcody/tanstack-course-platform/pull/7#issuecomment-3127236123) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
-2. 💪 Opened PR [#7](https://github.com/webdevcody/tanstack-course-platform/pull/7) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
-3. ❗ Opened issue [#1](https://github.com/max-programming/drizzle-query-logger/issues/1) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-4. 🗣 Commented on [#4587](https://github.com/TanStack/router/pull/4587#issuecomment-3124151495) in [TanStack/router](https://github.com/TanStack/router)
-5. 🗣 Commented on [#4587](https://github.com/TanStack/router/pull/4587#issuecomment-3124118512) in [TanStack/router](https://github.com/TanStack/router)
+1. 🗣 Commented on [#232](https://github.com/max-programming/hacktoberfest-projects/pull/232#issuecomment-3146578966) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#7](https://github.com/webdevcody/tanstack-course-platform/pull/7#issuecomment-3127236123) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
+3. 💪 Opened PR [#7](https://github.com/webdevcody/tanstack-course-platform/pull/7) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
+4. ❗ Opened issue [#1](https://github.com/max-programming/drizzle-query-logger/issues/1) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+5. 🗣 Commented on [#4587](https://github.com/TanStack/router/pull/4587#issuecomment-3124151495) in [TanStack/router](https://github.com/TanStack/router)
 <!--END_SECTION:activity-->
 
 
