@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#232](https://github.com/max-programming/hacktoberfest-projects/pull/232#issuecomment-3146690117) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#232](https://github.com/max-programming/hacktoberfest-projects/pull/232#issuecomment-3146578966) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#7](https://github.com/webdevcody/tanstack-course-platform/pull/7#issuecomment-3127236123) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
-4. 💪 Opened PR [#7](https://github.com/webdevcody/tanstack-course-platform/pull/7) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
-5. ❗ Opened issue [#1](https://github.com/max-programming/drizzle-query-logger/issues/1) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+1. 🎉 Merged PR [#232](https://github.com/max-programming/hacktoberfest-projects/pull/232) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#232](https://github.com/max-programming/hacktoberfest-projects/pull/232#issuecomment-3148425775) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#232](https://github.com/max-programming/hacktoberfest-projects/pull/232#issuecomment-3146690117) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#232](https://github.com/max-programming/hacktoberfest-projects/pull/232#issuecomment-3146578966) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#7](https://github.com/webdevcody/tanstack-course-platform/pull/7#issuecomment-3127236123) in [webdevcody/tanstack-course-platform](https://github.com/webdevcody/tanstack-course-platform)
 <!--END_SECTION:activity-->
 
 
