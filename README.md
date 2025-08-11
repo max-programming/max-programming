@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/max-programming/globe-trotter/pull/3) in [max-programming/globe-trotter](https://github.com/max-programming/globe-trotter)
-2. 🎉 Merged PR [#1](https://github.com/max-programming/globe-trotter/pull/1) in [max-programming/globe-trotter](https://github.com/max-programming/globe-trotter)
-3. 💪 Opened PR [#1](https://github.com/max-programming/globe-trotter/pull/1) in [max-programming/globe-trotter](https://github.com/max-programming/globe-trotter)
-4. 🎉 Merged PR [#3](https://github.com/max-programming/whim/pull/3) in [max-programming/whim](https://github.com/max-programming/whim)
-5. ❌ Closed PR [#4](https://github.com/max-programming/whim/pull/4) in [max-programming/whim](https://github.com/max-programming/whim)
+1. 🎉 Merged PR [#4](https://github.com/max-programming/globe-trotter/pull/4) in [max-programming/globe-trotter](https://github.com/max-programming/globe-trotter)
+2. 💪 Opened PR [#4](https://github.com/max-programming/globe-trotter/pull/4) in [max-programming/globe-trotter](https://github.com/max-programming/globe-trotter)
+3. 💪 Opened PR [#3](https://github.com/max-programming/globe-trotter/pull/3) in [max-programming/globe-trotter](https://github.com/max-programming/globe-trotter)
+4. 🎉 Merged PR [#1](https://github.com/max-programming/globe-trotter/pull/1) in [max-programming/globe-trotter](https://github.com/max-programming/globe-trotter)
+5. 💪 Opened PR [#1](https://github.com/max-programming/globe-trotter/pull/1) in [max-programming/globe-trotter](https://github.com/max-programming/globe-trotter)
 <!--END_SECTION:activity-->
 
 
