@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/max-programming/whim/pull/3) in [max-programming/whim](https://github.com/max-programming/whim)
-2. ❌ Closed PR [#4](https://github.com/max-programming/whim/pull/4) in [max-programming/whim](https://github.com/max-programming/whim)
-3. 💪 Opened PR [#4](https://github.com/max-programming/whim/pull/4) in [max-programming/whim](https://github.com/max-programming/whim)
-4. 🗣 Commented on [#73404](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/73404#issuecomment-3151853313) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. 💪 Opened PR [#73404](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/73404) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. 🎉 Merged PR [#1](https://github.com/max-programming/globe-trotter/pull/1) in [max-programming/globe-trotter](https://github.com/max-programming/globe-trotter)
+2. 💪 Opened PR [#1](https://github.com/max-programming/globe-trotter/pull/1) in [max-programming/globe-trotter](https://github.com/max-programming/globe-trotter)
+3. 🎉 Merged PR [#3](https://github.com/max-programming/whim/pull/3) in [max-programming/whim](https://github.com/max-programming/whim)
+4. ❌ Closed PR [#4](https://github.com/max-programming/whim/pull/4) in [max-programming/whim](https://github.com/max-programming/whim)
+5. 💪 Opened PR [#4](https://github.com/max-programming/whim/pull/4) in [max-programming/whim](https://github.com/max-programming/whim)
 <!--END_SECTION:activity-->
 
 
