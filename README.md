@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#231](https://github.com/max-programming/hacktoberfest-projects/issues/231#issuecomment-3209090700) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#6](https://github.com/max-programming/whim/pull/6#issuecomment-3185160173) in [max-programming/whim](https://github.com/max-programming/whim)
-3. 💪 Opened PR [#179](https://github.com/nodejs/userland-migrations/pull/179) in [nodejs/userland-migrations](https://github.com/nodejs/userland-migrations)
-4. 🗣 Commented on [#174](https://github.com/nodejs/userland-migrations/issues/174#issuecomment-3184424989) in [nodejs/userland-migrations](https://github.com/nodejs/userland-migrations)
-5. 🗣 Commented on [#177](https://github.com/nodejs/userland-migrations/pull/177#issuecomment-3184394683) in [nodejs/userland-migrations](https://github.com/nodejs/userland-migrations)
+1. 🗣 Commented on [#73404](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/73404#issuecomment-3214032458) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 🗣 Commented on [#231](https://github.com/max-programming/hacktoberfest-projects/issues/231#issuecomment-3209090700) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#6](https://github.com/max-programming/whim/pull/6#issuecomment-3185160173) in [max-programming/whim](https://github.com/max-programming/whim)
+4. 💪 Opened PR [#179](https://github.com/nodejs/userland-migrations/pull/179) in [nodejs/userland-migrations](https://github.com/nodejs/userland-migrations)
+5. 🗣 Commented on [#174](https://github.com/nodejs/userland-migrations/issues/174#issuecomment-3184424989) in [nodejs/userland-migrations](https://github.com/nodejs/userland-migrations)
 <!--END_SECTION:activity-->
 
 
