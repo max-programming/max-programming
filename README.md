@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1100](https://github.com/47ng/nuqs/pull/1100#issuecomment-3248907272) in [47ng/nuqs](https://github.com/47ng/nuqs)
-2. 🗣 Commented on [#11031](https://github.com/cli/cli/issues/11031#issuecomment-3246182748) in [cli/cli](https://github.com/cli/cli)
-3. 🗣 Commented on [#11639](https://github.com/cli/cli/pull/11639#issuecomment-3246082997) in [cli/cli](https://github.com/cli/cli)
-4. ❗ Opened issue [#11640](https://github.com/cli/cli/issues/11640) in [cli/cli](https://github.com/cli/cli)
-5. 💪 Opened PR [#11639](https://github.com/cli/cli/pull/11639) in [cli/cli](https://github.com/cli/cli)
+1. 🗣 Commented on [#1](https://github.com/max-programming/drizzle-query-logger/issues/1#issuecomment-3249435433) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+2. 🗣 Commented on [#1100](https://github.com/47ng/nuqs/pull/1100#issuecomment-3248907272) in [47ng/nuqs](https://github.com/47ng/nuqs)
+3. 🗣 Commented on [#11031](https://github.com/cli/cli/issues/11031#issuecomment-3246182748) in [cli/cli](https://github.com/cli/cli)
+4. 🗣 Commented on [#11639](https://github.com/cli/cli/pull/11639#issuecomment-3246082997) in [cli/cli](https://github.com/cli/cli)
+5. ❗ Opened issue [#11640](https://github.com/cli/cli/issues/11640) in [cli/cli](https://github.com/cli/cli)
 <!--END_SECTION:activity-->
 
 
