@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/max-programming/drizzle-query-logger/pull/4#issuecomment-3254103724) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-2. 🗣 Commented on [#1100](https://github.com/47ng/nuqs/pull/1100#issuecomment-3250097885) in [47ng/nuqs](https://github.com/47ng/nuqs)
-3. 🗣 Commented on [#1](https://github.com/max-programming/drizzle-query-logger/issues/1#issuecomment-3249435433) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-4. 🗣 Commented on [#1100](https://github.com/47ng/nuqs/pull/1100#issuecomment-3248907272) in [47ng/nuqs](https://github.com/47ng/nuqs)
-5. 🗣 Commented on [#11031](https://github.com/cli/cli/issues/11031#issuecomment-3246182748) in [cli/cli](https://github.com/cli/cli)
+1. 🔒 Closed issue [#3](https://github.com/max-programming/drizzle-query-logger/issues/3) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+2. 🎉 Merged PR [#4](https://github.com/max-programming/drizzle-query-logger/pull/4) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+3. 🗣 Commented on [#4](https://github.com/max-programming/drizzle-query-logger/pull/4#issuecomment-3255128361) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+4. 🗣 Commented on [#4](https://github.com/max-programming/drizzle-query-logger/pull/4#issuecomment-3254103724) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+5. 🗣 Commented on [#1100](https://github.com/47ng/nuqs/pull/1100#issuecomment-3250097885) in [47ng/nuqs](https://github.com/47ng/nuqs)
 <!--END_SECTION:activity-->
 
 
