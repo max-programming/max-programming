@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#3](https://github.com/max-programming/drizzle-query-logger/issues/3) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-2. 🎉 Merged PR [#4](https://github.com/max-programming/drizzle-query-logger/pull/4) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-3. 🗣 Commented on [#4](https://github.com/max-programming/drizzle-query-logger/pull/4#issuecomment-3255128361) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-4. 🗣 Commented on [#4](https://github.com/max-programming/drizzle-query-logger/pull/4#issuecomment-3254103724) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-5. 🗣 Commented on [#1100](https://github.com/47ng/nuqs/pull/1100#issuecomment-3250097885) in [47ng/nuqs](https://github.com/47ng/nuqs)
+1. 🗣 Commented on [#2](https://github.com/max-programming/drizzle-query-logger/issues/2#issuecomment-3261507739) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+2. 🔒 Closed issue [#3](https://github.com/max-programming/drizzle-query-logger/issues/3) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+3. 🎉 Merged PR [#4](https://github.com/max-programming/drizzle-query-logger/pull/4) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+4. 🗣 Commented on [#4](https://github.com/max-programming/drizzle-query-logger/pull/4#issuecomment-3255128361) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+5. 🗣 Commented on [#4](https://github.com/max-programming/drizzle-query-logger/pull/4#issuecomment-3254103724) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
 <!--END_SECTION:activity-->
 
 
