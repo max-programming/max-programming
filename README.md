@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/max-programming/drizzle-query-logger/issues/2#issuecomment-3261518796) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-2. 🗣 Commented on [#2](https://github.com/max-programming/drizzle-query-logger/issues/2#issuecomment-3261507739) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-3. 🔒 Closed issue [#3](https://github.com/max-programming/drizzle-query-logger/issues/3) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-4. 🎉 Merged PR [#4](https://github.com/max-programming/drizzle-query-logger/pull/4) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-5. 🗣 Commented on [#4](https://github.com/max-programming/drizzle-query-logger/pull/4#issuecomment-3255128361) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+1. 🔒 Closed issue [#1](https://github.com/max-programming/auth-creds-tutorial/issues/1) in [max-programming/auth-creds-tutorial](https://github.com/max-programming/auth-creds-tutorial)
+2. 🗣 Commented on [#177](https://github.com/nodejs/userland-migrations/pull/177#issuecomment-3297094949) in [nodejs/userland-migrations](https://github.com/nodejs/userland-migrations)
+3. 🗣 Commented on [#5831](https://github.com/warpdotdev/Warp/issues/5831#issuecomment-3267485639) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+4. 🗣 Commented on [#3045](https://github.com/warpdotdev/Warp/issues/3045#issuecomment-3267419930) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+5. 🗣 Commented on [#7134](https://github.com/warpdotdev/Warp/issues/7134#issuecomment-3267399385) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
 <!--END_SECTION:activity-->
 
 
