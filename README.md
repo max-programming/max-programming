@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/max-programming/auth-creds-tutorial/issues/1) in [max-programming/auth-creds-tutorial](https://github.com/max-programming/auth-creds-tutorial)
-2. 🗣 Commented on [#2](https://github.com/max-programming/drizzle-query-logger/issues/2#issuecomment-3261518796) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-3. 🗣 Commented on [#2](https://github.com/max-programming/drizzle-query-logger/issues/2#issuecomment-3261507739) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-4. 🔒 Closed issue [#3](https://github.com/max-programming/drizzle-query-logger/issues/3) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-5. 🎉 Merged PR [#4](https://github.com/max-programming/drizzle-query-logger/pull/4) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+1. 🗣 Commented on [#237](https://github.com/max-programming/hacktoberfest-projects/issues/237#issuecomment-3368863914) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#236](https://github.com/max-programming/hacktoberfest-projects/issues/236#issuecomment-3368863685) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#238](https://github.com/max-programming/hacktoberfest-projects/issues/238#issuecomment-3368861213) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🔒 Closed issue [#1](https://github.com/max-programming/auth-creds-tutorial/issues/1) in [max-programming/auth-creds-tutorial](https://github.com/max-programming/auth-creds-tutorial)
+5. 🗣 Commented on [#2](https://github.com/max-programming/drizzle-query-logger/issues/2#issuecomment-3261518796) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
 <!--END_SECTION:activity-->
 
 
