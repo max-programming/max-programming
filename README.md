@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#237](https://github.com/max-programming/hacktoberfest-projects/issues/237#issuecomment-3368863914) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#236](https://github.com/max-programming/hacktoberfest-projects/issues/236#issuecomment-3368863685) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#238](https://github.com/max-programming/hacktoberfest-projects/issues/238#issuecomment-3368861213) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🔒 Closed issue [#1](https://github.com/max-programming/auth-creds-tutorial/issues/1) in [max-programming/auth-creds-tutorial](https://github.com/max-programming/auth-creds-tutorial)
-5. 🗣 Commented on [#2](https://github.com/max-programming/drizzle-query-logger/issues/2#issuecomment-3261518796) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+1. 🗣 Commented on [#97](https://github.com/max-programming/hacktoberfest-projects/issues/97#issuecomment-3369126065) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🎉 Merged PR [#233](https://github.com/max-programming/hacktoberfest-projects/pull/233) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#96](https://github.com/max-programming/hacktoberfest-projects/pull/96#issuecomment-3369124502) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. ❌ Closed PR [#96](https://github.com/max-programming/hacktoberfest-projects/pull/96) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#236](https://github.com/max-programming/hacktoberfest-projects/issues/236#issuecomment-3369123339) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 
