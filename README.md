@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#235](https://github.com/max-programming/hacktoberfest-projects/issues/235) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#231](https://github.com/max-programming/hacktoberfest-projects/issues/231#issuecomment-3400425861) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🔒 Closed issue [#214](https://github.com/max-programming/hacktoberfest-projects/issues/214) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#240](https://github.com/max-programming/hacktoberfest-projects/issues/240#issuecomment-3400401966) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#240](https://github.com/max-programming/hacktoberfest-projects/issues/240#issuecomment-3400375412) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#97](https://github.com/max-programming/hacktoberfest-projects/issues/97#issuecomment-3400433323) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#235](https://github.com/max-programming/hacktoberfest-projects/issues/235#issuecomment-3400429346) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🔒 Closed issue [#235](https://github.com/max-programming/hacktoberfest-projects/issues/235) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#231](https://github.com/max-programming/hacktoberfest-projects/issues/231#issuecomment-3400425861) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🔒 Closed issue [#214](https://github.com/max-programming/hacktoberfest-projects/issues/214) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 
