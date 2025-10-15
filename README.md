@@ -24,11 +24,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#244](https://github.com/max-programming/hacktoberfest-projects/pull/244#issuecomment-3404783788) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#97](https://github.com/max-programming/hacktoberfest-projects/issues/97#issuecomment-3400433323) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3.  Unassigned issue [#97](https://github.com/max-programming/hacktoberfest-projects/issues/97) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#235](https://github.com/max-programming/hacktoberfest-projects/issues/235#issuecomment-3400429346) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🔒 Closed issue [#235](https://github.com/max-programming/hacktoberfest-projects/issues/235) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#244](https://github.com/max-programming/hacktoberfest-projects/pull/244#issuecomment-3404921860) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🔒 Closed issue [#108](https://github.com/max-programming/hacktoberfest-projects/issues/108) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#244](https://github.com/max-programming/hacktoberfest-projects/pull/244#issuecomment-3404783788) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#97](https://github.com/max-programming/hacktoberfest-projects/issues/97#issuecomment-3400433323) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5.  Unassigned issue [#97](https://github.com/max-programming/hacktoberfest-projects/issues/97) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 
