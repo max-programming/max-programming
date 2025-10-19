@@ -1,5 +1,3 @@
-[![Ceasefire Now](https://badge.techforpalestine.org/ceasefire-now)](https://techforpalestine.org/learn-more)
-
 <p align="center" >
  Hey there! I'm Usman, a full-stack web developer and content creator with a solid skill set in JavaScript, TypeScript and React. I'm open to remote work, so feel free to contact me (contact@usmans.me).
 </p>
