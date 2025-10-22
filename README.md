@@ -22,11 +22,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#498](https://github.com/supermemoryai/supermemory/pull/498#issuecomment-3431354285) in [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
-2. 🗣 Commented on [#251](https://github.com/max-programming/hacktoberfest-projects/pull/251#issuecomment-3424836899) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#498](https://github.com/supermemoryai/supermemory/pull/498#issuecomment-3424817166) in [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
-4. 🗣 Commented on [#251](https://github.com/max-programming/hacktoberfest-projects/pull/251#issuecomment-3419753270) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 💪 Opened PR [#498](undefined) in [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+1. ❗ Opened issue [#5482](https://github.com/better-auth/better-auth/issues/5482) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+2. 💪 Opened PR [#5481](undefined) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+3. 🗣 Commented on [#498](https://github.com/supermemoryai/supermemory/pull/498#issuecomment-3431354285) in [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
+4. 🗣 Commented on [#251](https://github.com/max-programming/hacktoberfest-projects/pull/251#issuecomment-3424836899) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#498](https://github.com/supermemoryai/supermemory/pull/498#issuecomment-3424817166) in [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory)
 <!--END_SECTION:activity-->
 
 
