@@ -22,11 +22,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5482](https://github.com/better-auth/better-auth/issues/5482#issuecomment-3433093733) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-2. 💪 Opened PR [#5491](undefined) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-3. 💪 Opened PR [#5488](undefined) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-4. ❌ Closed PR [#5481](undefined) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 🗣 Commented on [#5481](https://github.com/better-auth/better-auth/pull/5481#issuecomment-3433058998) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1.  Labeled issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2.  Labeled issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. ❗ Opened issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#5482](https://github.com/better-auth/better-auth/issues/5482#issuecomment-3433093733) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+5. 💪 Opened PR [#5491](undefined) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
 <!--END_SECTION:activity-->
 
 
