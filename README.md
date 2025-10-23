@@ -22,11 +22,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252#issuecomment-3435955925) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2.  Assigned issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3.  Assigned issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4.  Labeled issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5.  Labeled issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#251](https://github.com/max-programming/hacktoberfest-projects/pull/251#issuecomment-3436183740) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. ❌ Closed PR [#251](undefined) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252#issuecomment-3435955925) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4.  Assigned issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5.  Assigned issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 
