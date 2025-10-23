@@ -1,5 +1,5 @@
 <p align="center" >
- Hey there! I'm Usman, a full-stack web developer and content creator with a solid skill set in JavaScript, TypeScript and React. I'm open to remote work, so feel free to contact me (contact@usmans.me).
+ Hey there! I'm Usman, a full-stack web developer and content creator with a solid skill set in JavaScript, TypeScript, React and Go. I like to code, build, teach and contribute to open-source projects. Hit me up anytime on my [email](contact@usmans.me) or [discord](https://discord.com/users/691360911440609290)
 </p>
 
 <!--<p align="center">
