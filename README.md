@@ -22,11 +22,11 @@
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2.  Labeled issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. ❗ Opened issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#5482](https://github.com/better-auth/better-auth/issues/5482#issuecomment-3433093733) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
-5. 💪 Opened PR [#5491](undefined) in [better-auth/better-auth](https://github.com/better-auth/better-auth)
+1. 🗣 Commented on [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252#issuecomment-3435955925) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2.  Assigned issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3.  Assigned issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4.  Labeled issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5.  Labeled issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 
