@@ -1,6 +1,5 @@
-<p align="center" >
- Hey there! I'm Usman, a full-stack web developer and content creator with a solid skill set in JavaScript, TypeScript, React and Go. I like to code, build, teach and contribute to open-source projects. Hit me up anytime on my [email](mailto:contact@usmans.me) or [discord](https://discord.com/users/691360911440609290)
-</p>
+
+Hey there! I'm Usman, a full-stack web developer and content creator with a solid skill set in JavaScript, TypeScript, React and Go. I like to code, build, teach and contribute to open-source projects. Hit me up anytime on my [email](mailto:contact@usmans.me) or [discord](https://discord.com/users/691360911440609290)
 
 <!--<p align="center">
 <a href="https://twitter.com/maxprogramming1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maxprogramming1" height="30" width="30" /></a>
