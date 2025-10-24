@@ -21,10 +21,10 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#251](https://github.com/max-programming/hacktoberfest-projects/pull/251#issuecomment-3436183740) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. ❌ Closed PR [#251](undefined) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252#issuecomment-3435955925) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4.  Assigned issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#177](https://github.com/nodejs/userland-migrations/pull/177#issuecomment-3443023205) in [nodejs/userland-migrations](https://github.com/nodejs/userland-migrations)
+2. 🗣 Commented on [#251](https://github.com/max-programming/hacktoberfest-projects/pull/251#issuecomment-3436183740) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. ❌ Closed PR [#251](undefined) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252#issuecomment-3435955925) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 5.  Assigned issue [#252](https://github.com/max-programming/hacktoberfest-projects/issues/252) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
