@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [izadoesdev/keypal](https://github.com/izadoesdev/keypal)
-2. ❗ Opened issue [#3](https://github.com/adolfousier/neura-hustle-tracker/issues/3) in [adolfousier/neura-hustle-tracker](https://github.com/adolfousier/neura-hustle-tracker)
-3. 💪 Opened PR [#2](undefined) in [adolfousier/neura-hustle-tracker](https://github.com/adolfousier/neura-hustle-tracker)
-4. 🗣 Commented on [#177](https://github.com/nodejs/userland-migrations/pull/177#issuecomment-3443023205) in [nodejs/userland-migrations](https://github.com/nodejs/userland-migrations)
-5. 🗣 Commented on [#251](https://github.com/max-programming/hacktoberfest-projects/pull/251#issuecomment-3436183740) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#1](https://github.com/izadoesdev/keypal/pull/1#issuecomment-3446276754) in [izadoesdev/keypal](https://github.com/izadoesdev/keypal)
+2. 💪 Opened PR [#1](undefined) in [izadoesdev/keypal](https://github.com/izadoesdev/keypal)
+3. ❗ Opened issue [#3](https://github.com/adolfousier/neura-hustle-tracker/issues/3) in [adolfousier/neura-hustle-tracker](https://github.com/adolfousier/neura-hustle-tracker)
+4. 💪 Opened PR [#2](undefined) in [adolfousier/neura-hustle-tracker](https://github.com/adolfousier/neura-hustle-tracker)
+5. 🗣 Commented on [#177](https://github.com/nodejs/userland-migrations/pull/177#issuecomment-3443023205) in [nodejs/userland-migrations](https://github.com/nodejs/userland-migrations)
 <!--END_SECTION:activity-->
 
 
