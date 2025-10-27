@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#98](undefined) in [rapideditor/temaki](https://github.com/rapideditor/temaki)
-2. 🗣 Commented on [#251](https://github.com/max-programming/hacktoberfest-projects/pull/251#issuecomment-3448842368) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🗣 Commented on [#2](https://github.com/izadoesdev/keypal/pull/2#issuecomment-3448266204) in [izadoesdev/keypal](https://github.com/izadoesdev/keypal)
-4. 🗣 Commented on [#36345](https://github.com/Azure/azure-sdk-for-js/pull/36345#issuecomment-3448143862) in [Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-5. 🗣 Commented on [#56321](https://github.com/nodejs/node/issues/56321#issuecomment-3448137877) in [nodejs/node](https://github.com/nodejs/node)
+1. 💪 Opened PR [#465](undefined) in [gofiber/docs](https://github.com/gofiber/docs)
+2. 🗣 Commented on [#98](https://github.com/rapideditor/temaki/pull/98#issuecomment-3450942593) in [rapideditor/temaki](https://github.com/rapideditor/temaki)
+3. 💪 Opened PR [#98](undefined) in [rapideditor/temaki](https://github.com/rapideditor/temaki)
+4. 🗣 Commented on [#251](https://github.com/max-programming/hacktoberfest-projects/pull/251#issuecomment-3448842368) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#2](https://github.com/izadoesdev/keypal/pull/2#issuecomment-3448266204) in [izadoesdev/keypal](https://github.com/izadoesdev/keypal)
 <!--END_SECTION:activity-->
 
 
