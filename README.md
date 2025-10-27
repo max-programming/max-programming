@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#465](undefined) in [gofiber/docs](https://github.com/gofiber/docs)
-2. 🗣 Commented on [#98](https://github.com/rapideditor/temaki/pull/98#issuecomment-3450942593) in [rapideditor/temaki](https://github.com/rapideditor/temaki)
-3. 💪 Opened PR [#98](undefined) in [rapideditor/temaki](https://github.com/rapideditor/temaki)
-4. 🗣 Commented on [#251](https://github.com/max-programming/hacktoberfest-projects/pull/251#issuecomment-3448842368) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#2](https://github.com/izadoesdev/keypal/pull/2#issuecomment-3448266204) in [izadoesdev/keypal](https://github.com/izadoesdev/keypal)
+1. 💪 Opened PR [#42](undefined) in [garronej/tsafe](https://github.com/garronej/tsafe)
+2. 🗣 Commented on [#465](https://github.com/gofiber/docs/pull/465#issuecomment-3451107807) in [gofiber/docs](https://github.com/gofiber/docs)
+3. 💪 Opened PR [#1125](undefined) in [terrestris/shogun-util](https://github.com/terrestris/shogun-util)
+4. 💪 Opened PR [#465](undefined) in [gofiber/docs](https://github.com/gofiber/docs)
+5. 🗣 Commented on [#98](https://github.com/rapideditor/temaki/pull/98#issuecomment-3450942593) in [rapideditor/temaki](https://github.com/rapideditor/temaki)
 <!--END_SECTION:activity-->
 
 
