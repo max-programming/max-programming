@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#255](https://github.com/max-programming/hacktoberfest-projects/pull/255#issuecomment-3460533759) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 🗣 Commented on [#4914](https://github.com/marigold-ui/marigold/pull/4914#issuecomment-3456357239) in [marigold-ui/marigold](https://github.com/marigold-ui/marigold)
-3. 🗣 Commented on [#42](https://github.com/garronej/tsafe/pull/42#issuecomment-3455140237) in [garronej/tsafe](https://github.com/garronej/tsafe)
-4. ❌ Closed PR [#36345](undefined) in [Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
-5. 🗣 Commented on [#36345](https://github.com/Azure/azure-sdk-for-js/pull/36345#issuecomment-3452594285) in [Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
+1. 🗣 Commented on [#4914](https://github.com/marigold-ui/marigold/pull/4914#issuecomment-3461176168) in [marigold-ui/marigold](https://github.com/marigold-ui/marigold)
+2. 🗣 Commented on [#255](https://github.com/max-programming/hacktoberfest-projects/pull/255#issuecomment-3460533759) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#4914](https://github.com/marigold-ui/marigold/pull/4914#issuecomment-3456357239) in [marigold-ui/marigold](https://github.com/marigold-ui/marigold)
+4. 🗣 Commented on [#42](https://github.com/garronej/tsafe/pull/42#issuecomment-3455140237) in [garronej/tsafe](https://github.com/garronej/tsafe)
+5. ❌ Closed PR [#36345](undefined) in [Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js)
 <!--END_SECTION:activity-->
 
 
