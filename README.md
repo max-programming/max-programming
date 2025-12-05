@@ -21,9 +21,9 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#3310](undefined) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
-2. 💪 Opened PR [#3310](undefined) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
-3. 🗣 Commented on [#4914](https://github.com/marigold-ui/marigold/pull/4914#issuecomment-3461176168) in [marigold-ui/marigold](https://github.com/marigold-ui/marigold)
+1. ❌ Merged PR [#24](undefined) in [hainguyents13/mechvibes-dx](https://github.com/hainguyents13/mechvibes-dx)
+2. ❌ Merged PR [#3310](undefined) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
+3. 💪 Opened PR [#3310](undefined) in [pmndrs/zustand](https://github.com/pmndrs/zustand)
 4. 🗣 Commented on [#255](https://github.com/max-programming/hacktoberfest-projects/pull/255#issuecomment-3460533759) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 5. 🗣 Commented on [#4914](https://github.com/marigold-ui/marigold/pull/4914#issuecomment-3456357239) in [marigold-ui/marigold](https://github.com/marigold-ui/marigold)
 <!--END_SECTION:activity-->
