@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#73](undefined) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
-2. ❌ Merged PR [#69](undefined) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
-3. 💪 Opened PR [#73](undefined) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
-4. 🗣 Commented on [#26](https://github.com/agentset-ai/agentset/issues/26#issuecomment-3678655756) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
-5.  Labeled issue [#72](https://github.com/agentset-ai/agentset/issues/72) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
+1. 🔒 Closed issue [#72](https://github.com/agentset-ai/agentset/issues/72) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
+2. 🗣 Commented on [#77](https://github.com/agentset-ai/agentset/pull/77#issuecomment-3694532956) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
+3. ❌ Closed PR [#77](undefined) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
+4. ❌ Merged PR [#73](undefined) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
+5. ❌ Merged PR [#69](undefined) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
 <!--END_SECTION:activity-->
 
 
