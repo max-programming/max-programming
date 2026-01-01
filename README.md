@@ -23,9 +23,9 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#72](https://github.com/agentset-ai/agentset/issues/72) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
 2. 🗣 Commented on [#77](https://github.com/agentset-ai/agentset/pull/77#issuecomment-3694532956) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
-3. ❌ Closed PR [#77](undefined) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
-4. ❌ Merged PR [#73](undefined) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
-5. ❌ Merged PR [#69](undefined) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
+3. ❌ Closed PR [#77](https://github.com/agentset-ai/agentset/pull/77) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
+4. 🎉 Merged PR [#73](https://github.com/agentset-ai/agentset/pull/73) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
+5. 🎉 Merged PR [#69](https://github.com/agentset-ai/agentset/pull/69) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
 <!--END_SECTION:activity-->
 
 
