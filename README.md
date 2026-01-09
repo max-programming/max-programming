@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/max-programming/drizzle-query-logger/issues/6#issuecomment-3728501045) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-2. 🔒 Closed issue [#6](https://github.com/max-programming/drizzle-query-logger/issues/6) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
-3. 🔒 Closed issue [#72](https://github.com/agentset-ai/agentset/issues/72) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
-4. 🗣 Commented on [#77](https://github.com/agentset-ai/agentset/pull/77#issuecomment-3694532956) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
-5. ❌ Closed PR [#77](https://github.com/agentset-ai/agentset/pull/77) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
+1. 🔒 Closed issue [#247](https://github.com/max-programming/hacktoberfest-projects/issues/247) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. 🗣 Commented on [#247](https://github.com/max-programming/hacktoberfest-projects/issues/247#issuecomment-3729558175) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🗣 Commented on [#6](https://github.com/max-programming/drizzle-query-logger/issues/6#issuecomment-3728501045) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+4. 🔒 Closed issue [#6](https://github.com/max-programming/drizzle-query-logger/issues/6) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+5. 🔒 Closed issue [#72](https://github.com/agentset-ai/agentset/issues/72) in [agentset-ai/agentset](https://github.com/agentset-ai/agentset)
 <!--END_SECTION:activity-->
 
 
