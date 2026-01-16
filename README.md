@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11789](https://github.com/vercel/ai/pull/11789) in [vercel/ai](https://github.com/vercel/ai)
-2. 💪 Opened PR [#11789](https://github.com/vercel/ai/pull/11789) in [vercel/ai](https://github.com/vercel/ai)
-3. 🔒 Closed issue [#247](https://github.com/max-programming/hacktoberfest-projects/issues/247) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#247](https://github.com/max-programming/hacktoberfest-projects/issues/247#issuecomment-3729558175) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#6](https://github.com/max-programming/drizzle-query-logger/issues/6#issuecomment-3728501045) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+1. 💪 Opened PR [#665](https://github.com/TanStack/tanstack.com/pull/665) in [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
+2. 🎉 Merged PR [#11789](https://github.com/vercel/ai/pull/11789) in [vercel/ai](https://github.com/vercel/ai)
+3. 💪 Opened PR [#11789](https://github.com/vercel/ai/pull/11789) in [vercel/ai](https://github.com/vercel/ai)
+4. 🔒 Closed issue [#247](https://github.com/max-programming/hacktoberfest-projects/issues/247) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#247](https://github.com/max-programming/hacktoberfest-projects/issues/247#issuecomment-3729558175) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 
