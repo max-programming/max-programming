@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9457](https://github.com/shadcn-ui/ui/pull/9457) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-2. 💪 Opened PR [#9457](https://github.com/shadcn-ui/ui/pull/9457) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. 🎉 Merged PR [#665](https://github.com/elysiajs/documentation/pull/665) in [elysiajs/documentation](https://github.com/elysiajs/documentation)
-4. 💪 Opened PR [#665](https://github.com/TanStack/tanstack.com/pull/665) in [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
-5. 🎉 Merged PR [#11789](https://github.com/vercel/ai/pull/11789) in [vercel/ai](https://github.com/vercel/ai)
+1. 🗣 Commented on [#8598](https://github.com/anomalyco/opencode/issues/8598#issuecomment-3860768645) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+2. 🎉 Merged PR [#9457](https://github.com/shadcn-ui/ui/pull/9457) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+3. 💪 Opened PR [#9457](https://github.com/shadcn-ui/ui/pull/9457) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. 🎉 Merged PR [#665](https://github.com/elysiajs/documentation/pull/665) in [elysiajs/documentation](https://github.com/elysiajs/documentation)
+5. 💪 Opened PR [#665](https://github.com/TanStack/tanstack.com/pull/665) in [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
 <!--END_SECTION:activity-->
 
 
