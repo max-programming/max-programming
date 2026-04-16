@@ -21,7 +21,7 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8598](https://github.com/anomalyco/opencode/issues/8598#issuecomment-3860768645) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+1. 🗣 Commented on [#13738](https://github.com/anthropics/claude-code/issues/13738#issuecomment-4262484772) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 2. 🎉 Merged PR [#9457](https://github.com/shadcn-ui/ui/pull/9457) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 3. 💪 Opened PR [#9457](https://github.com/shadcn-ui/ui/pull/9457) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 4. 🎉 Merged PR [#665](https://github.com/elysiajs/documentation/pull/665) in [elysiajs/documentation](https://github.com/elysiajs/documentation)
