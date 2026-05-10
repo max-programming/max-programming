@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13738](https://github.com/anthropics/claude-code/issues/13738#issuecomment-4262484772) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-2. 🎉 Merged PR [#9457](https://github.com/shadcn-ui/ui/pull/9457) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. 💪 Opened PR [#9457](https://github.com/shadcn-ui/ui/pull/9457) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-4. 🎉 Merged PR [#665](https://github.com/elysiajs/documentation/pull/665) in [elysiajs/documentation](https://github.com/elysiajs/documentation)
-5. 💪 Opened PR [#665](https://github.com/TanStack/tanstack.com/pull/665) in [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
+1. 🔒 Closed issue [#364](https://github.com/JuliusBrussee/caveman/issues/364) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+2. 🗣 Commented on [#364](https://github.com/JuliusBrussee/caveman/issues/364#issuecomment-4415491838) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+3. ❌ Closed PR [#365](https://github.com/JuliusBrussee/caveman/pull/365) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+4. 🗣 Commented on [#365](https://github.com/JuliusBrussee/caveman/pull/365#issuecomment-4415491223) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+5. 💪 Opened PR [#365](https://github.com/JuliusBrussee/caveman/pull/365) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 <!--END_SECTION:activity-->
 
 
