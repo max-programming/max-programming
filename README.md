@@ -21,8 +21,8 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1282](https://github.com/iyear/tdl/pull/1282) in [iyear/tdl](https://github.com/iyear/tdl)
-2. 🗣 Commented on [#364](https://github.com/JuliusBrussee/caveman/issues/364#issuecomment-4415491838) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+1. 💪 Opened PR [#75188](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75188) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 💪 Opened PR [#1282](https://github.com/iyear/tdl/pull/1282) in [iyear/tdl](https://github.com/iyear/tdl)
 3. ❌ Closed PR [#365](https://github.com/JuliusBrussee/caveman/pull/365) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 4. 🗣 Commented on [#365](https://github.com/JuliusBrussee/caveman/pull/365#issuecomment-4415491223) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 5. 💪 Opened PR [#365](https://github.com/JuliusBrussee/caveman/pull/365) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
