@@ -21,10 +21,10 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75188](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75188#issuecomment-4859765485) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 💪 Opened PR [#75188](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75188) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 💪 Opened PR [#1282](https://github.com/iyear/tdl/pull/1282) in [iyear/tdl](https://github.com/iyear/tdl)
-4. 🗣 Commented on [#365](https://github.com/JuliusBrussee/caveman/pull/365#issuecomment-4415491223) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+1. 🗣 Commented on [#75188](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75188#issuecomment-4863191361) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+2. 🗣 Commented on [#75188](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75188#issuecomment-4859765485) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+3. 💪 Opened PR [#75188](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75188) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. 💪 Opened PR [#1282](https://github.com/iyear/tdl/pull/1282) in [iyear/tdl](https://github.com/iyear/tdl)
 5. 💪 Opened PR [#365](https://github.com/JuliusBrussee/caveman/pull/365) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
 <!--END_SECTION:activity-->
 
