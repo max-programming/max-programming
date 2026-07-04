@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75188](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75188#issuecomment-4863191361) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 🗣 Commented on [#75188](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75188#issuecomment-4859765485) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 💪 Opened PR [#75188](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75188) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. 💪 Opened PR [#1282](https://github.com/iyear/tdl/pull/1282) in [iyear/tdl](https://github.com/iyear/tdl)
-5. 💪 Opened PR [#365](https://github.com/JuliusBrussee/caveman/pull/365) in [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman)
+1. 💪 Opened PR [#2](https://github.com/clearoutio/clearout-node/pull/2) in [clearoutio/clearout-node](https://github.com/clearoutio/clearout-node)
+2. ❗ Opened issue [#1](https://github.com/clearoutio/clearout-node/issues/1) in [clearoutio/clearout-node](https://github.com/clearoutio/clearout-node)
+3. 🗣 Commented on [#75188](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75188#issuecomment-4863191361) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. 🗣 Commented on [#75188](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75188#issuecomment-4859765485) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+5. 💪 Opened PR [#75188](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75188) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 
