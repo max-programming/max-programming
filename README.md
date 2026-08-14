@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75286](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75286) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-2. 🗣 Commented on [#75286](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75286#issuecomment-5146966365) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-3. 💪 Opened PR [#75286](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75286) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. 🎉 Merged PR [#3](https://github.com/clearoutio/clearout-node/pull/3) in [clearoutio/clearout-node](https://github.com/clearoutio/clearout-node)
-5. 🎉 Merged PR [#2](https://github.com/clearoutio/clearout-node/pull/2) in [clearoutio/clearout-node](https://github.com/clearoutio/clearout-node)
+1. 🗣 Commented on [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256#issuecomment-5293389507) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. ℹ️ Assigned issue [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 🎉 Merged PR [#75286](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75286) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+4. 🗣 Commented on [#75286](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75286#issuecomment-5146966365) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+5. 💪 Opened PR [#75286](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75286) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
 <!--END_SECTION:activity-->
 
 
