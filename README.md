@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256#issuecomment-5293389507) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. ℹ️ Assigned issue [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🎉 Merged PR [#75286](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75286) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-4. 🗣 Commented on [#75286](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75286#issuecomment-5146966365) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
-5. 💪 Opened PR [#75286](https://github.com/DefinitelyTyped/DefinitelyTyped/pull/75286) in [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+1. 🔒 Closed issue [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+2. ❌ Closed PR [#255](https://github.com/max-programming/hacktoberfest-projects/pull/255) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. ❌ Closed PR [#254](https://github.com/max-programming/hacktoberfest-projects/pull/254) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🗣 Commented on [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256#issuecomment-5293389507) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. ℹ️ Assigned issue [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 
