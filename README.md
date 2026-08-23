@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. ❌ Closed PR [#255](https://github.com/max-programming/hacktoberfest-projects/pull/255) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. ❌ Closed PR [#254](https://github.com/max-programming/hacktoberfest-projects/pull/254) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🗣 Commented on [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256#issuecomment-5293389507) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. ℹ️ Assigned issue [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🎉 Merged PR [#1282](https://github.com/iyear/tdl/pull/1282) in [iyear/tdl](https://github.com/iyear/tdl)
+2. 🔒 Closed issue [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. ❌ Closed PR [#255](https://github.com/max-programming/hacktoberfest-projects/pull/255) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. ❌ Closed PR [#254](https://github.com/max-programming/hacktoberfest-projects/pull/254) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 🗣 Commented on [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256#issuecomment-5293389507) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 
