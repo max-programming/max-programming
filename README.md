@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1282](https://github.com/iyear/tdl/pull/1282) in [iyear/tdl](https://github.com/iyear/tdl)
-2. 🔒 Closed issue [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. ❌ Closed PR [#255](https://github.com/max-programming/hacktoberfest-projects/pull/255) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. ❌ Closed PR [#254](https://github.com/max-programming/hacktoberfest-projects/pull/254) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 🗣 Commented on [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256#issuecomment-5293389507) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#8118](https://github.com/shadcn-ui/ui/pull/8118#issuecomment-5654176548) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 🗣 Commented on [#8118](https://github.com/shadcn-ui/ui/pull/8118#issuecomment-5654175636) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+3. ❌ Closed PR [#8118](https://github.com/shadcn-ui/ui/pull/8118) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. 🎉 Merged PR [#1282](https://github.com/iyear/tdl/pull/1282) in [iyear/tdl](https://github.com/iyear/tdl)
+5. 🔒 Closed issue [#256](https://github.com/max-programming/hacktoberfest-projects/issues/256) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 
