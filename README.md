@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/max-programming/nuqs/pull/1) in [max-programming/nuqs](https://github.com/max-programming/nuqs)
-2. 🗣 Commented on [#1100](https://github.com/47ng/nuqs/pull/1100#issuecomment-5751200084) in [47ng/nuqs](https://github.com/47ng/nuqs)
-3. 💪 Opened PR [#1](https://github.com/max-programming/nuqs/pull/1) in [max-programming/nuqs](https://github.com/max-programming/nuqs)
-4. 🗣 Commented on [#8118](https://github.com/shadcn-ui/ui/pull/8118#issuecomment-5654176548) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-5. 🗣 Commented on [#8118](https://github.com/shadcn-ui/ui/pull/8118#issuecomment-5654175636) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+1. 🎉 Merged PR [#1100](https://github.com/47ng/nuqs/pull/1100) in [47ng/nuqs](https://github.com/47ng/nuqs)
+2. ❌ Closed PR [#1](https://github.com/max-programming/nuqs/pull/1) in [max-programming/nuqs](https://github.com/max-programming/nuqs)
+3. 🗣 Commented on [#1100](https://github.com/47ng/nuqs/pull/1100#issuecomment-5751200084) in [47ng/nuqs](https://github.com/47ng/nuqs)
+4. 💪 Opened PR [#1](https://github.com/max-programming/nuqs/pull/1) in [max-programming/nuqs](https://github.com/max-programming/nuqs)
+5. 🗣 Commented on [#8118](https://github.com/shadcn-ui/ui/pull/8118#issuecomment-5654176548) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 <!--END_SECTION:activity-->
 
 
