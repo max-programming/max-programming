@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#665](https://github.com/TanStack/tanstack.com/pull/665#issuecomment-5775040195) in [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
-2. ❌ Closed PR [#665](https://github.com/TanStack/tanstack.com/pull/665) in [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
-3. ❌ Closed PR [#1](https://github.com/max-programming/nextjs-toploader/pull/1) in [max-programming/nextjs-toploader](https://github.com/max-programming/nextjs-toploader)
-4. 🎉 Merged PR [#1100](https://github.com/47ng/nuqs/pull/1100) in [47ng/nuqs](https://github.com/47ng/nuqs)
-5. ❌ Closed PR [#1](https://github.com/max-programming/nuqs/pull/1) in [max-programming/nuqs](https://github.com/max-programming/nuqs)
+1. 💪 Opened PR [#1595](https://github.com/47ng/nuqs/pull/1595) in [47ng/nuqs](https://github.com/47ng/nuqs)
+2. ❌ Closed PR [#2](https://github.com/max-programming/nuqs/pull/2) in [max-programming/nuqs](https://github.com/max-programming/nuqs)
+3. 🗣 Commented on [#2](https://github.com/max-programming/nuqs/pull/2#issuecomment-5781362555) in [max-programming/nuqs](https://github.com/max-programming/nuqs)
+4. 💪 Opened PR [#2](https://github.com/max-programming/nuqs/pull/2) in [max-programming/nuqs](https://github.com/max-programming/nuqs)
+5. 🗣 Commented on [#665](https://github.com/TanStack/tanstack.com/pull/665#issuecomment-5775040195) in [TanStack/tanstack.com](https://github.com/TanStack/tanstack.com)
 <!--END_SECTION:activity-->
 
 
