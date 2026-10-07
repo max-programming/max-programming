@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1113](https://github.com/resend/resend-node/pull/1113) in [resend/resend-node](https://github.com/resend/resend-node)
-2. 💪 Opened PR [#1595](https://github.com/47ng/nuqs/pull/1595) in [47ng/nuqs](https://github.com/47ng/nuqs)
-3. ❌ Closed PR [#2](https://github.com/max-programming/nuqs/pull/2) in [max-programming/nuqs](https://github.com/max-programming/nuqs)
-4. 🗣 Commented on [#2](https://github.com/max-programming/nuqs/pull/2#issuecomment-5781362555) in [max-programming/nuqs](https://github.com/max-programming/nuqs)
-5. 💪 Opened PR [#2](https://github.com/max-programming/nuqs/pull/2) in [max-programming/nuqs](https://github.com/max-programming/nuqs)
+1. 💪 Opened PR [#1139](https://github.com/resend/resend-node/pull/1139) in [resend/resend-node](https://github.com/resend/resend-node)
+2. 🗣 Commented on [#1113](https://github.com/resend/resend-node/pull/1113#issuecomment-6028491667) in [resend/resend-node](https://github.com/resend/resend-node)
+3. 💪 Opened PR [#1113](https://github.com/resend/resend-node/pull/1113) in [resend/resend-node](https://github.com/resend/resend-node)
+4. 💪 Opened PR [#1595](https://github.com/47ng/nuqs/pull/1595) in [47ng/nuqs](https://github.com/47ng/nuqs)
+5. ❌ Closed PR [#2](https://github.com/max-programming/nuqs/pull/2) in [max-programming/nuqs](https://github.com/max-programming/nuqs)
 <!--END_SECTION:activity-->
 
 
