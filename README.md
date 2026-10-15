@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#259](https://github.com/max-programming/hacktoberfest-projects/pull/259) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-2. 💪 Opened PR [#259](https://github.com/max-programming/hacktoberfest-projects/pull/259) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 🎉 Merged PR [#258](https://github.com/max-programming/hacktoberfest-projects/pull/258) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 💪 Opened PR [#258](https://github.com/max-programming/hacktoberfest-projects/pull/258) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 💪 Opened PR [#1139](https://github.com/resend/resend-node/pull/1139) in [resend/resend-node](https://github.com/resend/resend-node)
+1. 🎉 Merged PR [#1139](https://github.com/resend/resend-node/pull/1139) in [resend/resend-node](https://github.com/resend/resend-node)
+2. 🎉 Merged PR [#259](https://github.com/max-programming/hacktoberfest-projects/pull/259) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+3. 💪 Opened PR [#259](https://github.com/max-programming/hacktoberfest-projects/pull/259) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+4. 🎉 Merged PR [#258](https://github.com/max-programming/hacktoberfest-projects/pull/258) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+5. 💪 Opened PR [#258](https://github.com/max-programming/hacktoberfest-projects/pull/258) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 
