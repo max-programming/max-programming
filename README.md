@@ -21,11 +21,11 @@ Hey there! I'm Usman, a full-stack web developer and content creator with a soli
   <summary>⚡ Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1139](https://github.com/resend/resend-node/pull/1139) in [resend/resend-node](https://github.com/resend/resend-node)
-2. 🎉 Merged PR [#259](https://github.com/max-programming/hacktoberfest-projects/pull/259) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-3. 💪 Opened PR [#259](https://github.com/max-programming/hacktoberfest-projects/pull/259) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-4. 🎉 Merged PR [#258](https://github.com/max-programming/hacktoberfest-projects/pull/258) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
-5. 💪 Opened PR [#258](https://github.com/max-programming/hacktoberfest-projects/pull/258) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
+1. 🗣 Commented on [#7](https://github.com/max-programming/drizzle-query-logger/pull/7#issuecomment-6554644629) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+2. ❌ Closed PR [#7](https://github.com/max-programming/drizzle-query-logger/pull/7) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+3. 🔒 Closed issue [#11](https://github.com/max-programming/drizzle-query-logger/issues/11) in [max-programming/drizzle-query-logger](https://github.com/max-programming/drizzle-query-logger)
+4. 🎉 Merged PR [#1139](https://github.com/resend/resend-node/pull/1139) in [resend/resend-node](https://github.com/resend/resend-node)
+5. 🎉 Merged PR [#259](https://github.com/max-programming/hacktoberfest-projects/pull/259) in [max-programming/hacktoberfest-projects](https://github.com/max-programming/hacktoberfest-projects)
 <!--END_SECTION:activity-->
 
 
